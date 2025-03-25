@@ -1,10 +1,10 @@
 {
   "id": "1b3859ed-4dae-55f2-ac97-9502b2aa52d2",
   "category": "Marketing",
-  "thumbnailUrl": "assets/thumbnails/1b3859ed-4dae-55f2-ac97-9502b2aa52d2.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/1b3859ed-4dae-55f2-ac97-9502b2aa52d2.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Brand Survey Form Template",

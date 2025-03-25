@@ -1,10 +1,10 @@
 {
   "id": "a9a1c6d4-df48-5c93-b828-9f3a4b69fd86",
   "category": "Questionnaire & Quiz",
-  "thumbnailUrl": "assets/thumbnails/a9a1c6d4-df48-5c93-b828-9f3a4b69fd86.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/a9a1c6d4-df48-5c93-b828-9f3a4b69fd86.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Physical Activity Questionnaire Template",

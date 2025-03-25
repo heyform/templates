@@ -1,10 +1,10 @@
 {
   "id": "62b5e8e6-92cd-574a-8977-3b0254246d68",
   "category": "Contact",
-  "thumbnailUrl": "assets/thumbnails/62b5e8e6-92cd-574a-8977-3b0254246d68.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/62b5e8e6-92cd-574a-8977-3b0254246d68.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Personal Information Form Template",

@@ -1,10 +1,10 @@
 {
   "id": "7b5b2cf9-e073-52c8-99b2-0c8e4e02f73f",
   "category": "Survey",
-  "thumbnailUrl": "assets/thumbnails/7b5b2cf9-e073-52c8-99b2-0c8e4e02f73f.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/7b5b2cf9-e073-52c8-99b2-0c8e4e02f73f.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Website Survey Template",

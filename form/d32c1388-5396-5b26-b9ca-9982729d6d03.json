@@ -1,10 +1,10 @@
 {
   "id": "d32c1388-5396-5b26-b9ca-9982729d6d03",
   "category": "Education",
-  "thumbnailUrl": "assets/thumbnails/d32c1388-5396-5b26-b9ca-9982729d6d03.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/d32c1388-5396-5b26-b9ca-9982729d6d03.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Alumni Opinion Survey Template",

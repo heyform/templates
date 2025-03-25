@@ -1,10 +1,10 @@
 {
   "id": "6565feb8-acf5-5c7c-84fe-876171b3ed0c",
   "category": "Employee & Job",
-  "thumbnailUrl": "assets/thumbnails/6565feb8-acf5-5c7c-84fe-876171b3ed0c.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/6565feb8-acf5-5c7c-84fe-876171b3ed0c.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Resume Upload Form Template",

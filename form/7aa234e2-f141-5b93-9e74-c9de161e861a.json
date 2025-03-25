@@ -1,10 +1,10 @@
 {
   "id": "7aa234e2-f141-5b93-9e74-c9de161e861a",
   "category": "Employee & Job",
-  "thumbnailUrl": "assets/thumbnails/7aa234e2-f141-5b93-9e74-c9de161e861a.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/7aa234e2-f141-5b93-9e74-c9de161e861a.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Department Performance Survey",

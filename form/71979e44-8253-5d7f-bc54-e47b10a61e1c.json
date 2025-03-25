@@ -1,10 +1,10 @@
 {
   "id": "71979e44-8253-5d7f-bc54-e47b10a61e1c",
   "category": "Covid-19",
-  "thumbnailUrl": "assets/thumbnails/71979e44-8253-5d7f-bc54-e47b10a61e1c.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/71979e44-8253-5d7f-bc54-e47b10a61e1c.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "COVID-19 Patient Checklist Form Template",

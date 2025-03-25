@@ -1,10 +1,10 @@
 {
   "id": "925a34a1-6c43-5a55-8c66-fa4291f2c66a",
   "category": "Survey",
-  "thumbnailUrl": "assets/thumbnails/925a34a1-6c43-5a55-8c66-fa4291f2c66a.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/925a34a1-6c43-5a55-8c66-fa4291f2c66a.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Work Placement Survey Template",

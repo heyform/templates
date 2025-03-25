@@ -1,10 +1,10 @@
 {
   "id": "a42b6b8e-3b3c-5735-992c-2779d4b46c5d",
   "category": "Contact",
-  "thumbnailUrl": "assets/thumbnails/a42b6b8e-3b3c-5735-992c-2779d4b46c5d.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/a42b6b8e-3b3c-5735-992c-2779d4b46c5d.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Opt-In Form Template",

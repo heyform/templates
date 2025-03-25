@@ -1,10 +1,10 @@
 {
   "id": "ad3a7c55-5c27-59d5-b68b-ba5de9f57ae2",
   "category": "Application",
-  "thumbnailUrl": "assets/thumbnails/ad3a7c55-5c27-59d5-b68b-ba5de9f57ae2.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/ad3a7c55-5c27-59d5-b68b-ba5de9f57ae2.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "GDPR Request Form Template",

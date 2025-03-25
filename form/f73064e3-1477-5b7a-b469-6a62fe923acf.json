@@ -1,10 +1,10 @@
 {
   "id": "f73064e3-1477-5b7a-b469-6a62fe923acf",
   "category": "Healthcare",
-  "thumbnailUrl": "assets/thumbnails/f73064e3-1477-5b7a-b469-6a62fe923acf.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/f73064e3-1477-5b7a-b469-6a62fe923acf.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Medical Release Form Template",

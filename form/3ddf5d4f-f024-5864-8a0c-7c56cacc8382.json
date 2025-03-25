@@ -1,10 +1,10 @@
 {
   "id": "3ddf5d4f-f024-5864-8a0c-7c56cacc8382",
   "category": "Booking & Order",
-  "thumbnailUrl": "assets/thumbnails/3ddf5d4f-f024-5864-8a0c-7c56cacc8382.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/3ddf5d4f-f024-5864-8a0c-7c56cacc8382.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Hostel Reservation Form Template",

@@ -1,10 +1,10 @@
 {
   "id": "94d51d0d-8a33-569c-b5b8-efa230bbacb9",
   "category": "Creators",
-  "thumbnailUrl": "assets/thumbnails/94d51d0d-8a33-569c-b5b8-efa230bbacb9.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/94d51d0d-8a33-569c-b5b8-efa230bbacb9.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Content Feedback Form",

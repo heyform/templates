@@ -1,10 +1,10 @@
 {
   "id": "653a2c6d-f447-5d2e-8392-6179e0fcce6b",
   "category": "Healthcare",
-  "thumbnailUrl": "assets/thumbnails/653a2c6d-f447-5d2e-8392-6179e0fcce6b.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/653a2c6d-f447-5d2e-8392-6179e0fcce6b.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Medical Consent Form Template",

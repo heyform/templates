@@ -1,10 +1,10 @@
 {
   "id": "252610ba-c991-51c0-b4db-d35e0455899b",
   "category": "Booking & Order",
-  "thumbnailUrl": "assets/thumbnails/252610ba-c991-51c0-b4db-d35e0455899b.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/252610ba-c991-51c0-b4db-d35e0455899b.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Restaurant Order form Template",

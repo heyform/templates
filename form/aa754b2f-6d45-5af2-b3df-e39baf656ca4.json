@@ -1,10 +1,10 @@
 {
   "id": "aa754b2f-6d45-5af2-b3df-e39baf656ca4",
   "category": "Donation & Charity",
-  "thumbnailUrl": "assets/thumbnails/aa754b2f-6d45-5af2-b3df-e39baf656ca4.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/aa754b2f-6d45-5af2-b3df-e39baf656ca4.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Charitable Donation Form Template",

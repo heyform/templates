@@ -1,10 +1,10 @@
 {
   "id": "89fffc91-41dc-581a-a353-9c886454d9c5",
   "category": "Booking & Order",
-  "thumbnailUrl": "assets/thumbnails/89fffc91-41dc-581a-a353-9c886454d9c5.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/89fffc91-41dc-581a-a353-9c886454d9c5.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Resort Booking Form Template",

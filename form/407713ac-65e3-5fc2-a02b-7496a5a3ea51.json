@@ -1,10 +1,10 @@
 {
   "id": "407713ac-65e3-5fc2-a02b-7496a5a3ea51",
   "category": "Request",
-  "thumbnailUrl": "assets/thumbnails/407713ac-65e3-5fc2-a02b-7496a5a3ea51.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/407713ac-65e3-5fc2-a02b-7496a5a3ea51.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Support Request Form Template",

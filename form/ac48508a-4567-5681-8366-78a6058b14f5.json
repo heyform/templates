@@ -1,10 +1,10 @@
 {
   "id": "ac48508a-4567-5681-8366-78a6058b14f5",
   "category": "Booking & Order",
-  "thumbnailUrl": "assets/thumbnails/ac48508a-4567-5681-8366-78a6058b14f5.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/ac48508a-4567-5681-8366-78a6058b14f5.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Appointment Request Form Template",

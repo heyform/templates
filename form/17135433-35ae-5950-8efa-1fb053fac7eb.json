@@ -1,10 +1,10 @@
 {
   "id": "17135433-35ae-5950-8efa-1fb053fac7eb",
   "category": "Education",
-  "thumbnailUrl": "assets/thumbnails/17135433-35ae-5950-8efa-1fb053fac7eb.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/17135433-35ae-5950-8efa-1fb053fac7eb.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Student Survey Template",

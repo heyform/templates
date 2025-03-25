@@ -1,10 +1,10 @@
 {
   "id": "c3fe5afe-f047-5e55-8890-6b9df6c512e4",
   "category": "Creators",
-  "thumbnailUrl": "assets/thumbnails/c3fe5afe-f047-5e55-8890-6b9df6c512e4.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/c3fe5afe-f047-5e55-8890-6b9df6c512e4.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Project Submission Form",

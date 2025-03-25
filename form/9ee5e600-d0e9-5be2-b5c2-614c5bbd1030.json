@@ -1,10 +1,10 @@
 {
   "id": "9ee5e600-d0e9-5be2-b5c2-614c5bbd1030",
   "category": "Marketing",
-  "thumbnailUrl": "assets/thumbnails/9ee5e600-d0e9-5be2-b5c2-614c5bbd1030.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/9ee5e600-d0e9-5be2-b5c2-614c5bbd1030.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Product Research Survey Template",

@@ -1,10 +1,10 @@
 {
   "id": "cc6f5e6a-4bfd-5638-85a1-5fda6f0ab36a",
   "category": "Covid-19",
-  "thumbnailUrl": "assets/thumbnails/cc6f5e6a-4bfd-5638-85a1-5fda6f0ab36a.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/cc6f5e6a-4bfd-5638-85a1-5fda6f0ab36a.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "COVID-19 Declaration Form Template",

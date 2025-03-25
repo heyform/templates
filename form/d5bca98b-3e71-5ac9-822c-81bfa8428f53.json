@@ -1,10 +1,10 @@
 {
   "id": "d5bca98b-3e71-5ac9-822c-81bfa8428f53",
   "category": "Request",
-  "thumbnailUrl": "assets/thumbnails/d5bca98b-3e71-5ac9-822c-81bfa8428f53.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/d5bca98b-3e71-5ac9-822c-81bfa8428f53.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Service Request Form Template",

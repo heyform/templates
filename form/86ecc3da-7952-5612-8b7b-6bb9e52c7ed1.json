@@ -1,10 +1,10 @@
 {
   "id": "86ecc3da-7952-5612-8b7b-6bb9e52c7ed1",
   "category": "Marketing",
-  "thumbnailUrl": "assets/thumbnails/86ecc3da-7952-5612-8b7b-6bb9e52c7ed1.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/86ecc3da-7952-5612-8b7b-6bb9e52c7ed1.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Referral Form Template",

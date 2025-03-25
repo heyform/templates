@@ -1,10 +1,10 @@
 {
   "id": "b02e7428-9f77-5cb1-8c07-023488adcdd9",
   "category": "Employee & Job",
-  "thumbnailUrl": "assets/thumbnails/b02e7428-9f77-5cb1-8c07-023488adcdd9.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/b02e7428-9f77-5cb1-8c07-023488adcdd9.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "The Employee of the Year Polls",

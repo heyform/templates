@@ -1,10 +1,10 @@
 {
   "id": "1db8db6c-f497-58a4-b4b8-4aacbe238cf3",
   "category": "Lead Generation",
-  "thumbnailUrl": "assets/thumbnails/1db8db6c-f497-58a4-b4b8-4aacbe238cf3.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/1db8db6c-f497-58a4-b4b8-4aacbe238cf3.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Testimonial Form Template",

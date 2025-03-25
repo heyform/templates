@@ -1,10 +1,10 @@
 {
   "id": "e13834e8-74cb-5f00-8699-88d76c0463a2",
   "category": "Education",
-  "thumbnailUrl": "assets/thumbnails/e13834e8-74cb-5f00-8699-88d76c0463a2.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/e13834e8-74cb-5f00-8699-88d76c0463a2.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Teacher Recommendation Form",

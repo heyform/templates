@@ -1,10 +1,10 @@
 {
   "id": "755ac6c7-9bf6-55a0-a4dd-5a4cdba8aeb2",
   "category": "Healthcare",
-  "thumbnailUrl": "assets/thumbnails/755ac6c7-9bf6-55a0-a4dd-5a4cdba8aeb2.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/755ac6c7-9bf6-55a0-a4dd-5a4cdba8aeb2.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "New Patient Registration Form Template",

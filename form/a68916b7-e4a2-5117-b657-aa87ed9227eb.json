@@ -1,10 +1,10 @@
 {
   "id": "a68916b7-e4a2-5117-b657-aa87ed9227eb",
   "category": "Event",
-  "thumbnailUrl": "assets/thumbnails/a68916b7-e4a2-5117-b657-aa87ed9227eb.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/a68916b7-e4a2-5117-b657-aa87ed9227eb.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Event Feedback Form Template",

@@ -1,10 +1,10 @@
 {
   "id": "b9c06b89-1741-5bcd-ba8c-f27a6843ba65",
   "category": "Feedback",
-  "thumbnailUrl": "assets/thumbnails/b9c06b89-1741-5bcd-ba8c-f27a6843ba65.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/b9c06b89-1741-5bcd-ba8c-f27a6843ba65.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Movie Feedback Survey Template",

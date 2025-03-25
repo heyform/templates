@@ -1,10 +1,10 @@
 {
   "id": "7e7e8fa8-0b88-5d65-bb04-692f02ff0096",
   "category": "Marketing",
-  "thumbnailUrl": "assets/thumbnails/7e7e8fa8-0b88-5d65-bb04-692f02ff0096.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/7e7e8fa8-0b88-5d65-bb04-692f02ff0096.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Client Profile Form Template",

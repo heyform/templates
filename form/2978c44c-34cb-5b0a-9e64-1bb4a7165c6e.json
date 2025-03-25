@@ -1,10 +1,10 @@
 {
   "id": "2978c44c-34cb-5b0a-9e64-1bb4a7165c6e",
   "category": "Survey",
-  "thumbnailUrl": "assets/thumbnails/2978c44c-34cb-5b0a-9e64-1bb4a7165c6e.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/2978c44c-34cb-5b0a-9e64-1bb4a7165c6e.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Product Survey Form Template",

@@ -1,10 +1,10 @@
 {
   "id": "56007e39-cfa9-5272-b449-9c8c43daa977",
   "category": "Request",
-  "thumbnailUrl": "assets/thumbnails/56007e39-cfa9-5272-b449-9c8c43daa977.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/56007e39-cfa9-5272-b449-9c8c43daa977.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Maintenance Request Form Template",

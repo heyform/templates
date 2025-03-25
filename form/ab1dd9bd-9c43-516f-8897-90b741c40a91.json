@@ -1,10 +1,10 @@
 {
   "id": "ab1dd9bd-9c43-516f-8897-90b741c40a91",
   "category": "Education",
-  "thumbnailUrl": "assets/thumbnails/ab1dd9bd-9c43-516f-8897-90b741c40a91.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/ab1dd9bd-9c43-516f-8897-90b741c40a91.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Student Attendance Form Template",

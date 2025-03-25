@@ -1,10 +1,10 @@
 {
   "id": "15d95338-25d2-5e75-8dbf-d87104b99294",
   "category": "IT",
-  "thumbnailUrl": "assets/thumbnails/15d95338-25d2-5e75-8dbf-d87104b99294.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/15d95338-25d2-5e75-8dbf-d87104b99294.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Hardware Request Form",

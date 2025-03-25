@@ -1,10 +1,10 @@
 {
   "id": "5203d73d-09d6-559d-9fa8-0cb91ec919b0",
   "category": "Customer Support",
-  "thumbnailUrl": "assets/thumbnails/5203d73d-09d6-559d-9fa8-0cb91ec919b0.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/5203d73d-09d6-559d-9fa8-0cb91ec919b0.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Bug Report Form Template",

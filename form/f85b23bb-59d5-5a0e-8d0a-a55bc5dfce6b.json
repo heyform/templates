@@ -1,10 +1,10 @@
 {
   "id": "f85b23bb-59d5-5a0e-8d0a-a55bc5dfce6b",
   "category": "Application",
-  "thumbnailUrl": "assets/thumbnails/f85b23bb-59d5-5a0e-8d0a-a55bc5dfce6b.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/f85b23bb-59d5-5a0e-8d0a-a55bc5dfce6b.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Exit Interview Form Template",

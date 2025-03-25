@@ -1,10 +1,10 @@
 {
   "id": "03d9d061-c75f-5360-9701-714c8c4bddab",
   "category": "Employee & Job",
-  "thumbnailUrl": "assets/thumbnails/03d9d061-c75f-5360-9701-714c8c4bddab.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/03d9d061-c75f-5360-9701-714c8c4bddab.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Employee Complaint Form",

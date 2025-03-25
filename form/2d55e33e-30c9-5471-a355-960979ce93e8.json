@@ -1,10 +1,10 @@
 {
   "id": "2d55e33e-30c9-5471-a355-960979ce93e8",
   "category": "Feedback",
-  "thumbnailUrl": "assets/thumbnails/2d55e33e-30c9-5471-a355-960979ce93e8.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/2d55e33e-30c9-5471-a355-960979ce93e8.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Substitute Feedback Form",

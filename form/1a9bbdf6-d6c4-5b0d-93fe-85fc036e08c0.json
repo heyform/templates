@@ -1,10 +1,10 @@
 {
   "id": "1a9bbdf6-d6c4-5b0d-93fe-85fc036e08c0",
   "category": "Marketing",
-  "thumbnailUrl": "assets/thumbnails/1a9bbdf6-d6c4-5b0d-93fe-85fc036e08c0.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/1a9bbdf6-d6c4-5b0d-93fe-85fc036e08c0.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Event Registration Form",

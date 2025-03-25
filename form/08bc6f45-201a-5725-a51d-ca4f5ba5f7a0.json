@@ -1,10 +1,10 @@
 {
   "id": "08bc6f45-201a-5725-a51d-ca4f5ba5f7a0",
   "category": "Registration",
-  "thumbnailUrl": "assets/thumbnails/08bc6f45-201a-5725-a51d-ca4f5ba5f7a0.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/08bc6f45-201a-5725-a51d-ca4f5ba5f7a0.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Dog Training Form Template",

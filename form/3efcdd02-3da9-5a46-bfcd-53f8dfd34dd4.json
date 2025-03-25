@@ -1,10 +1,10 @@
 {
   "id": "3efcdd02-3da9-5a46-bfcd-53f8dfd34dd4",
   "category": "Event",
-  "thumbnailUrl": "assets/thumbnails/3efcdd02-3da9-5a46-bfcd-53f8dfd34dd4.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/3efcdd02-3da9-5a46-bfcd-53f8dfd34dd4.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Event Satisfaction Survey Template",

@@ -1,10 +1,10 @@
 {
   "id": "d4627e8d-abdc-5598-91cc-cf02ad904739",
   "category": "Booking & Order",
-  "thumbnailUrl": "assets/thumbnails/d4627e8d-abdc-5598-91cc-cf02ad904739.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/d4627e8d-abdc-5598-91cc-cf02ad904739.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Tour Reservation Form Template",

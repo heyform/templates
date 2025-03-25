@@ -1,10 +1,10 @@
 {
   "id": "4d3656e0-8328-550a-ac40-bc2062b824bc",
   "category": "Creators",
-  "thumbnailUrl": "assets/thumbnails/4d3656e0-8328-550a-ac40-bc2062b824bc.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/4d3656e0-8328-550a-ac40-bc2062b824bc.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Workshop Registration Form",

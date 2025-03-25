@@ -1,10 +1,10 @@
 {
   "id": "51fb7242-3202-53a8-8056-875445f15335",
   "category": "Registration",
-  "thumbnailUrl": "assets/thumbnails/51fb7242-3202-53a8-8056-875445f15335.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/51fb7242-3202-53a8-8056-875445f15335.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Club Membership Registration Form",

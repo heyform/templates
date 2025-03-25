@@ -3,7 +3,7 @@
   "category": "Healthcare",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "DNA Test Application Form Template",
@@ -365,5 +365,6 @@
       "backgroundImage": "https://forms.b-cdn.net/K5iTvYrT2jdsjTslCAsI6_DNA%20TEST.jpg",
       "backgroundBrightness": 85
     }
-  }
+  },
+  "thumbnailUrl": "https://heyform.github.io/templates/undefined"
 }

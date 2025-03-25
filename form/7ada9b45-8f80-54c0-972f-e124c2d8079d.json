@@ -1,10 +1,10 @@
 {
   "id": "7ada9b45-8f80-54c0-972f-e124c2d8079d",
   "category": "Employee & Job",
-  "thumbnailUrl": "assets/thumbnails/7ada9b45-8f80-54c0-972f-e124c2d8079d.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/7ada9b45-8f80-54c0-972f-e124c2d8079d.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Employee Referral Form Template",

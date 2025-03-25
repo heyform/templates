@@ -1,10 +1,10 @@
 {
   "id": "0165a86e-8782-575b-a303-0b4bc2c7fe24",
   "category": "Covid-19",
-  "thumbnailUrl": "assets/thumbnails/0165a86e-8782-575b-a303-0b4bc2c7fe24.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/0165a86e-8782-575b-a303-0b4bc2c7fe24.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "COVID-19 Vaccination Form Template",

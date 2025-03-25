@@ -1,10 +1,10 @@
 {
   "id": "61968bd8-c1a4-56a1-84fb-72d491e80f6b",
   "category": "Education",
-  "thumbnailUrl": "assets/thumbnails/61968bd8-c1a4-56a1-84fb-72d491e80f6b.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/61968bd8-c1a4-56a1-84fb-72d491e80f6b.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "School Safety Questionnaire Template",

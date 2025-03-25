@@ -1,10 +1,10 @@
 {
   "id": "a8ae803a-54a6-52ff-9f9d-a5814b3f70dc",
   "category": "Business",
-  "thumbnailUrl": "assets/thumbnails/a8ae803a-54a6-52ff-9f9d-a5814b3f70dc.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/a8ae803a-54a6-52ff-9f9d-a5814b3f70dc.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Free Client Consultation Template",

@@ -1,10 +1,10 @@
 {
   "id": "b36f5d27-b3b0-56c6-9f6f-aa2b34653f36",
   "category": "Education",
-  "thumbnailUrl": "assets/thumbnails/b36f5d27-b3b0-56c6-9f6f-aa2b34653f36.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/b36f5d27-b3b0-56c6-9f6f-aa2b34653f36.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Teacher Feedback Form",

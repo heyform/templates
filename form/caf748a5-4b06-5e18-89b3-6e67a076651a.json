@@ -1,10 +1,10 @@
 {
   "id": "caf748a5-4b06-5e18-89b3-6e67a076651a",
   "category": "Marketing",
-  "thumbnailUrl": "assets/thumbnails/caf748a5-4b06-5e18-89b3-6e67a076651a.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/caf748a5-4b06-5e18-89b3-6e67a076651a.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Client Satisfaction Survey Template",

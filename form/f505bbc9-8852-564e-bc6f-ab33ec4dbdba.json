@@ -1,10 +1,10 @@
 {
   "id": "f505bbc9-8852-564e-bc6f-ab33ec4dbdba",
   "category": "Survey",
-  "thumbnailUrl": "assets/thumbnails/f505bbc9-8852-564e-bc6f-ab33ec4dbdba.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/f505bbc9-8852-564e-bc6f-ab33ec4dbdba.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Self Assessment Survey Template",

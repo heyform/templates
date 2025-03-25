@@ -1,10 +1,10 @@
 {
   "id": "1fa2b385-3b44-51e4-b5ad-78f2f0de9809",
   "category": "Application",
-  "thumbnailUrl": "assets/thumbnails/1fa2b385-3b44-51e4-b5ad-78f2f0de9809.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/1fa2b385-3b44-51e4-b5ad-78f2f0de9809.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Scholarship Application Form Template",

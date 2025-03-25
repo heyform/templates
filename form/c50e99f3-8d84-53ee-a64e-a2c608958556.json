@@ -1,10 +1,10 @@
 {
   "id": "c50e99f3-8d84-53ee-a64e-a2c608958556",
   "category": "Booking & Order",
-  "thumbnailUrl": "assets/thumbnails/1abb55a5-966e-5646-845c-17aa6ee546bd.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/1abb55a5-966e-5646-845c-17aa6ee546bd.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Plant/Seed Booking Form Template",

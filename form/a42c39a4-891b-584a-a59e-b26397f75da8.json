@@ -1,10 +1,10 @@
 {
   "id": "a42c39a4-891b-584a-a59e-b26397f75da8",
   "category": "Poll",
-  "thumbnailUrl": "assets/thumbnails/a42c39a4-891b-584a-a59e-b26397f75da8.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/a42c39a4-891b-584a-a59e-b26397f75da8.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Straw Poll Template",

@@ -1,10 +1,10 @@
 {
   "id": "46061e1a-898e-5c48-ae78-3a769df4f9da",
   "category": "Event",
-  "thumbnailUrl": "assets/thumbnails/46061e1a-898e-5c48-ae78-3a769df4f9da.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/46061e1a-898e-5c48-ae78-3a769df4f9da.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Wedding RSVP Form Template",

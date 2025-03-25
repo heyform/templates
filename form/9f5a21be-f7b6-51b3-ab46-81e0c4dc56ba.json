@@ -1,10 +1,10 @@
 {
   "id": "9f5a21be-f7b6-51b3-ab46-81e0c4dc56ba",
   "category": "Application",
-  "thumbnailUrl": "assets/thumbnails/9f5a21be-f7b6-51b3-ab46-81e0c4dc56ba.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/9f5a21be-f7b6-51b3-ab46-81e0c4dc56ba.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "School Withdrawal Form Template",

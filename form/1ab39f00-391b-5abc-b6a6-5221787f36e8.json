@@ -1,10 +1,10 @@
 {
   "id": "1ab39f00-391b-5abc-b6a6-5221787f36e8",
   "category": "Application",
-  "thumbnailUrl": "assets/thumbnails/1ab39f00-391b-5abc-b6a6-5221787f36e8.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/1ab39f00-391b-5abc-b6a6-5221787f36e8.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Subsidy Application Form Template",

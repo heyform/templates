@@ -1,10 +1,10 @@
 {
   "id": "f7c6ca78-65f1-5427-89e3-863a0141a35b",
   "category": "Lead Generation",
-  "thumbnailUrl": "assets/thumbnails/f7c6ca78-65f1-5427-89e3-863a0141a35b.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/f7c6ca78-65f1-5427-89e3-863a0141a35b.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "New Client Onboarding Form Template",

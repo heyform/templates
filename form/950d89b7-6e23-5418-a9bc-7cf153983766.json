@@ -1,10 +1,10 @@
 {
   "id": "950d89b7-6e23-5418-a9bc-7cf153983766",
   "category": "Creators",
-  "thumbnailUrl": "assets/thumbnails/950d89b7-6e23-5418-a9bc-7cf153983766.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/950d89b7-6e23-5418-a9bc-7cf153983766.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Collaboration Proposal Form",

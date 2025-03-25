@@ -1,10 +1,10 @@
 {
   "id": "1004495c-9f7e-5076-b590-52d51960a918",
   "category": "Registration",
-  "thumbnailUrl": "assets/thumbnails/1004495c-9f7e-5076-b590-52d51960a918.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/1004495c-9f7e-5076-b590-52d51960a918.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Course Registration Form",

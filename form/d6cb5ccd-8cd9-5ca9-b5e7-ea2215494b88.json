@@ -1,10 +1,10 @@
 {
   "id": "d6cb5ccd-8cd9-5ca9-b5e7-ea2215494b88",
   "category": "Booking & Order",
-  "thumbnailUrl": "assets/thumbnails/d6cb5ccd-8cd9-5ca9-b5e7-ea2215494b88.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/d6cb5ccd-8cd9-5ca9-b5e7-ea2215494b88.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Product Order Form Template",

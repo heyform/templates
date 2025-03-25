@@ -1,10 +1,10 @@
 {
   "id": "5fe19e0e-5244-5274-9b16-9ed0ce942718",
   "category": "Remote Working",
-  "thumbnailUrl": "assets/thumbnails/5fe19e0e-5244-5274-9b16-9ed0ce942718.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/5fe19e0e-5244-5274-9b16-9ed0ce942718.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Remote Employee Management Form",

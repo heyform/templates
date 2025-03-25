@@ -1,10 +1,10 @@
 {
   "id": "a7fb9fe0-2706-561c-84eb-f799f54855d1",
   "category": "Poll",
-  "thumbnailUrl": "assets/thumbnails/a7fb9fe0-2706-561c-84eb-f799f54855d1.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/a7fb9fe0-2706-561c-84eb-f799f54855d1.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Exam Date Poll Template",

@@ -1,10 +1,10 @@
 {
   "id": "b8c65f56-8989-5238-8da4-ac806c31e139",
   "category": "Healthcare",
-  "thumbnailUrl": "assets/thumbnails/b8c65f56-8989-5238-8da4-ac806c31e139.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/b8c65f56-8989-5238-8da4-ac806c31e139.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Medical Insurance Application Template",

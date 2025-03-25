@@ -1,10 +1,10 @@
 {
   "id": "c5a47b18-f3e6-59d7-9b98-b6f07e42ff4b",
   "category": "Booking & Order",
-  "thumbnailUrl": "assets/thumbnails/c5a47b18-f3e6-59d7-9b98-b6f07e42ff4b.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/c5a47b18-f3e6-59d7-9b98-b6f07e42ff4b.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Hotel Reservation Form Template",

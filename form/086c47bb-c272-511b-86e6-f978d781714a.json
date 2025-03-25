@@ -1,10 +1,10 @@
 {
   "id": "086c47bb-c272-511b-86e6-f978d781714a",
   "category": "Healthcare",
-  "thumbnailUrl": "assets/thumbnails/086c47bb-c272-511b-86e6-f978d781714a.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/086c47bb-c272-511b-86e6-f978d781714a.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Doctor Appointment Booking Form Template",

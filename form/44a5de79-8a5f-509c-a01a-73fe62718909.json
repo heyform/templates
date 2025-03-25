@@ -1,10 +1,10 @@
 {
   "id": "44a5de79-8a5f-509c-a01a-73fe62718909",
   "category": "Healthcare",
-  "thumbnailUrl": "assets/thumbnails/44a5de79-8a5f-509c-a01a-73fe62718909.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/44a5de79-8a5f-509c-a01a-73fe62718909.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Family Therapy Intake Form Template",

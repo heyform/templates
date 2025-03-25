@@ -1,10 +1,10 @@
 {
   "id": "1f70d5f2-86e4-5ee4-b22d-01eb5ce0d636",
   "category": "Healthcare",
-  "thumbnailUrl": "assets/thumbnails/1f70d5f2-86e4-5ee4-b22d-01eb5ce0d636.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/1f70d5f2-86e4-5ee4-b22d-01eb5ce0d636.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Patient Health Questionnaire Template",

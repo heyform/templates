@@ -1,10 +1,10 @@
 {
   "id": "f72e3df0-eb7d-50db-8300-32b688bb6cca",
   "category": "Customer Support",
-  "thumbnailUrl": "assets/thumbnails/f72e3df0-eb7d-50db-8300-32b688bb6cca.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/f72e3df0-eb7d-50db-8300-32b688bb6cca.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Technical Support Form",

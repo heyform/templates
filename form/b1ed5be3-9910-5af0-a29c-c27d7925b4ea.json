@@ -1,10 +1,10 @@
 {
   "id": "b1ed5be3-9910-5af0-a29c-c27d7925b4ea",
   "category": "Application",
-  "thumbnailUrl": "assets/thumbnails/b1ed5be3-9910-5af0-a29c-c27d7925b4ea.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/b1ed5be3-9910-5af0-a29c-c27d7925b4ea.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Volunteer Application Form Template",

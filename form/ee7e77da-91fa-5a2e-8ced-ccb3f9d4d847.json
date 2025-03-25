@@ -1,10 +1,10 @@
 {
   "id": "ee7e77da-91fa-5a2e-8ced-ccb3f9d4d847",
   "category": "IT",
-  "thumbnailUrl": "assets/thumbnails/ee7e77da-91fa-5a2e-8ced-ccb3f9d4d847.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/ee7e77da-91fa-5a2e-8ced-ccb3f9d4d847.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "IT Service Ticket Form",

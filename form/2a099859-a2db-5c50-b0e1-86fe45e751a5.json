@@ -1,10 +1,10 @@
 {
   "id": "2a099859-a2db-5c50-b0e1-86fe45e751a5",
   "category": "Employee & Job",
-  "thumbnailUrl": "assets/thumbnails/2a099859-a2db-5c50-b0e1-86fe45e751a5.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/2a099859-a2db-5c50-b0e1-86fe45e751a5.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Employee Engagement Survey Template",

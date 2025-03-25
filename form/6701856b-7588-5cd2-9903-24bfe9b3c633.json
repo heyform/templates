@@ -1,10 +1,10 @@
 {
   "id": "6701856b-7588-5cd2-9903-24bfe9b3c633",
   "category": "Poll",
-  "thumbnailUrl": "assets/thumbnails/6701856b-7588-5cd2-9903-24bfe9b3c633.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/6701856b-7588-5cd2-9903-24bfe9b3c633.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Voting Form Template",

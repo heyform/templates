@@ -1,10 +1,10 @@
 {
   "id": "0218c671-d335-5268-bd02-ac5d94bb6cbb",
   "category": "Marketing",
-  "thumbnailUrl": "assets/thumbnails/0218c671-d335-5268-bd02-ac5d94bb6cbb.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/0218c671-d335-5268-bd02-ac5d94bb6cbb.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Demographic Survey Template",

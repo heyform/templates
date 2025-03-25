@@ -1,10 +1,10 @@
 {
   "id": "97edf29b-a055-5a05-8402-984f8a5b5ee0",
   "category": "Booking & Order",
-  "thumbnailUrl": "assets/thumbnails/97edf29b-a055-5a05-8402-984f8a5b5ee0.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/97edf29b-a055-5a05-8402-984f8a5b5ee0.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Online Food Order Form Template",

@@ -1,10 +1,10 @@
 {
   "id": "1e82affd-9a19-5bc2-8bbe-74b67c1a8066",
   "category": "Survey",
-  "thumbnailUrl": "assets/thumbnails/1e82affd-9a19-5bc2-8bbe-74b67c1a8066.png",
+  "thumbnailUrl": "https://heyform.github.io/templates/assets/thumbnails/1e82affd-9a19-5bc2-8bbe-74b67c1a8066.png",
   "creator": {
     "name": "HeyForm",
-    "avatarUrl": "assets/icons/heyform.png",
+    "avatarUrl": "https://heyform.github.io/templates/assets/icons/heyform.png",
     "url": "https://heyform.net"
   },
   "name": "Follow Up Survey Template",
