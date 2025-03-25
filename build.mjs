@@ -58,10 +58,13 @@ async function processJsonFiles() {
 
       const id = uuid(file.relativePath);
 
+      data.thumbnailUrl = `https://heyform.github.io/templates/` + data.thumbnailUrl
+      data.creator.avatarUrl = `https://heyform.github.io/templates/` + data.creator.avatarUrl
+
       const formJSON = {
         id,
         category: file.category,
-        ...data,
+        ...data
       };
 
       listAll.push(formJSON);
@@ -100,8 +103,12 @@ async function processJsonFiles() {
           <title>HeyForm Templates</title>
         </head>
         <body>
-          <ul>
-            ${listSummary.map((item) => `<li><a href="/form/${item.id}.json">${item.name}</a></li>`).join("\n")}
+          <a href="/templates/list_all.json">List All</a>
+          <a href="/templates/list_summary.json">List Summary</a>
+
+          <h1>HeyForm Templates</h1>
+          <ul style="display: flex; flex-wrap: wrap; gap: 20px;">
+            ${listSummary.map((item) => `<li style="width: 200px;"><a href="/templates/form/${item.id}.json">${item.thumbnailUrl ? `<img src="${item.thumbnailUrl}" style="aspect-ratio: 16 / 9; width: 200px;" />` : ''}${item.name}</a></li>`).join("\n")}
           </ul>
         </body>
       </html>
