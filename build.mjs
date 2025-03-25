@@ -39,7 +39,8 @@ async function findJsonFiles(directory) {
 }
 
 async function processJsonFiles() {
-  const list = [];
+  const listAll = [];
+  const listSummary = [];
 
   try {
     const templatesDir = path.resolve("./templates");
@@ -63,7 +64,14 @@ async function processJsonFiles() {
         ...data,
       };
 
-      list.push(formJSON);
+      listAll.push(formJSON);
+      listSummary.push({
+        id,
+        name: data.name,
+        category: file.category,
+        thumbnailUrl: data.thumbnailUrl,
+        creator: data.creator,
+      })
 
       // Write the JSON file to the dist directory
       await fs.writeFile(
@@ -73,8 +81,13 @@ async function processJsonFiles() {
     }
 
     await fs.writeFile(
-      path.resolve(`./dist/index.json`),
-      JSON.stringify(list, null, 2),
+      path.resolve(`./dist/list_all.json`),
+      JSON.stringify(listAll, null, 2),
+    );
+
+    await fs.writeFile(
+      path.resolve(`./dist/list_summary.json`),
+      JSON.stringify(listSummary, null, 2),
     );
 
     await fs.writeFile(
@@ -88,7 +101,7 @@ async function processJsonFiles() {
         </head>
         <body>
           <ul>
-            ${list.map((item) => `<li><a href="/form/${item.id}.json">${item.name}</a></li>`).join("")}
+            ${listSummary.map((item) => `<li><a href="/form/${item.id}.json">${item.name}</a></li>`).join("\n")}
           </ul>
         </body>
       </html>
