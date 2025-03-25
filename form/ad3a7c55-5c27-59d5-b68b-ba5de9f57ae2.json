@@ -1,0 +1,122 @@
+{
+  "id": "ad3a7c55-5c27-59d5-b68b-ba5de9f57ae2",
+  "category": "Application",
+  "thumbnailUrl": "assets/thumbnails/ad3a7c55-5c27-59d5-b68b-ba5de9f57ae2.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "GDPR Request Form Template",
+  "fields": [
+    {
+      "id": "bxzUVwvGAbp6",
+      "title": "Are you a person or a company?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "OIo7SZbabcrP",
+      "kind": "text"
+    },
+    {
+      "id": "MMGiQIw6QJc5",
+      "title": "What's your full name?",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "RlZKGYgg54XA",
+      "kind": "text"
+    },
+    {
+      "id": "JNaDuhyF1H8L",
+      "title": "Email address (we don't share your email address, ever)",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "UBKL9Tahf3o5",
+      "kind": "text"
+    },
+    {
+      "id": "1HBBgdMbvLxP",
+      "title": "What is your GDPR related request?",
+      "kind": "dropdown",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "N8ogPLXE0wTo",
+            "label": "I want you to delete my personal data"
+          },
+          {
+            "id": "N3Nvk0nb3rCS",
+            "label": "I want you to transfer the data to me or a third party"
+          },
+          {
+            "id": "AroSzalNJEdq",
+            "label": "I want to know how you are using my personal information"
+          },
+          {
+            "id": "gnxgLgKdVEwZ",
+            "label": "I want to rectify incorrect data you have about me"
+          },
+          {
+            "id": "3ZlymRpNU716",
+            "label": "I want you to stop using my data for direct marketing and profiling"
+          },
+          {
+            "id": "xA5EFmyizxLN",
+            "label": "I want to keep my data, but to stop processing it"
+          },
+          {
+            "id": "kSAV6h6EW4zH",
+            "label": "I want to object to the way that you are using my personal information"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jzBwDZDyATsU",
+      "kind": "text"
+    },
+    {
+      "id": "rzZY9JudoSQy",
+      "title": "Other information details",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "0E45uiHdWXsC",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/VeVMSmJDiBOMZiYSdhAJR_GDPR%20Request%20Form%20Template.jpg",
+      "backgroundBrightness": 76
+    }
+  }
+}

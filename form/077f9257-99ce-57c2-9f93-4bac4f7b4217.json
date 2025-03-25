@@ -1,0 +1,147 @@
+{
+  "id": "077f9257-99ce-57c2-9f93-4bac4f7b4217",
+  "category": "Marketing",
+  "thumbnailUrl": "assets/thumbnails/077f9257-99ce-57c2-9f93-4bac4f7b4217.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Product Branding Form",
+  "fields": [
+    {
+      "id": "JA4zVSjZjytZ",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "BlDJR8OaeXVa",
+      "kind": "text"
+    },
+    {
+      "id": "XMfWAO2F3Y6A",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "81j7b29BbMg5",
+      "kind": "text"
+    },
+    {
+      "id": "VWD4cjXjoMqK",
+      "title": "Contact",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "OtCiKAcSIfbh",
+      "kind": "text"
+    },
+    {
+      "id": "9Eq5Wji2qwXW",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "bLULDfcoGcHk",
+      "kind": "text"
+    },
+    {
+      "id": "EU7KIK3mmRXT",
+      "title": "Where did you purchase",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "dkLGbd0mRLiD",
+      "kind": "text"
+    },
+    {
+      "id": "jkB9WWuEaPpn",
+      "title": "Serial Number",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "sRqPdNJAR9ot",
+      "kind": "text"
+    },
+    {
+      "id": "yeG8QbH7LtYa",
+      "title": "Date of purchase",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "w8a6w8m1aLJM",
+      "kind": "text"
+    },
+    {
+      "id": "9Xl8nHarUafU",
+      "title": "Suggestions From Your Side",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "voF4LsEyHcoA",
+      "kind": "text"
+    },
+    {
+      "id": "VdHEol5IkxWg",
+      "title": "Review",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "tvKNPdhymTBn",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/forms/Product-Branding.png",
+      "backgroundBrightness": 27
+    }
+  }
+}

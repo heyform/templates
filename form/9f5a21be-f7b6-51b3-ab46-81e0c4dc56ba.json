@@ -1,0 +1,545 @@
+{
+  "id": "9f5a21be-f7b6-51b3-ab46-81e0c4dc56ba",
+  "category": "Application",
+  "thumbnailUrl": "assets/thumbnails/9f5a21be-f7b6-51b3-ab46-81e0c4dc56ba.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "School Withdrawal Form Template",
+  "fields": [
+    {
+      "id": "QY5j0qtP0rd7",
+      "title": "School",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "xjdYS2mmLhKN",
+      "kind": "text"
+    },
+    {
+      "id": "SXZqcnRxTR6y",
+      "title": "Teacher",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "6gewGXmxqooX",
+      "kind": "text"
+    },
+    {
+      "id": "suijhxWx6Sxj",
+      "title": "Student's Name",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "0jjP8omXjh4I",
+      "kind": "text"
+    },
+    {
+      "id": "mmd3QjZgMve0",
+      "title": "Gender",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "oOyrmaHdZWhO",
+            "label": "Male",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "opNLtQThkbAT",
+            "label": "Female",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "vGikKHx0VdA3",
+      "kind": "text"
+    },
+    {
+      "id": "tifdPUVyPV9b",
+      "title": "Standard",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "zLEiPyG3gs2S",
+      "kind": "text"
+    },
+    {
+      "id": "Vo7LUxRkB3Eo",
+      "title": "Date of Birth",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "d7ivGRN611QI",
+      "kind": "text"
+    },
+    {
+      "id": "sA2oDTs1WXsN",
+      "title": "Parent/Guardian Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "aCoxCb3MYGcB",
+      "kind": "text"
+    },
+    {
+      "id": "a8AWvwoxkXPE",
+      "title": "Telephone",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "NexObkiOXyVz",
+      "kind": "text"
+    },
+    {
+      "id": "3fraP6j7ta1d",
+      "title": "Forwarding Address",
+      "description": null,
+      "kind": "address",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "5dj9Z30HLlAS",
+      "kind": "text"
+    },
+    {
+      "id": "iR3bFWrANpHL",
+      "title": "Reason for Withdrawal",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "lZMq8bHH8Ygw",
+            "label": "Transfer to Another County School",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "cl6GHgwZCxdJ",
+            "label": "Transfer to Private School",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qPsh9lfbD0z1",
+            "label": "Transfer to Another School in same Country",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "285bY23PBuqo",
+            "label": "Transfer Out of State",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Ur6MaUhFC9Ea",
+            "label": "Transfer Out of the United States - Name of Country‎",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "P932DP2flHBp",
+            "label": "Home School",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "mTjjgKVY12nK",
+            "label": "This student has an active IEP, and is receiving Special Education services.",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "a4h2S9qj9HFh",
+            "label": "This student has a 504 Plan.",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "W0NdlUjSiKXk",
+      "kind": "text"
+    },
+    {
+      "id": "RI5M5Tijr03U",
+      "title": "Parent/Guardian Signature",
+      "description": null,
+      "kind": "file_upload",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "jQulVG2JB5CH",
+      "kind": "text"
+    },
+    {
+      "id": "GDiEO4Qex08t",
+      "title": "Date",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "CFg9o9Bnh2xl",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#3B82F6",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?q=80&w=2673&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "backgroundBrightness": 88
+    }
+  }
+}

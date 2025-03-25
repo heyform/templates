@@ -1,0 +1,391 @@
+{
+  "id": "b36f5d27-b3b0-56c6-9f6f-aa2b34653f36",
+  "category": "Education",
+  "thumbnailUrl": "assets/thumbnails/b36f5d27-b3b0-56c6-9f6f-aa2b34653f36.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Teacher Feedback Form",
+  "fields": [
+    {
+      "id": "4f0CrIKUcz7b",
+      "title": "Student Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "oME1sMp5mWTf",
+      "kind": "text"
+    },
+    {
+      "id": "JScvZlLrtHVO",
+      "title": "Teacher / Instructor Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "7Hx3yT4jpWNi",
+      "kind": "text"
+    },
+    {
+      "id": "cqNJ5SwqOV9o",
+      "title": "Subject ",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "cWHvKJSZALJz",
+      "kind": "text"
+    },
+    {
+      "id": "KD4coPlR7Fm9",
+      "title": "Choice the appropriate quality of your Instructor",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "ILYGYLL6H68R",
+            "label": "Punctuality in the Class",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "nHzUMw0PET52",
+            "label": "Creating a physical environment that engages all students",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "iFeIqafhRHGH",
+            "label": "Engaging & supporting all students in learning",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Q1pYWIJsLki7",
+            "label": "Involving and guiding all students in assessing their own learning",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "PIn0acfQMyJh",
+      "kind": "text"
+    },
+    {
+      "id": "uXQu3idrX41v",
+      "title": "The subject objectives were clearly articulated",
+      "description": null,
+      "kind": "rating",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": "star",
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "h9tWGp5TM44f",
+      "kind": "text"
+    },
+    {
+      "id": "XOg21nPwIFCR",
+      "title": "The instructor makes learning interesting",
+      "description": null,
+      "kind": "rating",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": "star",
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "NZqHxBIjpMWr",
+      "kind": "text"
+    },
+    {
+      "id": "ghmsFVtNJTVH",
+      "title": "The instructor was available to help students outside of class time",
+      "description": null,
+      "kind": "rating",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": "star",
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "j13XpmExxUY1",
+      "kind": "text"
+    },
+    {
+      "id": "9X9PhRhGQwIJ",
+      "title": "The evaluation methods used, were fair.",
+      "description": null,
+      "kind": "rating",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": "star",
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "0QkIr4u7FsOH",
+      "kind": "text"
+    },
+    {
+      "id": "wdKTY6ezCTBO",
+      "title": "Comments or Feedbacks, if any.",
+      "description": null,
+      "kind": "paragraph",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Nw3GVDx72rqz",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1600880291298-8481039492bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwyfHx0ZWFjaGVyJTIwRmVlZGJhY2t8ZW58MHx8fHwxNjUwNzkyMzU2&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 47
+    }
+  }
+}

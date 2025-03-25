@@ -1,0 +1,188 @@
+{
+  "id": "c3fe5afe-f047-5e55-8890-6b9df6c512e4",
+  "category": "Creators",
+  "thumbnailUrl": "assets/thumbnails/c3fe5afe-f047-5e55-8890-6b9df6c512e4.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Project Submission Form",
+  "fields": [
+    {
+      "id": "dBYI9XG0PiGG",
+      "title": [
+        [
+          "b",
+          [
+            "Submit Your Project Proposal"
+          ]
+        ]
+      ],
+      "description": [
+        "Thank you for your interest in submitting a project proposal. Please fill out this form with as much detail as possible so we can understand your project and consider it for approval. This form should take about 5-10 minutes to complete."
+      ],
+      "kind": "statement",
+      "validations": {
+        "required": false
+      },
+      "properties": null,
+      "layout": {}
+    },
+    {
+      "id": "yaV6vrKP7QPY",
+      "title": [
+        "Your name"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "zAAaelwJU4FW",
+      "title": [
+        "Your email"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "rWNNpCqcT8t7",
+      "title": [
+        "Project title"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "1yiX7e7LZ5Vs",
+      "title": [
+        "Project description"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "WD4FTDbcRAeG",
+      "title": [
+        "Project goals"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "5kAypwKHcIU7",
+      "title": [
+        "Expected outcomes"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "YHOWuPBFNIvI",
+      "title": [
+        "Target audience"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "TkIImJvgCKBh",
+      "title": [
+        "Timeline for completion"
+      ],
+      "description": [],
+      "kind": "date_range",
+      "validations": {},
+      "properties": {
+        "format": "MM/DD/YYYY",
+        "allowTime": false
+      }
+    },
+    {
+      "id": "hOFHcxAxe3IR",
+      "title": [
+        "Budget requirements"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "bA6eGlhUuLZT",
+      "title": [
+        "Resources needed"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "SPSyVWP77Cbb",
+      "title": [
+        "Team members (if any)"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "SZxMbYggjKVB",
+      "title": [
+        "Previous related work (if any)"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "MzDI19kDMXPV",
+      "title": [
+        "Additional information or comments"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "0SUkBGPfUz5R",
+      "title": [
+        [
+          "b",
+          [
+            "Thank you!"
+          ]
+        ]
+      ],
+      "description": [
+        "We appreciate you taking the time to share your project with us. We will review your submission and get back to you as soon as possible."
+      ],
+      "kind": "thank_you",
+      "validations": null,
+      "properties": null,
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": []
+}

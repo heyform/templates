@@ -1,0 +1,140 @@
+{
+  "id": "86ecc3da-7952-5612-8b7b-6bb9e52c7ed1",
+  "category": "Marketing",
+  "thumbnailUrl": "assets/thumbnails/86ecc3da-7952-5612-8b7b-6bb9e52c7ed1.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Referral Form Template",
+  "fields": [
+    {
+      "id": "5R8o78iKAL5K",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "D2Iwe4skkXQn",
+      "kind": "text"
+    },
+    {
+      "id": "aliFQMBOgi5S",
+      "title": "Email ID",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "gWttZc7ryYeG",
+      "kind": "text"
+    },
+    {
+      "id": "820TeAmYKcbU",
+      "title": "Phone Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "0jn4NQog46AJ",
+      "kind": "text"
+    },
+    {
+      "id": "xHQZSgRsH7HH",
+      "title": "Birth Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "9YSDsADVRcR5",
+      "kind": "text"
+    },
+    {
+      "id": "eEfhVIQoBqq5",
+      "title": "Age",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "QG010kArVg3U",
+      "kind": "text"
+    },
+    {
+      "id": "sEuKZARvacRz",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "WNa7HRfaT32S",
+      "kind": "text"
+    },
+    {
+      "id": "WXHzvQn3yZrG",
+      "title": "Reason for referral",
+      "kind": "dropdown",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "cP75WkL3V05S",
+            "label": "Opinion"
+          },
+          {
+            "id": "hrymTjaqIdWJ",
+            "label": "For fun"
+          },
+          {
+            "id": "1ai29iDGJFqt",
+            "label": "Educate"
+          },
+          {
+            "id": "XQIaiyQpzhe4",
+            "label": "Share"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Jc2d6Ws7rSqS",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1648298588772-9b77ccef5c25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHw1ODU3fHxoZCUyMHdhbGxwYXBlcnN8ZW58MHx8fHwxNjUwNzgzOTI5&ixlib=rb-1.2.1&q=80&w=1080",
+      "backgroundBrightness": 0
+    }
+  }
+}

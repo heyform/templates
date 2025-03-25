@@ -1,0 +1,212 @@
+{
+  "id": "3b6f9efb-a7de-5f6b-9b58-4088cf92852e",
+  "category": "Feedback",
+  "thumbnailUrl": "assets/thumbnails/3b6f9efb-a7de-5f6b-9b58-4088cf92852e.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Customer Feedback Survey Template",
+  "fields": [
+    {
+      "id": "qzhvkUCzFz68",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "8g3bhYzcFdA0",
+      "kind": "text"
+    },
+    {
+      "id": "mcph4uXjnHxD",
+      "title": "Email Address",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "v8C7cWNMzWid",
+      "kind": "text"
+    },
+    {
+      "id": "741JfKzmp2uY",
+      "title": "How would you rate the (support/service/onboarding/product) experience?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "PDeyz4WfxdSJ",
+      "kind": "text"
+    },
+    {
+      "id": "CGFjvLeaGzuu",
+      "title": "What is the main reason for your score?",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "sMFaUZAtzyR8",
+      "kind": "text"
+    },
+    {
+      "id": "t7LlHrDR4ULK",
+      "title": "Is there anything you would like to add? We love feedback!",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Xg76SJ6TZid1",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#000",
+      "answerTextColor": "#020617",
+      "buttonBackground": "#020617",
+      "buttonTextColor": "#fff",
+      "backgroundColor": "#fff"
+    }
+  }
+}

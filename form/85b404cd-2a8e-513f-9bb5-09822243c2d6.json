@@ -1,0 +1,355 @@
+{
+  "id": "85b404cd-2a8e-513f-9bb5-09822243c2d6",
+  "category": "Application",
+  "thumbnailUrl": "assets/thumbnails/85b404cd-2a8e-513f-9bb5-09822243c2d6.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Agriculture Subsidy Application Form Template",
+  "fields": [
+    {
+      "id": "38zj6UlXR2EC",
+      "title": "Aadhar Number",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "b8DS1M2PUJr9",
+      "kind": "text"
+    },
+    {
+      "id": "kQsyJOAaYxkl",
+      "title": "Application Number",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "SI8X7gWmkHUf",
+      "kind": "text"
+    },
+    {
+      "id": "KUOyX7Zp5GtX",
+      "title": "Farmer's Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "0t3mRwsba8bX",
+      "kind": "text"
+    },
+    {
+      "id": "1X36yV8rw9h6",
+      "title": "Father/Husband's Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ToFxGzF3FX7b",
+      "kind": "text"
+    },
+    {
+      "id": "m9SPNi5Xl6ws",
+      "title": "Land Details Survey Number",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ANuimALUDePt",
+      "kind": "text"
+    },
+    {
+      "id": "Pwr1QYK2Jpf3",
+      "title": "Extent of Land Medicinal Plant Cultivated",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "pXQvyMuwVDg5",
+      "kind": "text"
+    },
+    {
+      "id": "sdLfm5iDxaaq",
+      "title": "State",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "iRgZS2bAlDQt",
+      "kind": "text"
+    },
+    {
+      "id": "97KUHNDK2JtH",
+      "title": "District",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "1Z6TOYSYWsrH",
+      "kind": "text"
+    },
+    {
+      "id": "0fYhHJy2bHPY",
+      "title": "Mandal",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "aSACxmmlHASR",
+      "kind": "text"
+    },
+    {
+      "id": "jsWRAraE67d3",
+      "title": "Village/Ward",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "1Knud1DNlWMn",
+      "kind": "text"
+    },
+    {
+      "id": "uEae8clxrayI",
+      "title": "Name of the Cluster Group",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "kOM9B7IJL2iS",
+      "kind": "text"
+    },
+    {
+      "id": "6CNCREI0krww",
+      "title": "Name of the Species",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "84lKfMBjlJxg",
+      "kind": "text"
+    },
+    {
+      "id": "6AVWifC7ZmO6",
+      "title": "Bank Account Number",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "B1AFq4axeKL8",
+      "kind": "text"
+    },
+    {
+      "id": "1YFD9qxJnf8d",
+      "title": "Name of the Bank",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "63DHHRs2nlE0",
+      "kind": "text"
+    },
+    {
+      "id": "UTHQSK2dFSit",
+      "title": "IFSC Code",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9HTxYCCHdk3N",
+      "kind": "text"
+    },
+    {
+      "id": "jftlUw39iaeX",
+      "title": "Branch",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "4iHUu60WnFUn",
+      "kind": "text"
+    },
+    {
+      "id": "uTkvQcyBtVkz",
+      "title": "Caste Category",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "M7GKrDZErym7",
+            "label": "SC"
+          },
+          {
+            "id": "BcFyY92xGa06",
+            "label": "ST"
+          },
+          {
+            "id": "Sc0zDVlTlMY3",
+            "label": "OBC"
+          },
+          {
+            "id": "XhEByI7UiydX",
+            "label": "General"
+          }
+        ]
+      }
+    },
+    {
+      "id": "RmTz1nQuLgR1",
+      "kind": "text"
+    },
+    {
+      "id": "loTqdya4jE1n",
+      "title": "Financial Assistance Obtained Previously",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "eonkieAkWdoG",
+            "label": "Yes"
+          },
+          {
+            "id": "LOBQuGyEhBH4",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wu5xWtjaDoym",
+      "kind": "text"
+    },
+    {
+      "id": "HO0sFQawMB1s",
+      "title": "Pin Code",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "iyo2O3yNlihr",
+      "kind": "text"
+    },
+    {
+      "id": "TZV3Y1VTFfae",
+      "title": "Mobile Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "CjbHwgSi0iVo",
+      "kind": "text"
+    },
+    {
+      "id": "V9oLM8ZmRF9w",
+      "title": "Whether Land is Own or Leased",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "rnmSux9iUCrp",
+            "label": "Yes"
+          },
+          {
+            "id": "xOoj6njKJOEq",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aSp4pd3MTwaa",
+      "kind": "text"
+    },
+    {
+      "id": "sDYi5TM7ijPO",
+      "title": "Any Other Information",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "gPiJKT6dk2Ug",
+      "kind": "text"
+    },
+    {
+      "id": "asuO1Qn0sDE7",
+      "title": "Email Address",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "3NB0i4oXRl15",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#3B82F6",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/NHw0TQxqvwJrRogPeBh4d_Subsidy%20Application%20Form%20Template.jpg",
+      "backgroundBrightness": 88
+    }
+  }
+}

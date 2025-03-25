@@ -1,0 +1,314 @@
+{
+  "id": "94d51d0d-8a33-569c-b5b8-efa230bbacb9",
+  "category": "Creators",
+  "thumbnailUrl": "assets/thumbnails/94d51d0d-8a33-569c-b5b8-efa230bbacb9.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Content Feedback Form",
+  "fields": [
+    {
+      "id": "785PCYPPWLtL",
+      "title": [
+        [
+          "b",
+          [
+            "We value your thoughts on our content!"
+          ]
+        ]
+      ],
+      "description": [
+        "Thank you for taking the time to provide your feedback.",
+        [
+          "div",
+          [
+            "This form should take about 5-10 minutes to complete. Please be as honest and detailed as possible in your responses."
+          ]
+        ]
+      ],
+      "kind": "statement",
+      "validations": {
+        "required": false
+      },
+      "properties": {
+        "buttonText": "Start"
+      },
+      "layout": {}
+    },
+    {
+      "id": "DyNrLoR1rYuM",
+      "title": [
+        "What type of content are you providing feedback on?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowOther": true,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "GrcKaRiNI80j",
+            "label": "Video"
+          },
+          {
+            "id": "ZwMhO1uVI2Jw",
+            "label": "Blog Post"
+          },
+          {
+            "id": "XnEW6IYejcWd",
+            "label": "Podcast"
+          },
+          {
+            "id": "OTOm9fKkAOFp",
+            "label": "Social Media Post"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "QTvdbDD1PfUk",
+      "title": [
+        "How would you rate the overall quality of the content?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {},
+      "properties": {
+        "total": 5,
+        "leftLabel": "Poor",
+        "centerLabel": "Average",
+        "rightLabel": "Excellent"
+      },
+      "layout": null
+    },
+    {
+      "id": "f1d0E0JrSC3u",
+      "title": [
+        "What did you like most about the content?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "setCvPnxfTzX",
+      "title": [
+        "What did you dislike about the content?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "pvUcPUnsz3Y1",
+      "title": [
+        "How engaging did you find the content?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {},
+      "properties": {
+        "total": 5,
+        "leftLabel": "Not Engaging",
+        "centerLabel": "Neutral",
+        "rightLabel": "Very Engaging"
+      },
+      "layout": null
+    },
+    {
+      "id": "z0mGAlXj4nuF",
+      "title": [
+        "Was the content length appropriate?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "XzFg1PJNgG2L",
+            "label": "Too Short"
+          },
+          {
+            "id": "k2PwIbY64BKV",
+            "label": "Just Right"
+          },
+          {
+            "id": "032bPSkGIOLJ",
+            "label": "Too Long"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "2sHTCwKYeolg",
+      "title": [
+        "Did you find the content informative?"
+      ],
+      "description": [],
+      "kind": "yes_no",
+      "validations": {},
+      "properties": {
+        "choices": [
+          {
+            "id": "MgBlMj9fuyCa",
+            "label": "Yes"
+          },
+          {
+            "id": "cykv1zsgOHXU",
+            "label": "No"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "83AyRVv2AA2O",
+      "title": [
+        "What could be improved in the content?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "5ZRAe9GE8kfm",
+      "title": [
+        "Would you like to see more content on this topic?"
+      ],
+      "description": [],
+      "kind": "yes_no",
+      "validations": {},
+      "properties": {
+        "choices": [
+          {
+            "id": "yVrjnMDdQcMD",
+            "label": "Yes"
+          },
+          {
+            "id": "6MgWBuGrzDyQ",
+            "label": "No"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "qtc8zoDHjZJA",
+      "title": [
+        "How likely are you to share this content with others?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {},
+      "properties": {
+        "total": 5,
+        "leftLabel": "Very Unlikely",
+        "centerLabel": "Neutral",
+        "rightLabel": "Very Likely"
+      },
+      "layout": null
+    },
+    {
+      "id": "svCvECQzs1Dz",
+      "title": [
+        "Do you have any additional comments or suggestions?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "Nul9T4WaueuW",
+      "title": [
+        "How did you discover this content?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowOther": true,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "RssL0jS3Mb6z",
+            "label": "Social Media"
+          },
+          {
+            "id": "Tor7SgkVbufi",
+            "label": "Newsletter"
+          },
+          {
+            "id": "0w0XCxtviw0I",
+            "label": "Website"
+          },
+          {
+            "id": "MSY7oxmb43xt",
+            "label": "Friend/Referral"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "CrCYBnKRkkTO",
+      "title": [
+        [
+          "b",
+          [
+            "Thank you for your feedback!"
+          ]
+        ]
+      ],
+      "description": [
+        "We appreciate you taking the time to share your thoughts with us.&nbsp;",
+        [
+          "div",
+          [
+            [
+              "span",
+              [
+                "If you have any further comments or questions, feel free to contact us. Have a great day!"
+              ],
+              {
+                "style": "color: var(--heyform-description-color); font-size: 1.125rem; background-color: rgb(255 255 255 / var(--tw-bg-opacity)); font-family: var(--heyform-font-family);"
+              }
+            ]
+          ]
+        ]
+      ],
+      "kind": "thank_you",
+      "validations": null,
+      "properties": null,
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#020617",
+      "answerTextColor": "#0445AF",
+      "buttonBackground": "#020617",
+      "buttonTextColor": "#fff",
+      "backgroundColor": "#fff"
+    }
+  }
+}

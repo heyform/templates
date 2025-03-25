@@ -1,0 +1,298 @@
+{
+  "id": "9ee5e600-d0e9-5be2-b5c2-614c5bbd1030",
+  "category": "Marketing",
+  "thumbnailUrl": "assets/thumbnails/9ee5e600-d0e9-5be2-b5c2-614c5bbd1030.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Product Research Survey Template",
+  "fields": [
+    {
+      "id": "UbkPkYjN7f2n",
+      "title": [
+        "Welcome to Our Market Research Survey!"
+      ],
+      "description": [
+        "Thank you for participating! Your feedback is essential in helping us understand your needs and preferences better. The survey will take about 5-8 minutes to complete. Let's get started!"
+      ],
+      "kind": "welcome",
+      "validations": {},
+      "properties": {
+        "buttonText": "Start"
+      }
+    },
+    {
+      "id": "2eULBwgMCtph",
+      "title": [
+        "What should we call you?"
+      ],
+      "description": [],
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      },
+      "layout": null
+    },
+    {
+      "id": "FhVJNXqfKV5X",
+      "title": [
+        "What is your email address?"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      },
+      "layout": null
+    },
+    {
+      "id": "aCVmGZ0TCtJA",
+      "title": [
+        " What type of work do you do?"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "SpHw2J8kqJff",
+      "title": [
+        "How would you rate your overall satisfaction with the products/services in this industry?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "QnzXElDj0KxQ",
+            "label": "Just me"
+          },
+          {
+            "id": "n6buQhlzvzTM",
+            "label": "1 to 10"
+          },
+          {
+            "id": "D0cxxj0ESrn5",
+            "label": "11 to 50"
+          },
+          {
+            "id": "r2zf1TIbQ5yh",
+            "label": "51 to 250"
+          },
+          {
+            "id": "H8iMnoDJrnxk",
+            "label": "More than 250"
+          }
+        ],
+        "total": 5,
+        "leftLabel": "Very Dissatisfied",
+        "rightLabel": "Very Satisfied"
+      },
+      "layout": null
+    },
+    {
+      "id": "kCyksqemVDnd",
+      "title": [
+        "What is the most important factor you consider while making a purchase?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "duBCPiMFasyi",
+            "label": "Price"
+          },
+          {
+            "id": "wvfJ22sgMTLy",
+            "label": "Product quality"
+          },
+          {
+            "id": "EVpRcBbwZYYZ",
+            "label": "Brand reputation"
+          },
+          {
+            "id": "ZelVe8pOEjDP",
+            "label": "Customer reviews"
+          },
+          {
+            "id": "TaqpeofnQE4Y",
+            "label": "Product features"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1mNcVPE73FyK",
+      "title": [
+        "How likely are you to try a new brand if it meets your needs?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {},
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "lQJXq20zEGGV",
+            "label": ""
+          }
+        ],
+        "total": 5,
+        "leftLabel": "Not likely",
+        "rightLabel": "Very likely"
+      }
+    },
+    {
+      "id": "saDgzo4q5ivB",
+      "title": [
+        "Do you have any favorite brands? If yes, please specify."
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "G7LFLZUekmiH",
+      "title": [
+        "What features or improvements would you like to see in future products?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "eZ74h6Eyuxyv",
+      "title": [
+        "How did you first learn about us?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowOther": true,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "Ft46GgSl6ZKx",
+            "label": "Social media"
+          },
+          {
+            "id": "DJv1IzBkPOon",
+            "label": "Word of mouth"
+          },
+          {
+            "id": "wXUueX11lW5I",
+            "label": "Online ads"
+          },
+          {
+            "id": "zXfCDkPbDQNm",
+            "label": "In-store"
+          }
+        ]
+      }
+    },
+    {
+      "id": "u1uokcQ46TXa",
+      "title": [
+        "How likely are you to purchase our products again?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {},
+      "properties": {
+        "total": 5,
+        "leftLabel": "Very Unlikely",
+        "rightLabel": "Very Likely"
+      }
+    },
+    {
+      "id": "o7OYt7G4DWwk",
+      "title": [
+        "Thank You for Your Insights!"
+      ],
+      "description": [
+        "We appreciate you taking the time to help us improve our products and services. Your feedback is invaluable!"
+      ],
+      "kind": "thank_you",
+      "validations": {},
+      "properties": {}
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#ffffff",
+      "answerTextColor": "#ffffff",
+      "buttonBackground": "#ffffff",
+      "buttonTextColor": "#52525b",
+      "backgroundColor": "#3b82f6"
+    }
+  }
+}

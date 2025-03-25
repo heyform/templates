@@ -1,0 +1,423 @@
+{
+  "id": "7b5b2cf9-e073-52c8-99b2-0c8e4e02f73f",
+  "category": "Survey",
+  "thumbnailUrl": "assets/thumbnails/7b5b2cf9-e073-52c8-99b2-0c8e4e02f73f.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Website Survey Template",
+  "fields": [
+    {
+      "id": "rqjkEFlFQrq3",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "0E89j82MXqPf",
+      "kind": "text"
+    },
+    {
+      "id": "b1nClyTCBrhs",
+      "title": "Company Name",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "gFAkfB5bsfkl",
+      "kind": "text"
+    },
+    {
+      "id": "prUm7uD03epV",
+      "title": "Email Address",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "DuoXaTwUh2At",
+      "kind": "text"
+    },
+    {
+      "id": "YK00hiiCXRRJ",
+      "title": "How did you hear about this website?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "Bow1dFsbrSwd",
+            "label": "Social Media",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zXywFP2STrSm",
+            "label": "Advertising",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "aQch5zizAIxn",
+            "label": "Search Engine",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "GI0VazS5oiz9",
+            "label": "Friend",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "8U5dQuzcLE8W",
+            "label": "Other",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "uV5flqpTSPEo",
+      "kind": "text"
+    },
+    {
+      "id": "DcJp6rrcAhk2",
+      "title": "What browser do you use?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "LgSpPg7Al0nO",
+            "label": "Chrome",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Q9Qt90FnLXv5",
+            "label": "Firefox",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "uxu7LajN63C6",
+            "label": "IE",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zKpeFYn3T7q2",
+            "label": "Safari",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "LWOubhSvCEZO",
+            "label": "Opera",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "6ijS0UmFOcb8",
+      "kind": "text"
+    },
+    {
+      "id": "NmY3yucRNzyp",
+      "title": "Which device did you use to access the website?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "5KMXL1egvjWF",
+            "label": "Desktop/Laptop",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "pcgOJazYScCf",
+            "label": "Mobile",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Euk2is7KlFF9",
+            "label": "Tablet",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "b3jVGkuN5RYV",
+      "kind": "text"
+    },
+    {
+      "id": "ibmoCSm8inrI",
+      "title": "Are you satisfied that you found out the website?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "VgcqCEGhqt5m",
+            "label": "Very Satisfied",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "3FzlzZKmjAqY",
+            "label": "Satisfied",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "g1dYbmvHga6a",
+            "label": "Neutral",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "MG3Kr3lP7eLN",
+            "label": "Dissatisfied",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "3ycGfH9F3Hzm",
+            "label": "Very Dissatisfied",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "KkREUkrnjVI6",
+      "kind": "text"
+    },
+    {
+      "id": "NOtgM4zXgWdL",
+      "title": "Any comments or feedback for improvement:",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": false,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "wgEnC3sTgEYi",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Karla",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#5c5c5c",
+      "buttonBackground": "#37404a",
+      "buttonTextColor": "#fff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/jDBJgkIL/626218d0c90d3928c3b71ec9/L7e61kMuPanZ9FbMbtn6w_leone-venter-VieM9BdZKFo-unsplash.jpg",
+      "backgroundBrightness": 31
+    }
+  }
+}

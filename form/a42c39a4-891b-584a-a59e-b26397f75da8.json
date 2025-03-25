@@ -1,0 +1,201 @@
+{
+  "id": "a42c39a4-891b-584a-a59e-b26397f75da8",
+  "category": "Poll",
+  "thumbnailUrl": "assets/thumbnails/a42c39a4-891b-584a-a59e-b26397f75da8.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Straw Poll Template",
+  "fields": [
+    {
+      "id": "pXBH8KvkDqqH",
+      "title": "Who are you voting for?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "mjad2FhY0lbZ",
+            "label": "Jane Doe"
+          },
+          {
+            "id": "YrfPNrsI067I",
+            "label": "John Doe"
+          },
+          {
+            "id": "BwSOSm9fQKPZ",
+            "label": "Unsure"
+          },
+          {
+            "id": "VIldt6uiScSQ",
+            "label": "Other"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hAHMB6VQuNUO",
+      "kind": "text"
+    },
+    {
+      "id": "Zfp4lXWxtdSQ",
+      "title": "Which areas are most important to you when you vote?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "lNq7eJkdZIZe",
+            "label": "Crime & Justice"
+          },
+          {
+            "id": "bxrL2P3jcON2",
+            "label": "Culture"
+          },
+          {
+            "id": "LDzlX0BkFJ0s",
+            "label": "Environment"
+          },
+          {
+            "id": "CRMRDHfCPPJX",
+            "label": "Family & Equality"
+          },
+          {
+            "id": "DrzBkoBpdIja",
+            "label": "Health"
+          },
+          {
+            "id": "cDC4Lg1U9OUU",
+            "label": "Education"
+          },
+          {
+            "id": "j0GxvqguSI3r",
+            "label": "Immigration"
+          },
+          {
+            "id": "DpTtclMKUC2S",
+            "label": "Infrastructure"
+          },
+          {
+            "id": "2TxM50DM5lQm",
+            "label": "Labor and Business"
+          },
+          {
+            "id": "xsCVWnZH6b3G",
+            "label": "Military & Defense"
+          },
+          {
+            "id": "bcXuE28mQZS9",
+            "label": "Taxes & Economy"
+          },
+          {
+            "id": "YOlIMemhRQuS",
+            "label": "Pension & Benefits"
+          }
+        ]
+      }
+    },
+    {
+      "id": "LEcMsseoEcN9",
+      "kind": "text"
+    },
+    {
+      "id": "BDvtat8MJfOX",
+      "title": "What is your age range?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "VBmQiuF7N4VM",
+            "label": "18-24"
+          },
+          {
+            "id": "9z8hCr15BTMC",
+            "label": "25-34"
+          },
+          {
+            "id": "PGWBrzlejqpi",
+            "label": "35-45"
+          },
+          {
+            "id": "AhKNJFoZ99VJ",
+            "label": "45+"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BJJ6TP9N4dYX",
+      "kind": "text"
+    },
+    {
+      "id": "lbgpWWWDqWJw",
+      "title": "What is the highest degree or level of school you have completed?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "V6IyaXbRaNYi",
+            "label": "High school"
+          },
+          {
+            "id": "jct3JpveD196",
+            "label": "Associate degree (e.g. AA, AS)"
+          },
+          {
+            "id": "uJd2xF1Py0F9",
+            "label": "Bachelor’s degree (e.g. BA, BS)"
+          },
+          {
+            "id": "34pjBg3sLMvs",
+            "label": "Master’s degree (e.g. MA, MS, MEd)"
+          },
+          {
+            "id": "soxnXkguPO1G",
+            "label": "Professional degree (e.g. MD, DDS, DVM)"
+          },
+          {
+            "id": "OUELcVv5srii",
+            "label": "Doctorate (e.g. PhD, EdD)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GFTpg9Ujdsrr",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/mDqaSLQhM6ue188aFUysV_voting%20form%201.jpeg",
+      "backgroundBrightness": 68
+    }
+  }
+}

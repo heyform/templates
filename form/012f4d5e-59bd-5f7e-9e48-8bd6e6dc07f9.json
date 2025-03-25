@@ -1,0 +1,401 @@
+{
+  "id": "012f4d5e-59bd-5f7e-9e48-8bd6e6dc07f9",
+  "category": "Other",
+  "thumbnailUrl": "assets/thumbnails/012f4d5e-59bd-5f7e-9e48-8bd6e6dc07f9.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Real Estate Agent Evaluation Template",
+  "fields": [
+    {
+      "id": "zzxhAbYHFov3",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Hijt4tmLYxmY",
+      "kind": "text"
+    },
+    {
+      "id": "SaG7iuWK4bD0",
+      "title": "Email Address",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "a1F2N4qQKC07",
+      "kind": "text"
+    },
+    {
+      "id": "h5H4YAMsx1QK",
+      "title": "Which sources of information do you use when choosing a real estate agent? (Check all that apply)",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "mQofjFXuUR9I",
+            "label": " Open houses",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Uk7ybohqZ4CZ",
+            "label": "Internet",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ENffmX03EL05",
+            "label": "Social networking websites",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "0oDRruPQtRso",
+            "label": "Mortgage brokers",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "9W49zRZyvaO5",
+            "label": "Family or friend recommendations  ",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "C7rembbuZb4z",
+            "label": "Association or club recommendations",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qUnaNCqmW7be",
+            "label": "Real estate advertisements",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "btWt33pLbzD5",
+            "label": "Yard Signs",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Dp2N1cf1e4Fr",
+            "label": "Other",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "bpH4tg0Ov3EN",
+      "kind": "text"
+    },
+    {
+      "id": "kg0ZWHShE5kM",
+      "title": "Which source of information do you find most helpful when choosing a real estate agent?",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "mQofjFXuUR9I",
+            "label": " Open houses",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Uk7ybohqZ4CZ",
+            "label": "Internet",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ENffmX03EL05",
+            "label": "Social networking websites",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "0oDRruPQtRso",
+            "label": "Mortgage brokers",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "9W49zRZyvaO5",
+            "label": "Family or friend recommendations  ",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "C7rembbuZb4z",
+            "label": "Association or club recommendations",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qUnaNCqmW7be",
+            "label": "Real estate advertisements",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "btWt33pLbzD5",
+            "label": "Yard Signs",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Dp2N1cf1e4Fr",
+            "label": "Other",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "78BR0IsOk837",
+      "kind": "text"
+    },
+    {
+      "id": "z4lFaFm9slTc",
+      "title": "How satisfied are you with your real estate agent?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "oDzC6HYaqed9",
+            "label": "Satisfied",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ff8jHrIAVOtv",
+            "label": "Dissatisfied",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "y1k9tc5Pkdjf",
+            "label": "Neither Satisfied nor Dissatisfied",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "JRI9TEWCAl7W",
+      "kind": "text"
+    },
+    {
+      "id": "J0nwE8qTW79y",
+      "title": "How likely are you to recommend your real estate agent to others?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "vvQsu7hn1hQW",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#19191a",
+      "answerTextColor": "#0f0f10",
+      "buttonBackground": "#28292c",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": null,
+      "backgroundBrightness": 60
+    }
+  }
+}

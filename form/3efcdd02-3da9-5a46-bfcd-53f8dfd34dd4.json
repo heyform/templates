@@ -1,0 +1,368 @@
+{
+  "id": "3efcdd02-3da9-5a46-bfcd-53f8dfd34dd4",
+  "category": "Event",
+  "thumbnailUrl": "assets/thumbnails/3efcdd02-3da9-5a46-bfcd-53f8dfd34dd4.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Event Satisfaction Survey Template",
+  "fields": [
+    {
+      "id": "uFSPFXjbBiBs",
+      "title": "Full Name:",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "9fSyIx9LsUrh",
+      "kind": "text"
+    },
+    {
+      "id": "ytK0vyp153Io",
+      "title": "Contact Number:",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "cvdlYCuUxrf7",
+      "kind": "text"
+    },
+    {
+      "id": "nA4ULTq49Q9T",
+      "title": "Email:",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": false,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "T8AaElqt38Ru",
+      "kind": "text"
+    },
+    {
+      "id": "ztCqu5Mm9dA1",
+      "title": "Occupation:",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "sd7wNJEMQF3h",
+      "kind": "text"
+    },
+    {
+      "id": "euh2WZ7qlZpb",
+      "title": "How did you hear about this event?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "ICCnru4BXedl",
+            "label": "In the media",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "YNCvkwbm5KGP",
+            "label": "Advertising ",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ylDYm4RhduUK",
+            "label": "Internet Search",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "6g1uaSSKkNeO",
+            "label": "Event Website",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "j8rgEZFLIqkL",
+            "label": "From Friends",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zwvmpXlCcYrF",
+            "label": "Other",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "BNFxW6l148U5",
+      "kind": "text"
+    },
+    {
+      "id": "M6tsg0CnRqcO",
+      "title": "Did the event meet your expectations?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "1KR1SWEcT2Tw",
+      "kind": "text"
+    },
+    {
+      "id": "LOKcygagkicx",
+      "title": " How would you rate the event?",
+      "description": null,
+      "kind": "rating",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": "happy",
+        "total": 5,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "2lhgpHWXcQfr",
+      "kind": "text"
+    },
+    {
+      "id": "p3l8zQWnly1p",
+      "title": "Comments if any:",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": false,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "9Eo7jMjpGyDB",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#333e52",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/Xc1zcluyrPPV6QqkmAKpJ_event%20satisfaction1.jpeg",
+      "backgroundBrightness": 77
+    }
+  }
+}

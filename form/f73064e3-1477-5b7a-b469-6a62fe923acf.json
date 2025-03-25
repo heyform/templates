@@ -1,0 +1,474 @@
+{
+  "id": "f73064e3-1477-5b7a-b469-6a62fe923acf",
+  "category": "Healthcare",
+  "thumbnailUrl": "assets/thumbnails/f73064e3-1477-5b7a-b469-6a62fe923acf.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Medical Release Form Template",
+  "fields": [
+    {
+      "id": "dPvg6083MDAE",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "u4CO297Agc97",
+      "kind": "text"
+    },
+    {
+      "id": "REZzdds2lTsp",
+      "title": "Date Of Birth",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "wbNyiIbkqQEa",
+      "kind": "text"
+    },
+    {
+      "id": "yJ7MUp7j3cm3",
+      "title": "Contact Number",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "COz5JaM1OcMI",
+      "kind": "text"
+    },
+    {
+      "id": "4qPzHfrRLWuf",
+      "title": "Home Address",
+      "description": null,
+      "kind": "address",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "9x9PBHhayrRs",
+      "kind": "text"
+    },
+    {
+      "id": "Z6c5OxEpYjwH",
+      "title": "Are you allergic to any medicine?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "e1Mr3tSXT74t",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "sHFjGVzrN2hO",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "mtvBX6CMWLQJ",
+      "kind": "text"
+    },
+    {
+      "id": "FkgnPGlHmKhL",
+      "title": " No use of inappropriate language will be permitted",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "0bTGhnbwQCTH",
+            "label": "I agree",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "gt0elqp5dKDJ",
+            "label": "Disagree",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "vozyPIzMx9c6",
+      "kind": "text"
+    },
+    {
+      "id": "dygP50KL4Dhn",
+      "title": "No leaving activity locations without permission of a leader",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "0bTGhnbwQCTH",
+            "label": "I agree",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "gt0elqp5dKDJ",
+            "label": "Disagree",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "dlayBi49lCER",
+      "kind": "text"
+    },
+    {
+      "id": "fuH4RV1CCtOG",
+      "title": "No use or possession of tobacco products, alcohol, or illegal drugs",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "0bTGhnbwQCTH",
+            "label": "I agree",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "gt0elqp5dKDJ",
+            "label": "Disagree",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "CKajW6Ak3tNs",
+      "kind": "text"
+    },
+    {
+      "id": "DwXGBZNtJMVE",
+      "title": "No disrespect to the adult leaders or other students will be tolerated.",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "0bTGhnbwQCTH",
+            "label": "I agree",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "gt0elqp5dKDJ",
+            "label": "Disagree",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "HJ7tMoSywggF",
+      "kind": "text"
+    },
+    {
+      "id": "MaStWvQFqP8T",
+      "title": "I have completed the above, and have read these ruled and understand that if there are any discipline problems with my child, that I am responsible for picking up my child from any activity of the project at any time and location necessary.",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "83Oqa32DT9eA",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": null,
+      "backgroundBrightness": 88
+    }
+  }
+}

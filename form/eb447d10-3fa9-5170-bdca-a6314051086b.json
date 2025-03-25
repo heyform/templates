@@ -1,0 +1,305 @@
+{
+  "id": "eb447d10-3fa9-5170-bdca-a6314051086b",
+  "category": "Marketing",
+  "thumbnailUrl": "assets/thumbnails/eb447d10-3fa9-5170-bdca-a6314051086b.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Product Referral Form Template",
+  "fields": [
+    {
+      "id": "cvrQSJLwkpM7",
+      "title": [
+        "Your Name"
+      ],
+      "description": [],
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      },
+      "layout": null
+    },
+    {
+      "id": "xrwSWM9YuxbN",
+      "title": [
+        "Contact"
+      ],
+      "description": [],
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      },
+      "layout": null
+    },
+    {
+      "id": "0q8SlMORsITt",
+      "title": [
+        "Email"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      },
+      "layout": null
+    },
+    {
+      "id": "gLohRehWU0ES",
+      "title": [
+        "Product Name"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "49AqPl291JJb",
+      "title": [
+        "Friend's Name"
+      ],
+      "description": [],
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      },
+      "layout": null
+    },
+    {
+      "id": "12OZpG6fiiow",
+      "title": [
+        "Friend E-mail"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      },
+      "layout": null
+    },
+    {
+      "id": "2y3rTU31wkWy",
+      "title": [
+        "Current Location"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "cz1FsFqxk0cg",
+      "title": [
+        "Reason why you refer this product"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      },
+      "layout": null
+    },
+    {
+      "id": "hsSArIW8luvs",
+      "title": [
+        "How much do you like the product?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      },
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#ffffff",
+      "answerTextColor": "#ffffff",
+      "buttonBackground": "#ffffff",
+      "buttonTextColor": "#52525b",
+      "backgroundColor": "#2563eb"
+    }
+  }
+}

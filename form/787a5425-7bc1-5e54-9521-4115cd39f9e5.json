@@ -1,0 +1,92 @@
+{
+  "id": "787a5425-7bc1-5e54-9521-4115cd39f9e5",
+  "category": "Donation & Charity",
+  "thumbnailUrl": "assets/thumbnails/787a5425-7bc1-5e54-9521-4115cd39f9e5.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Responsive Charity Donation Form Template",
+  "fields": [
+    {
+      "id": "erPJCz2GImqD",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "NiF2amvCmwMl",
+      "kind": "text"
+    },
+    {
+      "id": "9wKxuo46m4d6",
+      "title": "Phone Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "fPo0zGQ39o8J",
+      "kind": "text"
+    },
+    {
+      "id": "8TshROS8NWxv",
+      "title": "Email Address",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "edrvj5CBCMjN",
+      "kind": "text"
+    },
+    {
+      "id": "wPX1RsUzJ9hh",
+      "title": "Donation Amount",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "mto2fJP38zfK",
+      "kind": "text"
+    },
+    {
+      "id": "kdVHBfnmrF67",
+      "title": "Donor Notes",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "SxdlLC8Gr2GM",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#383d46",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/a4LuXqrx1Yhfk605jG1dn_Responsive%20charity%20donation%20.jpeg",
+      "backgroundBrightness": 70
+    }
+  }
+}

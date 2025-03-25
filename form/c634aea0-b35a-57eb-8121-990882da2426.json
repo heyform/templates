@@ -1,0 +1,113 @@
+{
+  "id": "c634aea0-b35a-57eb-8121-990882da2426",
+  "category": "Employee & Job",
+  "thumbnailUrl": "assets/thumbnails/c634aea0-b35a-57eb-8121-990882da2426.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Employee Counselling Form Template",
+  "fields": [
+    {
+      "id": "ORDqVFrz11iT",
+      "title": "Employee Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "bbljNvYyNxN1",
+      "kind": "text"
+    },
+    {
+      "id": "VxV7AmWOlffm",
+      "title": "Department",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "UYH2EioBLtBJ",
+      "kind": "text"
+    },
+    {
+      "id": "RCG7e3ebxVPf",
+      "title": "Designation ",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "0uxDjMc8eM1q",
+      "kind": "text"
+    },
+    {
+      "id": "30YrU89mWiK8",
+      "title": "Tell us about an occasion when you had to speak up to let your colleagues know what you felt or thought on an issue?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ThLbta985Jkn",
+      "kind": "text"
+    },
+    {
+      "id": "uSUjaWXQRYdt",
+      "title": "Let’s say we hire you. However, you get fired after a couple of months. Why do you imagine that could be?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "1pbBMnUOneiU",
+      "kind": "text"
+    },
+    {
+      "id": "VNGv4I1WUcW8",
+      "title": "Have you ever felt compelled to agree with a work-related decision despite your best judgment?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "4zmI9XXlxtRH",
+      "kind": "text"
+    },
+    {
+      "id": "du2GcxuGu4KY",
+      "title": "We all have people we dislike. Mention some of the reasons why you disliked a former coworker.",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "FhGKPa6UgZlq",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#ffffff",
+      "answerTextColor": "#ffffff",
+      "buttonBackground": "#ffffff",
+      "buttonTextColor": "#000000",
+      "backgroundColor": "#000000",
+      "backgroundImage": "https://images.unsplash.com/photo-1604881991405-b273c7a4386a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxfHxDb3Vuc2VsbGluZ3xlbnwwfHx8fDE2NTA3Njg0MTQ&ixlib=rb-1.2.1&q=80&w=1080",
+      "backgroundBrightness": -69
+    }
+  }
+}

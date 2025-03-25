@@ -1,0 +1,321 @@
+{
+  "id": "30ad5836-406f-5c68-a0e2-bfa087098d65",
+  "category": "Education",
+  "thumbnailUrl": "assets/thumbnails/30ad5836-406f-5c68-a0e2-bfa087098d65.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "School Safety Form Template",
+  "fields": [
+    {
+      "id": "SYHju1UfEsda",
+      "title": "How safe do you feel in your school?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "QvQ8yKMK1v7V",
+            "label": "Very Safe"
+          },
+          {
+            "id": "wdiOrb9GwdYw",
+            "label": "Safe"
+          },
+          {
+            "id": "I99cTS9yvMwB",
+            "label": "Somewhat Safe"
+          },
+          {
+            "id": "9a6W8LPf30rt",
+            "label": "Unsafe"
+          },
+          {
+            "id": "rZDsqRRSPX8F",
+            "label": "Very unsafe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "QN2UJRGEdhHO",
+      "kind": "text"
+    },
+    {
+      "id": "cc8UJ5C09orL",
+      "title": "How safe do you think your students feel in school?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "QvQ8yKMK1v7V",
+            "label": "Very Safe"
+          },
+          {
+            "id": "wdiOrb9GwdYw",
+            "label": "Safe"
+          },
+          {
+            "id": "I99cTS9yvMwB",
+            "label": "Somewhat Safe"
+          },
+          {
+            "id": "9a6W8LPf30rt",
+            "label": "Unsafe"
+          },
+          {
+            "id": "rZDsqRRSPX8F",
+            "label": "Very unsafe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "s4AABWBhWPls",
+      "kind": "text"
+    },
+    {
+      "id": "PB2UbHmciPwj",
+      "title": "Do you feel your school is a safe place from gun violence?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "JwKS1wZDrM6M",
+            "label": "Yes"
+          },
+          {
+            "id": "rTRHwTcgwCPW",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sQsaZSrvET3U",
+      "kind": "text"
+    },
+    {
+      "id": "Sh2yuRCuxY0j",
+      "title": "Has your school taken steps to increase safety in your classroom?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "KBaNjAeKfYWH",
+            "label": "Yes"
+          },
+          {
+            "id": "ENAeNCKvorLb",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "X1eb8MZ4DzD3",
+      "kind": "text"
+    },
+    {
+      "id": "AM5OeEJiNHm3",
+      "title": "Does your school have a safety plan in place in the event of an armed intruder?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "HCXCKAvyzk1c",
+            "label": "Yes"
+          },
+          {
+            "id": "qT4DLJUrtlyx",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "H7qKVIUKzwaR",
+      "kind": "text"
+    },
+    {
+      "id": "XxpPNGrccNY3",
+      "title": "How likely would you be to bring a firearm to school if you were allowed to?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "bMxCsLoBy99u",
+            "label": "Very likely"
+          },
+          {
+            "id": "QwRuVczcDhJY",
+            "label": "Likely"
+          },
+          {
+            "id": "Cg6HtLrOK15q",
+            "label": "Somewhat likely"
+          },
+          {
+            "id": "uDGAzwPuGl2z",
+            "label": "Unlikely"
+          },
+          {
+            "id": "zd0TpKjcyNkb",
+            "label": "Very unlikely"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GsR3KpJ8YhRh",
+      "kind": "text"
+    },
+    {
+      "id": "v0i7tRBKrfJG",
+      "title": "Do you own a firearm?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "bYXOLXRyHmuM",
+            "label": "Yes"
+          },
+          {
+            "id": "ewE2jygBgK2V",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lYd0iVFFvkau",
+      "kind": "text"
+    },
+    {
+      "id": "R9ny8FuOZccr",
+      "title": "Have you been offered training in firearm safety or a concealed carry course from your school, district, or state?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "ojxadqHuwXjn",
+            "label": "Yes"
+          },
+          {
+            "id": "EOr1FIbGEqbW",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "uFpMYBbpjTSx",
+      "kind": "text"
+    },
+    {
+      "id": "uXsoMgWtNDrE",
+      "title": "Do you currently have armed police at your school during classroom hours?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "saDc6IGX44Oo",
+            "label": "Yes"
+          },
+          {
+            "id": "C1NSoS7tglDx",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BKwOGUzDNKNj",
+      "kind": "text"
+    },
+    {
+      "id": "FeOxziATtZtb",
+      "title": "Do you feel that having an armed police officer in your school would improve safety or make your school less safe?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "GAte3aNnu0Hr",
+            "label": "Greatly improve"
+          },
+          {
+            "id": "zQ0mVFmnv9dK",
+            "label": "Improve"
+          },
+          {
+            "id": "AcN4r7txm5lL",
+            "label": "Somewhat improve"
+          },
+          {
+            "id": "mpMIC8idXcPh",
+            "label": "Less safe"
+          },
+          {
+            "id": "VsW255KDy0UQ",
+            "label": "Much less safe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dISgKtj5fFQY",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": null,
+      "backgroundBrightness": 0
+    }
+  }
+}

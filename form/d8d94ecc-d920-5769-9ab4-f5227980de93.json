@@ -1,0 +1,713 @@
+{
+  "id": "d8d94ecc-d920-5769-9ab4-f5227980de93",
+  "category": "Feedback",
+  "thumbnailUrl": "assets/thumbnails/d8d94ecc-d920-5769-9ab4-f5227980de93.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Course Feedback Form Template",
+  "fields": [
+    {
+      "id": "QbvQLVqd0AuV",
+      "title": "Your Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "c9ZmR7dwQkzA",
+      "kind": "text"
+    },
+    {
+      "id": "xa9KfHXbA0H2",
+      "title": "Contact details",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "yYJT3dNf8t3J",
+      "kind": "text"
+    },
+    {
+      "id": "ePD58PCK5PkY",
+      "title": "How well did you achieve this learning goal in this course?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "KtX6n1jKiTCd",
+            "label": "Extremely well",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "JQPtGPG10nka",
+            "label": "Very Well",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "sBWEDdbX7aWL",
+            "label": "Slightly Well",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "c1L5G5m9Uud3",
+            "label": "Not well at all",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "affOYm7Qv2na",
+      "kind": "text"
+    },
+    {
+      "id": "BhlvtwgZzhar",
+      "title": "How useful to you was this course element?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "Pd0beWHOZ2Q4",
+            "label": "Extremely useful",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "vASiqwoBL09A",
+            "label": "Very useful",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "i3SrAquR7mIN",
+            "label": "Slightly useful",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "jNnYKSTvoqCk",
+            "label": "Not useful at all",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "5uzOC6W4EDVp",
+      "kind": "text"
+    },
+    {
+      "id": "tdc3IODCOlm3",
+      "title": "About what percent of the class meetings (including discussions) did you attend in person?",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "UhgJ1u3VhUa4",
+      "kind": "text"
+    },
+    {
+      "id": "nNP1OTQhwrtD",
+      "title": "About what percent of the class meetings did you attend online?",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "thopIxESAk0R",
+      "kind": "text"
+    },
+    {
+      "id": "0fn7C7nsNQ1g",
+      "title": "How much did you learn from this course?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "sIsToxa73PF2",
+            "label": "A great deal",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "FTyeSKmRtCNf",
+            "label": "A lot",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "WewL89ugVyMA",
+            "label": "A moderate amount",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "PR4A7tDBR4kq",
+            "label": "A little",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "In8DDXWZMbJH",
+            "label": "Nothing",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "KkDdnxEBXLez",
+      "kind": "text"
+    },
+    {
+      "id": "2jmEJjGEDb9e",
+      "title": "Overall, how would you describe the quality of the instruction in this course?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "v6AH5uKF8zCQ",
+            "label": "Excellent",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "lAYyTSs3xlCa",
+            "label": "Good",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ia0eOJTp9ryt",
+            "label": "Fair",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "hR7g1hQq6tIz",
+            "label": "Poor",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "9Af0jWsaCrsY",
+            "label": "Very Poor",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "kXKDZhUE46QL",
+      "kind": "text"
+    },
+    {
+      "id": "qMBiOARRFsTt",
+      "title": "What skills or knowledge did you learn or improve?",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "28l8Mhnt4NYr",
+      "kind": "text"
+    },
+    {
+      "id": "jczm5owogfYo",
+      "title": "How many hours per week on average did you spend on this course (including class meetings)?",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "7OSJlfHBqHlI",
+      "kind": "text"
+    },
+    {
+      "id": "Jo2mSfyLix2G",
+      "title": "How organized was this course?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "uxkD1IChIz7L",
+            "label": "Extremely organized",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "DnRSCsuDrCkT",
+            "label": "Very organized",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "wGtVaTB0lINV",
+            "label": "Moderately organized",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "kiIJgDhNJI0i",
+            "label": "Slightly organized",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "JCV6tduIinmT",
+            "label": "Not organized at all",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "L7evV58QQSvP",
+      "kind": "text"
+    },
+    {
+      "id": "puZLkJuccyOG",
+      "title": "What would you like to say about this course to a student who is considering taking it in the future?",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "qvnI5h5JF80P",
+      "kind": "text"
+    },
+    {
+      "id": "ScReZkmZezM3",
+      "title": "Would you like to provide any other comments about this course?",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "os6BMbLXz3yU",
+      "kind": "text"
+    },
+    {
+      "id": "IF2v7fMho5XE",
+      "title": "How do you rate the course :",
+      "description": null,
+      "kind": "rating",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": "star",
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "oDuyUwk538TU",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#ffffff",
+      "answerTextColor": "#ffffff",
+      "buttonBackground": "#ffffff",
+      "buttonTextColor": "#000000",
+      "backgroundColor": "#000000",
+      "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHw2fHxjb3Vyc2V8ZW58MHx8fHwxNjUwNzkzODUz&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": -53
+    }
+  }
+}

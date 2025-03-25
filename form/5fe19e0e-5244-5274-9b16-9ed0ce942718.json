@@ -1,0 +1,236 @@
+{
+  "id": "5fe19e0e-5244-5274-9b16-9ed0ce942718",
+  "category": "Remote Working",
+  "thumbnailUrl": "assets/thumbnails/5fe19e0e-5244-5274-9b16-9ed0ce942718.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Remote Employee Management Form",
+  "fields": [
+    {
+      "id": "yaWqappUDRKZ",
+      "title": "Employee Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "8MyqxfBiMAcG",
+      "kind": "text"
+    },
+    {
+      "id": "MJ84uqCoSlBS",
+      "title": "Employee ID",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "zA6aP3lCV8fc",
+      "kind": "text"
+    },
+    {
+      "id": "2kOU1jevtjQo",
+      "title": "Email address ",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "IMi8OuAlXdFH",
+      "kind": "text"
+    },
+    {
+      "id": "eacPcigGZ5c8",
+      "title": "How Satisfied you are with Remote working",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10
+      }
+    },
+    {
+      "id": "EjmBOZXxcvvI",
+      "kind": "text"
+    },
+    {
+      "id": "yE97Qq0MRZbH",
+      "title": "Are you able to complete all your task remotely?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "subzn07uYdYw",
+            "label": "Yes"
+          },
+          {
+            "id": "lr6VI8vV3kN7",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "XLvv3amKp4Pz",
+      "kind": "text"
+    },
+    {
+      "id": "8134Kpzh97Tu",
+      "title": "Do you have all of the equipment required to perform my duties?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "subzn07uYdYw",
+            "label": "Yes"
+          },
+          {
+            "id": "lr6VI8vV3kN7",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "V8UwzDbN6YtY",
+      "kind": "text"
+    },
+    {
+      "id": "Ppv1Gf8wHDG0",
+      "title": "Is your workspace seperate to your living areas?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "subzn07uYdYw",
+            "label": "Yes"
+          },
+          {
+            "id": "lr6VI8vV3kN7",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bnCz3iMyTiRg",
+      "kind": "text"
+    },
+    {
+      "id": "dtEV0AX5HXgp",
+      "title": "Do you have a stable internet connection?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "subzn07uYdYw",
+            "label": "Yes"
+          },
+          {
+            "id": "lr6VI8vV3kN7",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "YrRjmvFKSM2u",
+      "kind": "text"
+    },
+    {
+      "id": "J5yDmUajFqPm",
+      "title": "Do you have any medical conditions that may impact your working from home?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "subzn07uYdYw",
+            "label": "Yes"
+          },
+          {
+            "id": "lr6VI8vV3kN7",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hpEX5qbDYjmA",
+      "kind": "text"
+    },
+    {
+      "id": "O1DTlH54pnEZ",
+      "title": "Would you like access to counselling or support services?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "subzn07uYdYw",
+            "label": "Yes"
+          },
+          {
+            "id": "lr6VI8vV3kN7",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8QqGgQLDwmEN",
+      "kind": "text"
+    },
+    {
+      "id": "d16w4f7HOCXg",
+      "title": "Any suggestions or comments?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ZLKjZ903VlEc",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#494a4e",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/1XfVFQZj7KTonVG4P3xFV_Remote%20employee%20management.jpeg",
+      "backgroundBrightness": 47
+    }
+  }
+}

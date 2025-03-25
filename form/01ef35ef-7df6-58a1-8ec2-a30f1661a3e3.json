@@ -1,0 +1,324 @@
+{
+  "id": "01ef35ef-7df6-58a1-8ec2-a30f1661a3e3",
+  "category": "Survey",
+  "thumbnailUrl": "assets/thumbnails/01ef35ef-7df6-58a1-8ec2-a30f1661a3e3.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Student Survey Form Template",
+  "fields": [
+    {
+      "id": "UTNs1XpYGwc8",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "aWb0GSqUnNqs",
+      "kind": "text"
+    },
+    {
+      "id": "WcCSxMpBucTQ",
+      "title": "Course of the study",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "OZhMMCx5PZdg",
+      "kind": "text"
+    },
+    {
+      "id": "3zjA8uM8remR",
+      "title": "Email Address",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "x0G1Ard0KXEM",
+      "kind": "text"
+    },
+    {
+      "id": "Q0X4C27JTO1v",
+      "title": "How likely are you to recommend this school to your friends and family? Please provide the reason for your response.",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "7uLDksixphdW",
+            "label": "Very likely"
+          },
+          {
+            "id": "Sb8cEn59GAEB",
+            "label": "Somewhat Likely"
+          },
+          {
+            "id": "GjiJ9E30O5Zv",
+            "label": "Neutral"
+          },
+          {
+            "id": "R70o1HYRRcBP",
+            "label": "Unlikely"
+          },
+          {
+            "id": "YAcej7NoORjr",
+            "label": "Very Unlikely"
+          }
+        ]
+      }
+    },
+    {
+      "id": "DVKNP45dEb1w",
+      "kind": "text"
+    },
+    {
+      "id": "eeQsW9elP9k5",
+      "title": "How satisfied are you with the school's coursework? Please provide the reason for your response.",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "NMqUNQGOTgOn",
+            "label": "Very satisfied"
+          },
+          {
+            "id": "2y77F0u8JxRq",
+            "label": "Somewhat satisfied"
+          },
+          {
+            "id": "LD7nCAA45hx8",
+            "label": "Neutral"
+          },
+          {
+            "id": "1DGNsM6FDCcd",
+            "label": "Dissatisfied"
+          },
+          {
+            "id": "oLJf4RwV5yT6",
+            "label": "Highly dissatisfied"
+          }
+        ]
+      }
+    },
+    {
+      "id": "859OJkM3cFx7",
+      "kind": "text"
+    },
+    {
+      "id": "Fs2ds1bNvST1",
+      "title": "How satisfied are you with the school's transportation system?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "2DMixLP2OYVz",
+            "label": "Very satisfied"
+          },
+          {
+            "id": "HVVKuwBWWSYC",
+            "label": "Somewhat satisfied"
+          },
+          {
+            "id": "Ds5ExDTTmr0x",
+            "label": "Neutral"
+          },
+          {
+            "id": "daiMnF32z1G0",
+            "label": "Dissatisfied"
+          },
+          {
+            "id": "Vog1t40btW3K",
+            "label": "Highly dissatisfied"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JGvO1kYHJcyw",
+      "kind": "text"
+    },
+    {
+      "id": "XTSQPNzfWhPu",
+      "title": "Do you feel that this school is preparing you adequately for the job market?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "VCy9f6XOPySR",
+            "label": "Yes"
+          },
+          {
+            "id": "RBTscstsMUnV",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "QfDHsHHEW95R",
+      "kind": "text"
+    },
+    {
+      "id": "HINH0HQnDLvP",
+      "title": "Are you satisfied with the quality of teaching?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "bcLxRUWcwH4S",
+            "label": "Yes, I am"
+          },
+          {
+            "id": "Wh4gjJVkxmRl",
+            "label": "No, I am not"
+          }
+        ]
+      }
+    },
+    {
+      "id": "97pX2GogYrfW",
+      "kind": "text"
+    },
+    {
+      "id": "8XrXd3Mq9HSI",
+      "title": "Do you think that the school has the right testing and grading method? Please provide a reason for your answer.",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "91NnAt7PRUaZ",
+            "label": "Yes"
+          },
+          {
+            "id": "AW9BvC9PMEqP",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "UMBAVJp4ycLj",
+      "kind": "text"
+    },
+    {
+      "id": "4fczJd1mQ364",
+      "title": "What is your most memorable experience in this school so far?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "C3tK8Lq65fmo",
+      "kind": "text"
+    },
+    {
+      "id": "AQy4O81K5JwN",
+      "title": "What are you most dissatisfied with in the school's operations?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "cptVE7tsp7wV",
+      "kind": "text"
+    },
+    {
+      "id": "Qk2MFAGaT6zo",
+      "title": "How helpful is your course advisor in dealing with the issues you face?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "YMY8EcUsItxh",
+            "label": "Very helpful"
+          },
+          {
+            "id": "EXrQp2BPtRGu",
+            "label": "Quite helpful"
+          },
+          {
+            "id": "fKqNp6V7LClM",
+            "label": "Neutral"
+          },
+          {
+            "id": "2NMXmY5IeLDX",
+            "label": "Slightly helpful"
+          },
+          {
+            "id": "yOIGnkLoBZyS",
+            "label": "Not helpful at all"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JznLUqEUPSy6",
+      "kind": "text"
+    },
+    {
+      "id": "f02L0smBlluc",
+      "title": "Is there any other feedback you would like to provide? ",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "6BdVUEE0Phvm",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1491308056676-205b7c9a7dc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHw0fHxzdHVkZW50fGVufDB8fHx8MTY1MDYyMTA5NQ&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 27
+    }
+  }
+}

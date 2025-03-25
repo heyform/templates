@@ -1,0 +1,215 @@
+{
+  "id": "168c7313-d22d-5d7f-8f7a-cfdc8ca7b6cf",
+  "category": "Registration",
+  "thumbnailUrl": "assets/thumbnails/168c7313-d22d-5d7f-8f7a-cfdc8ca7b6cf.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Property Registration Form",
+  "fields": [
+    {
+      "id": "Di8sMiB8v2cG",
+      "title": "Property Address as per the document",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "VRsp1jmX7HtU",
+      "kind": "text"
+    },
+    {
+      "id": "3gO3OKf1ve3q",
+      "title": "Power of Authority",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "pJiL1RyKzgD9",
+      "kind": "text"
+    },
+    {
+      "id": "CJ0CeJ2ZSDuY",
+      "title": "Contact Details",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "hWRN3H6l1UAz",
+      "kind": "text"
+    },
+    {
+      "id": "Vol3LFmUhB81",
+      "title": "Two passport photographs of party involved",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "lukzSX7oFC7Y",
+      "kind": "text"
+    },
+    {
+      "id": "ICmxEdV5hi8q",
+      "title": "Permanent Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "dJoRk494Gup0",
+      "kind": "text"
+    },
+    {
+      "id": "GmFZ5spJ1GXs",
+      "title": "PAN Card Number ",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "1xiX8Qcv1WS8",
+      "kind": "text"
+    },
+    {
+      "id": "FWB1o3wWbeES",
+      "title": "Identity proof of party involved(Aadhar Card,PAN card etc.)",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "QuWdDEu7EgjS",
+      "kind": "text"
+    },
+    {
+      "id": "sKbvTfFnnSe2",
+      "title": "Buyer (Second Party)",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Ujy7x699isdz",
+      "kind": "text"
+    },
+    {
+      "id": "dBj5Q8pyS8uY",
+      "title": "Contact Details",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "V0i2vHN7JcAT",
+      "kind": "text"
+    },
+    {
+      "id": "I0Vmii2FFIR4",
+      "title": "Two passport photographs of party involved",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "J8Cdy4VueYP8",
+      "kind": "text"
+    },
+    {
+      "id": "GqgcDqqpkxRf",
+      "title": "Permanent Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "l08lNyxo7niP",
+      "kind": "text"
+    },
+    {
+      "id": "4gsyBRpEPdCo",
+      "title": "PAN Card Number",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "buOLqujRcywa",
+      "kind": "text"
+    },
+    {
+      "id": "sGBncg5dIA8N",
+      "title": "Identity proof of party involved(Aadhar Card,PAN card etc.)",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "4h0XyYX0w6gC",
+      "kind": "text"
+    },
+    {
+      "id": "lU0f4WggbvTz",
+      "title": "Verified copy of the original old sale deed.",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "EQq4UNpKYlen",
+      "kind": "text"
+    },
+    {
+      "id": "GcT8mth0uX3t",
+      "title": "Proof of payment of stamp duty and registration fee",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "pHOT5mp2VS5R",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#3B82F6",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1489769002049-ccd828976a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHw2fHxQcm9wZXJ0eSUyMGJhY2tncm91bmR8ZW58MHx8fHwxNjUwNzkwNTg2&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 56
+    }
+  }
+}

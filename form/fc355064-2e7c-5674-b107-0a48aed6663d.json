@@ -1,0 +1,601 @@
+{
+  "id": "fc355064-2e7c-5674-b107-0a48aed6663d",
+  "category": "Employee & Job",
+  "thumbnailUrl": "assets/thumbnails/fc355064-2e7c-5674-b107-0a48aed6663d.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Employee Performance Evaluation Form Template",
+  "fields": [
+    {
+      "id": "siI9RxXGQrgj",
+      "title": "Employee Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "HrFUrhj43cV7",
+      "kind": "text"
+    },
+    {
+      "id": "NSPhHcOg2nDf",
+      "title": "Designation",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "X4kYdAsyEeod",
+      "kind": "text"
+    },
+    {
+      "id": "TyeOi2ysZmAr",
+      "title": "Department",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ebknAxeqyQxz",
+      "kind": "text"
+    },
+    {
+      "id": "CCCabBMzJgez",
+      "title": "Line Manager",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "PhdRPKu5Qhpb",
+      "kind": "text"
+    },
+    {
+      "id": "FYg8b5OJXdiz",
+      "title": "Date of Joining",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "score": null
+      }
+    },
+    {
+      "id": "beLerCSa1CjA",
+      "kind": "text"
+    },
+    {
+      "id": "q3ranxQZv2GL",
+      "title": "Date of Review",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "score": null
+      }
+    },
+    {
+      "id": "eXPpxWijRcCQ",
+      "kind": "text"
+    },
+    {
+      "id": "56q1HvBgx35j",
+      "title": "Communication Skill",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "2MAghUbz0PVA",
+      "kind": "text"
+    },
+    {
+      "id": "BqvqL5dhO7SN",
+      "title": "Adeptness at analyzing facts, problem solving, decision-making, and demonstrating good judgment",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "754tArkjosFJ",
+      "kind": "text"
+    },
+    {
+      "id": "zK9PS2Oti14S",
+      "title": "Technical Skill –  Job Knowledge.",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "bePbmLsmqGGd",
+      "kind": "text"
+    },
+    {
+      "id": "U2SRwSdxSbxt",
+      "title": "Interaction with coworkers",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "b9fVaTuwKWzc",
+            "label": "Choice 1",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "r97vitjcnDQD",
+      "kind": "text"
+    },
+    {
+      "id": "h6BBeaPm3MEf",
+      "title": "Punctuality - How disciplined he is in taking leave? Does he tend to take unplanned leave?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "EaOQXSFVAL0l",
+      "kind": "text"
+    },
+    {
+      "id": "3UfGMNybMfqT",
+      "title": "Availability for Task ",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "BcXflYPYMd3r",
+      "kind": "text"
+    },
+    {
+      "id": "5ToH3Dxj2odx",
+      "title": "Work Quality",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "nPb79tQPOrCh",
+      "kind": "text"
+    },
+    {
+      "id": "LoiINNmnvA7v",
+      "title": "Work Potential: Has he shown any improvement in required skills over the  last projects / Task assigned?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "WyOv4kcClRM9",
+      "kind": "text"
+    },
+    {
+      "id": "DU2QiyJnFWlO",
+      "title": "Dependency / Reliability -Can team rely on his ability to handle the Task",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "s68RDEVhBNhC",
+      "kind": "text"
+    },
+    {
+      "id": "OKeqhqVHj2cA",
+      "title": "Work Consistency  - Organize and performs work in a timely manner",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "XoyEdWCq6I2M",
+      "kind": "text"
+    },
+    {
+      "id": "QHb1R6Sv6vnK",
+      "title": "Achievements, if any",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "WURJ3uoQ35Ug",
+      "kind": "text"
+    },
+    {
+      "id": "Thl1ZDhed3fB",
+      "title": "Incidents, if any",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Uqv2pGgLPKMI",
+      "kind": "text"
+    },
+    {
+      "id": "Sp6oyhseAfwN",
+      "title": "Comments / feedback/ suggestions",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "st5onYeZl4ao",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/forms/Employee-Performance.jpg",
+      "backgroundBrightness": 84
+    }
+  }
+}

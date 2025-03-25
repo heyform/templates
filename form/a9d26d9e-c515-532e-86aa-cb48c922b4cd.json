@@ -1,0 +1,351 @@
+{
+  "id": "a9d26d9e-c515-532e-86aa-cb48c922b4cd",
+  "category": "Marketing",
+  "thumbnailUrl": "assets/thumbnails/a9d26d9e-c515-532e-86aa-cb48c922b4cd.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Digital Marketing Quiz Template",
+  "fields": [
+    {
+      "id": "OE0v3E8G40ls",
+      "title": "What does the 3rd R of the AARRR Funnel stand for?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "69hsxMbwByoo",
+            "label": "Revenue"
+          },
+          {
+            "id": "ZKO2cU6mz1u3",
+            "label": "Regression"
+          },
+          {
+            "id": "zTADk1jq341J",
+            "label": "Referral"
+          },
+          {
+            "id": "5pC3Meqh7gOC",
+            "label": "Retrograde"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bQBAbtjKt7Ah",
+      "kind": "text"
+    },
+    {
+      "id": "O2ZoT9MHojAy",
+      "title": "What does AMP stand for?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "ooLiYWJEqznO",
+            "label": "Accelerated Mobile Pages"
+          },
+          {
+            "id": "6ElCRmAtzwgG",
+            "label": "Advertisement Mobile Pages"
+          },
+          {
+            "id": "FVNApOgRJhnO",
+            "label": "Augmented Mobile Pages"
+          }
+        ]
+      }
+    },
+    {
+      "id": "XiADpNZ13Kkl",
+      "kind": "text"
+    },
+    {
+      "id": "aYA8mN4VP3y3",
+      "title": "What are you doing if you disavow a link in Google’s Search Console?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "rkvZjnRsUCzV",
+            "label": "Asking Google to disregard the link"
+          },
+          {
+            "id": "A3nicMDaewOa",
+            "label": "Asking Google to consider the link"
+          },
+          {
+            "id": "kwzSumaqwGHE",
+            "label": "Reporting a website as spam"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Z4I9kDYZpBSZ",
+      "kind": "text"
+    },
+    {
+      "id": "0OmTv88ybbZy",
+      "title": "Where are Leaderboard ads usually displayed on web pages?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "NTUy7yvZ0eZg",
+            "label": "Seamlessly embedded in editorial content"
+          },
+          {
+            "id": "qrLD8NdhTIx5",
+            "label": "Embedded in left navigation menu"
+          },
+          {
+            "id": "sqeO2lGu8HqG",
+            "label": "To the right of the page"
+          },
+          {
+            "id": "5e0jVDyAzBlO",
+            "label": "On the top of the page"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SWt4Zgkc3UQa",
+      "kind": "text"
+    },
+    {
+      "id": "RlxhhqQaTEhx",
+      "title": "What does Guerrilla marketing typically focus on?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "5Qbb4SHPHVyQ",
+            "label": "Low cost creative marketing strategies"
+          },
+          {
+            "id": "slVhNnzxhgHj",
+            "label": "Non profit organisations"
+          },
+          {
+            "id": "2EYlR4FfdvfL",
+            "label": "Cannibalization of other products/services"
+          },
+          {
+            "id": "BImkIj0GIVE9",
+            "label": "Selling without sales tax"
+          }
+        ]
+      }
+    },
+    {
+      "id": "zo35B9OFAALp",
+      "kind": "text"
+    },
+    {
+      "id": "6456Mdue7F0S",
+      "title": "On Facebook, if the CTR of your ad increases, what will most likely happen to the CPC?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "0qCAlHhEMHt9",
+            "label": "Facebook does not have CPC as a metric"
+          },
+          {
+            "id": "EcyUpnfbKoC1",
+            "label": "No change"
+          },
+          {
+            "id": "X1pRAcshKYJP",
+            "label": "Increase"
+          },
+          {
+            "id": "JheZHC9akLpi",
+            "label": "Decrease"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nIXT72amR8Jr",
+      "kind": "text"
+    },
+    {
+      "id": "9knM8RXAgrYZ",
+      "title": "In SEO, what's the ideal target keyword density of a piece of content?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "JpOpQRVQN91d",
+            "label": "2-4%"
+          },
+          {
+            "id": "jJkO2I0yqhiw",
+            "label": "5-10%"
+          },
+          {
+            "id": "kggaChLM0Wee",
+            "label": "10-15%"
+          },
+          {
+            "id": "F4ipS5Bidxq4",
+            "label": "There is no ideal keyword density"
+          }
+        ]
+      }
+    },
+    {
+      "id": "CETfAJJMsDmW",
+      "kind": "text"
+    },
+    {
+      "id": "HPrjWcMfe263",
+      "title": "According to Litmus, what was the % share of email opens on desktop, webmail, and mobile in 2017?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "hu5IxV7Ymfha",
+            "label": "36% desktop, 17% webmail, and 47% mobile"
+          },
+          {
+            "id": "jvmTeJfK4l8t",
+            "label": "17% desktop, 36% webmail, and 47% mobile"
+          },
+          {
+            "id": "apUfqKlKBOuu",
+            "label": "47% desktop, 17% webmail, and 36% mobile"
+          }
+        ]
+      }
+    },
+    {
+      "id": "XwsAlzrOR244",
+      "kind": "text"
+    },
+    {
+      "id": "3GWZW2U1ksp4",
+      "title": "What factors dictate whether an AdWords ad appears in the top position?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "Ajjr6fnac8pN",
+            "label": "Quality Score"
+          },
+          {
+            "id": "GSkyGUf0Kvdt",
+            "label": "Total Ad Spend"
+          },
+          {
+            "id": "lzqoMx9Zh2Ug",
+            "label": "Quality Score and CPC bid"
+          },
+          {
+            "id": "KxfY3I940fC7",
+            "label": "Pay per Click"
+          }
+        ]
+      }
+    },
+    {
+      "id": "L3zMNr84CxVi",
+      "kind": "text"
+    },
+    {
+      "id": "5HeCRMBVgP78",
+      "title": "In Google Analytics, which of the following metrics would most strongly suggest a poorly performing landing page?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "AAWLEJNC954i",
+            "label": "Bounce Rate < 90ˆ%"
+          },
+          {
+            "id": "7bSeiOiuZ0Fz",
+            "label": "% New Visits > 90%"
+          },
+          {
+            "id": "3yUmSNlchAtF",
+            "label": "Session Duration > 5 minutes"
+          },
+          {
+            "id": "j7CTUSC89Vgn",
+            "label": "Bounce Rate > 90%"
+          },
+          {
+            "id": "YKInFHAv5vWx",
+            "label": "Goal Conversion Rate > 20%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "C8W1i6YDTClR",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#262627",
+      "answerTextColor": "#262627",
+      "buttonBackground": "#262627",
+      "buttonTextColor": "#E5E5E6",
+      "backgroundColor": "#FBC4AD",
+      "backgroundImage": "https://forms.b-cdn.net/themev3/theme-background-02.png",
+      "backgroundBrightness": 0
+    }
+  }
+}

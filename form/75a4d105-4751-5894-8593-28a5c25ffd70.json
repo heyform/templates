@@ -1,0 +1,104 @@
+{
+  "id": "75a4d105-4751-5894-8593-28a5c25ffd70",
+  "category": "Event",
+  "thumbnailUrl": "assets/thumbnails/75a4d105-4751-5894-8593-28a5c25ffd70.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Summer Camp Enrollment Form Template",
+  "fields": [
+    {
+      "id": "QciTpIPDT40t",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "IQGYsZcb2Bbk",
+      "kind": "text"
+    },
+    {
+      "id": "1bXe8ptcOa5S",
+      "title": "Contact",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "ywv2s9y7Uc7d",
+      "kind": "text"
+    },
+    {
+      "id": "fbULyO4LnmJD",
+      "title": "Date",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "41GKWatqUgRQ",
+      "kind": "text"
+    },
+    {
+      "id": "207VsAPQXWxm",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "evpmCmHfiQIi",
+      "kind": "text"
+    },
+    {
+      "id": "n8dJbOqOM3Wa",
+      "title": "ID Proof",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "HLAZIxgOJLkT",
+      "kind": "text"
+    },
+    {
+      "id": "CgH9X7f0xOUP",
+      "title": "Terms And Policy",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "dpXEgZb3L97E",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#011a34",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/forms/Summer%20Camp%20Enrollment.png",
+      "backgroundBrightness": 48
+    }
+  }
+}

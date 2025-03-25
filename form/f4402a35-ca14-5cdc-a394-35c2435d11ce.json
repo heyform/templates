@@ -1,0 +1,119 @@
+{
+  "id": "f4402a35-ca14-5cdc-a394-35c2435d11ce",
+  "category": "Event",
+  "thumbnailUrl": "assets/thumbnails/f4402a35-ca14-5cdc-a394-35c2435d11ce.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Music Event Registration Form Template",
+  "fields": [
+    {
+      "id": "0SOAeJpXUPAD",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "IFSscRWk65I3",
+      "kind": "text"
+    },
+    {
+      "id": "g8Ilc9PEpEmx",
+      "title": "Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "YMqYujGVt0mG",
+      "kind": "text"
+    },
+    {
+      "id": "5lGxv7zPJ6RA",
+      "title": "Contact",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "lHaz6agtbOBQ",
+      "kind": "text"
+    },
+    {
+      "id": "vikXRfcjHlT2",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "0VWspDcSP98u",
+      "kind": "text"
+    },
+    {
+      "id": "VF5YpICjQbUu",
+      "title": "Instrument Details",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Oia5DLDnxP2W",
+      "kind": "text"
+    },
+    {
+      "id": "UKDnstzv5A2d",
+      "title": "Comments",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "8f09222jlOKC",
+      "kind": "text"
+    },
+    {
+      "id": "JgjvGL3oQVra",
+      "title": "Terms And Policy Of Management",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "WpMoMyVAbYtd",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#333944",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/cXkvjqfpSupSSwL4GIb3c_Music%20Event%20registration%20form.jpg",
+      "backgroundBrightness": 61
+    }
+  }
+}

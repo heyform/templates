@@ -1,0 +1,495 @@
+{
+  "id": "b02e7428-9f77-5cb1-8c07-023488adcdd9",
+  "category": "Employee & Job",
+  "thumbnailUrl": "assets/thumbnails/b02e7428-9f77-5cb1-8c07-023488adcdd9.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "The Employee of the Year Polls",
+  "fields": [
+    {
+      "id": "44eiDJZv1ZEA",
+      "title": "Who is your Nominee? (The CEO, VPs, and ERC members are not eligible.)",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "LcxqBIGKmFGH",
+            "label": " Individual",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "cd283bBWnpll",
+            "label": "Team",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "I1RApjAHw76e",
+      "kind": "text"
+    },
+    {
+      "id": "p2xFp2mSmf0t",
+      "title": "Name of Nominee (If this is a team nomination enter the name of one person on that team. You'll be able to enter the other team members in step b.): ",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "zqMn1W5xxLtu",
+      "kind": "text"
+    },
+    {
+      "id": "nu0KTvi009nK",
+      "title": "If nominating a team, provide the names of the team members:",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "yNPdesQnDDVl",
+      "kind": "text"
+    },
+    {
+      "id": "HAeMD93OxrmU",
+      "title": "How does your nominee exemplify excellent teamwork? (We know they are great..tell us WHY)",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "8fVO4FrUlqSl",
+      "kind": "text"
+    },
+    {
+      "id": "QqUcgP4NVF46",
+      "title": "MSF BUSINESS ACCOMPLISHMENTS ",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "6RAReHSU83Bk",
+            "label": "Understands our high-priority objectives and works hard to make them happen.",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "dQvpKBRG5p9w",
+            "label": "Shows top-notch ability to organize and manage small or large projects/groups.",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "xPgipcA14cp8",
+            "label": "Is a leader, individually, within any team or group...leads by word and by example.",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "p6vDd5nm071l",
+      "kind": "text"
+    },
+    {
+      "id": "u0sFxMekxtcv",
+      "title": "What very special tasks or projects have you seen your Nominee do, above and beyond the call of duty, to enhance our services, our success, save $$$'s (and make us look good too!!)?",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "rU3Z3zv1NJoI",
+      "kind": "text"
+    },
+    {
+      "id": "r14g90r8tj2R",
+      "title": "CUSTOMER SERVICE:  ",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "KJbVVOmgt1CS",
+            "label": " Focuses on discovering, then meeting, customer needs both on time and courteously.",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "CxK5hK8B1Hiq",
+            "label": " Consistently sets the example of providing excellent internal Customer Service at the same level as external service.",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "STxZ2aDgFe7h",
+            "label": "Finds time to be involved in civic and charitable organizations.",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "rtLmktjfrKRf",
+      "kind": "text"
+    },
+    {
+      "id": "9k4bEJpSh0eG",
+      "title": "In what ways is your nominee's customer service exemplary?",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "wBr8Kq2Dws5O",
+      "kind": "text"
+    },
+    {
+      "id": "QPyxbKeqvCWg",
+      "title": "Your Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "nxxBEIJEIlPe",
+      "kind": "text"
+    },
+    {
+      "id": "59S06Fnq9PhB",
+      "title": "Email ID",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "R2XKQ7GOWuA2",
+      "kind": "text"
+    },
+    {
+      "id": "pqL09NCQhTen",
+      "title": "Month Nomination Submitted:",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "aQKyuYp4cuZR",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1528460033278-a6ba57020470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxOHx8YmFja2dyb3VuZHxlbnwwfHx8fDE2NTA3NjY3Nzk&ixlib=rb-1.2.1&q=80&w=1080",
+      "backgroundBrightness": 9
+    }
+  }
+}

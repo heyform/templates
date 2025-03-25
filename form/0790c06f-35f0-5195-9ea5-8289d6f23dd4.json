@@ -1,0 +1,737 @@
+{
+  "id": "0790c06f-35f0-5195-9ea5-8289d6f23dd4",
+  "category": "Business",
+  "thumbnailUrl": "assets/thumbnails/0790c06f-35f0-5195-9ea5-8289d6f23dd4.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Cleaning Service Agreement Form Template",
+  "fields": [
+    {
+      "id": "KqTFagklPcUk",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "aRHWK8WasvrG",
+      "kind": "text"
+    },
+    {
+      "id": "7ZLbcls5jU5L",
+      "title": "Appointment Date",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "DUPNJfxfSQF3",
+      "kind": "text"
+    },
+    {
+      "id": "heBmclkG7lpt",
+      "title": "Address",
+      "description": null,
+      "kind": "address",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "zu2KxXMG63m4",
+      "kind": "text"
+    },
+    {
+      "id": "5TJYNt0f3UPs",
+      "title": "Cell Phone",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "xzR6Gwk9kQp6",
+      "kind": "text"
+    },
+    {
+      "id": "ZAvSnDCyg2O0",
+      "title": "Home Phone",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "mdehcAjb7VkM",
+      "kind": "text"
+    },
+    {
+      "id": "nTjRaH2wWpUs",
+      "title": "Work Phone",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "PN1omxhjCCFP",
+      "kind": "text"
+    },
+    {
+      "id": "OsYnAY3Yr62R",
+      "title": "Email ID",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "gnr4PSGFvvKq",
+      "kind": "text"
+    },
+    {
+      "id": "HV8GlBL1tfbm",
+      "title": "Square footage of home",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "j3j3fjLhweHW",
+      "kind": "text"
+    },
+    {
+      "id": "m2dQrmPgkfSn",
+      "title": "No. of bedrooms at home",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "v1WWnTXUxpX0",
+      "kind": "text"
+    },
+    {
+      "id": "cujNb2PcnEqC",
+      "title": "No. of bathrooms at home",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "FNGqW3q4BpOi",
+      "kind": "text"
+    },
+    {
+      "id": "Qwda6HLJ6cvx",
+      "title": "In the event we have to reach while your cleaning appointment is taking place, what is your preferred means of contact?",
+      "description": null,
+      "kind": "dropdown",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "0QGAaDGlmwOO",
+            "label": "Cell Phone",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "PrIKoiJPNLic",
+            "label": "Home Phone",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "hWrDx7tE91xa",
+            "label": "Work Phone",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "3lRPjHb1NFS7",
+            "label": "Email",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "6paZ8qOa8Kgg",
+      "kind": "text"
+    },
+    {
+      "id": "nDSyCQR1ClSh",
+      "title": "What type of service applies to you?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "Nb1yRhzp3jvn",
+            "label": "First Time Appointment",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "SW2H2LlFOrZJ",
+            "label": "One Time Appointment",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "riA4vyU2pAjD",
+            "label": "Weekly Service",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "rbsumG7dnxvM",
+            "label": "Bi-weekly Service",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "GdSep2hHY3IL",
+            "label": "Monthly Service",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "CSwryPph5zvt",
+            "label": "Power Cleaning",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "oMU37BGtMh0C",
+      "kind": "text"
+    },
+    {
+      "id": "asgIIdY2pSOn",
+      "title": "How do we gain entrance?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "VjmEJ4aThSmy",
+            "label": "Keys with office",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "fhDWyNT3W2zn",
+            "label": "Keys with doorman",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "1YqNZLZo1DzI",
+            "label": "Someone will grant access",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ylaKDacF6RNt",
+      "kind": "text"
+    },
+    {
+      "id": "8R2qwiAAUcjC",
+      "title": "SPECIAL INSTRUCTIONS",
+      "description": null,
+      "kind": "paragraph",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "6fdBUxp8lcfF",
+      "kind": "text"
+    },
+    {
+      "id": "EHkVa0MqPnbR",
+      "title": "Please type your full name. This will serve as your electronic signature.",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "hC1qS670cKpp",
+      "kind": "text"
+    },
+    {
+      "id": "vx7hisv8h3oi",
+      "title": "In the event that we have to temporarily or permanently change your cleaning consultant, how would you like to be notified?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "B5It1CnHyWuS",
+            "label": "Please email me",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "cBqVleQ39gyG",
+            "label": "Please call me",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "KrL6dyomBB36",
+            "label": "Don't email/call, I am OK with any replacements",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "NJ2gXqtF2bdQ",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#45474a",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/avoLYlt826MRaN76R6cC2_Cleaning%20Service%20Agreement%20Form%20Template.jpg",
+      "backgroundBrightness": 47
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "id": "5f0c54ba-bc39-5fc8-8a09-9b06cefe621c",
+  "category": "Remote Working",
+  "thumbnailUrl": "assets/thumbnails/5f0c54ba-bc39-5fc8-8a09-9b06cefe621c.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Freelance Contract Template",
+  "fields": [
+    {
+      "id": "FIFTnlIUDNAl",
+      "title": "Customer Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ocUTtLBIlNm7",
+      "kind": "text"
+    },
+    {
+      "id": "j5ZHrNVswRfU",
+      "title": "Customer Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "D3zwUPN0W0Ge",
+      "kind": "text"
+    },
+    {
+      "id": "EoX2KPmUFOpZ",
+      "title": "Freelancer Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "3UGpIlnktGh5",
+      "kind": "text"
+    },
+    {
+      "id": "KMiMPQhTvrJJ",
+      "title": "Freelancer Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ZDnd95jBTjfH",
+      "kind": "text"
+    },
+    {
+      "id": "oFApQ6IWwAzR",
+      "title": "Job Position",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ZEubiHsrDvIp",
+      "kind": "text"
+    },
+    {
+      "id": "MwL5oVcS3EUd",
+      "title": "Job Description and Deliverables",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "czTJ6S1S91pA",
+      "kind": "text"
+    },
+    {
+      "id": "Ric0X7ft4xOd",
+      "title": "Intellectual Property Rights Retention Clause",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "vFDV6ltH3vJZ",
+      "kind": "text"
+    },
+    {
+      "id": "XfDJapTH0KxV",
+      "title": "Price",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "pYiZAKoLtiyn",
+      "kind": "text"
+    },
+    {
+      "id": "YZunSdxPugeC",
+      "title": "Project Schedule",
+      "kind": "dropdown",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "yJTU5y9LTd6g",
+            "label": "1 week"
+          },
+          {
+            "id": "K9tMD1jUCJpp",
+            "label": "2 weeks"
+          },
+          {
+            "id": "0z9ii9BrqOMe",
+            "label": "3 weeks"
+          },
+          {
+            "id": "fEfeK4hLq8oU",
+            "label": "1-3 months"
+          },
+          {
+            "id": "SffblLxHEd5Y",
+            "label": "More than 3 months"
+          }
+        ]
+      }
+    },
+    {
+      "id": "EVYE8MMJmpGj",
+      "kind": "text"
+    },
+    {
+      "id": "ZOi6cEvohWP8",
+      "title": "Freelance Payment Term",
+      "kind": "dropdown",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "QsZAtIqpYmfG",
+            "label": "Hourly"
+          },
+          {
+            "id": "tKddjgpVlNxD",
+            "label": "Daily"
+          },
+          {
+            "id": "KK5s6wkCurh5",
+            "label": "Weekly"
+          },
+          {
+            "id": "7eHaZneD9AYB",
+            "label": "Bi-weekly"
+          },
+          {
+            "id": "G1iPYQS9T6p7",
+            "label": "Monthly"
+          },
+          {
+            "id": "9BYhqkzbGjVN",
+            "label": "One time payment"
+          },
+          {
+            "id": "7r9c2rwboJKR",
+            "label": "Two payment term"
+          }
+        ]
+      }
+    },
+    {
+      "id": "X7yaKCiiH8PS",
+      "kind": "text"
+    },
+    {
+      "id": "GPqcLXiE844A",
+      "title": "Date of Execution of Agreement",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "Rce2pAn83dwc",
+      "kind": "text"
+    },
+    {
+      "id": "ESDTSJtb46u8",
+      "title": "Client",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Fc4zlFyhtAXC",
+      "kind": "text"
+    },
+    {
+      "id": "REnfZ1ulU79Z",
+      "title": "Freelancer",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "GIcWsTlh6jSm",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#2a2c30",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/Qu8PnYsmPW0dbILaDnatO_freelance%20contract%202.jpeg",
+      "backgroundBrightness": 73
+    }
+  }
+}

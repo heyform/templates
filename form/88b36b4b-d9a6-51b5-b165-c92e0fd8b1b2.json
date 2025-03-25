@@ -1,0 +1,291 @@
+{
+  "id": "88b36b4b-d9a6-51b5-b165-c92e0fd8b1b2",
+  "category": "Registration",
+  "thumbnailUrl": "assets/thumbnails/88b36b4b-d9a6-51b5-b165-c92e0fd8b1b2.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Soccer Camp Registration Form Template",
+  "fields": [
+    {
+      "id": "sYHbbKoTDM9Y",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "pSo0qHJ0CpA5",
+      "kind": "text"
+    },
+    {
+      "id": "JQT6TyKgdylZ",
+      "title": "Date",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "8pi5U4IVRPS9",
+      "kind": "text"
+    },
+    {
+      "id": "YGn4q7A1v0ND",
+      "title": "Contact",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "1WBopMXs184Z",
+      "kind": "text"
+    },
+    {
+      "id": "O6MZbR8hz10a",
+      "title": "Address",
+      "description": null,
+      "kind": "address",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "calb8GnqBxwQ",
+      "kind": "text"
+    },
+    {
+      "id": "IPwj6AKCRLNi",
+      "title": "Under 18",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "Smlvkrttf9Xm",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "sePO57gdpH4O",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ZFkxe36f52RZ",
+      "kind": "text"
+    },
+    {
+      "id": "ylpTEaximULI",
+      "title": "ID Proof",
+      "description": null,
+      "kind": "file_upload",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "gN4uI9fM4yv8",
+      "kind": "text"
+    },
+    {
+      "id": "xppsc3WxgMbP",
+      "title": "Do you agree with our terms & policy?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "KVs46AORXFfu",
+            "label": "Yes"
+          },
+          {
+            "id": "Q63lGEy4PoT4",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MOYLRARbWvMl",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?q=80&w=1729&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "backgroundBrightness": 69
+    }
+  }
+}

@@ -1,0 +1,1033 @@
+{
+  "id": "584aaa9c-9019-5367-b587-61d097ab19c9",
+  "category": "Covid-19",
+  "thumbnailUrl": "assets/thumbnails/584aaa9c-9019-5367-b587-61d097ab19c9.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "COVID-19 Vaccine Consent Form Template",
+  "fields": [
+    {
+      "id": "uXqt4WuaTjDv",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "vuhjNBOiI1YZ",
+      "kind": "text"
+    },
+    {
+      "id": "X2pEJIZMJ9fV",
+      "title": "Phone Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "76qXTn6AtlwF",
+      "kind": "text"
+    },
+    {
+      "id": "AeQ2ipcLcJSg",
+      "title": "Email Address",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "PelpTGBfBL7z",
+      "kind": "text"
+    },
+    {
+      "id": "y9BjS4Rg5OxV",
+      "title": "Home Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "a5ekYaFMOXhR",
+      "kind": "text"
+    },
+    {
+      "id": "WdyKCx5jDwBi",
+      "title": "Do you have allergies to latex, food, medications, or vaccine components? (such as eggs, thimerosal, gelatin, neomycin,phenol, or bovine protein)?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "J9Gv05vtnmN4",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "SWtQzv9RAXbz",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Hjyl6h8cgLtP",
+      "kind": "text"
+    },
+    {
+      "id": "cdGAK8rY4HU0",
+      "title": "Did you ever experience any serious reaction after getting a vaccine?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "KsRtVjaA76qH",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qDKwndA2a0fO",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ZKGPNFq0DwvU",
+      "kind": "text"
+    },
+    {
+      "id": "7MZ9QVFeTWrR",
+      "title": "In the past year, did you receive a transfusion of blood or blood products, or get injected immune (gamma) globulin or any antiviral drug?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "iDoDhRhSalZa",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "lme83bBd9ZnN",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "XDX22Wo31kaj",
+      "kind": "text"
+    },
+    {
+      "id": "JaNPHa4enXfw",
+      "title": "Did you have any brain or other nervous system problems?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "Zi06n96Qyh2h",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "p8bcJ6r56Z2Y",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "eXoeLYp0UiyF",
+      "kind": "text"
+    },
+    {
+      "id": "C8ZLzshxdwSS",
+      "title": "Have you get vaccinated in the last 4 weeks?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "V31MRzmPmgLz",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "fIYw1xwnNBek",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "VWSScGWZNyQp",
+      "kind": "text"
+    },
+    {
+      "id": "afYZYJDLR4IJ",
+      "title": "Are your pregnant or planning to get pregnant, or is your partner planning to get pregnant?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "vYpDg7sajnFU",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "yBo956uCgjmQ",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "fzKnGALypnTy",
+      "kind": "text"
+    },
+    {
+      "id": "ASUOZP9Yfjeg",
+      "title": "Do you have any of the followings? (select all that apply)",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "6mMiM3EBaUZ0",
+            "label": "Lung disease",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "mY6nkaLcwICE",
+            "label": "Heart disease",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "dTOfzm0f6Nqj",
+            "label": "Kidney disease",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "7vFkwlaBZipI",
+            "label": "Anemia",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Bg5BWvHiI795",
+            "label": "Blood disorder",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "m5aVVgZC55s5",
+            "label": "None",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Q02KSTnt8t1t",
+      "kind": "text"
+    },
+    {
+      "id": "bgfj7c34ADUE",
+      "title": "Do you have immunocompromised condition? (select all that apply)",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "EegkUQp0MugA",
+            "label": "Cancer",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "2xErQKpDyHGK",
+            "label": "Leukemia",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "hs0ejw4hokPK",
+            "label": "Lymphoma",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "g8NY3rZ8wKkk",
+            "label": "HIV/AIDS",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "xfQF9zezOZOf",
+            "label": "Transplant",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "GoCTk2iVZa2d",
+            "label": "Asplenia",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "5J5ikdIIFV3i",
+            "label": "CSF leak",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "OMWrk8OMhNSs",
+            "label": "Cochlear implant",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Cj1xf4JZiHGw",
+            "label": "None",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "JsxoPhb9ruYq",
+      "kind": "text"
+    },
+    {
+      "id": "1VfNhpaaibrA",
+      "title": "Have you ever tested positive for COVID-19?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "MYBwZdaJQX4X",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ihyrFrNGb3xK",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "pc9gUxYjgqSp",
+      "kind": "text"
+    },
+    {
+      "id": "XBtZt3enIH1J",
+      "title": "In the last 14 days, have you contacted with a person who was confirmed to have COVID-19?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "rYnEXufYdctv",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "MvzVAwiAxoYs",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "NimWWXgRWvMd",
+      "kind": "text"
+    },
+    {
+      "id": "ewldTKKHiNXJ",
+      "title": "In the last 14 days, have you travelled internationally?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "df1qp9ENISPT",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "U7tyqggGQ0U9",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "2dXxA471D2Sh",
+      "kind": "text"
+    },
+    {
+      "id": "iEk5UP4Xn8Bk",
+      "title": "Do you have any of the followings?",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "Zt0FTTczUlar",
+            "label": "Cough",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "w14hIHsoyf1g",
+            "label": "Cold",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "lc298pEDL9eX",
+            "label": "Fever",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "PKpWYYGq6Thw",
+            "label": "Shortness of breath",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "5hySXCI0n3Fb",
+            "label": "Sore throat",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Dk0QIrQMmwoN",
+            "label": "Lost of smell/taste",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "w6XFmhYgf1Ay",
+            "label": "Abdominal pain/diarrhea",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ixg4dxX4a6Ar",
+            "label": "Abnormal bruising or bleeding/eye redness",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "u9RRvXrutpIQ",
+      "kind": "text"
+    },
+    {
+      "id": "ndVrvad0B0NN",
+      "title": "Emergency Contact: Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "dapdIrUe4USG",
+      "kind": "text"
+    },
+    {
+      "id": "LtzwpzmiMlc4",
+      "title": "Emergency Contact: Phone Number",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "oscK4wi9YAZ3",
+      "kind": "text"
+    },
+    {
+      "id": "RKfow6vCE0R7",
+      "title": "Emergency Contact: Relation",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "MvOqAPKmHqDv",
+      "kind": "text"
+    },
+    {
+      "id": "P0n1putLk6le",
+      "title": "Date",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "jVZ5FnJffpm4",
+      "kind": "text"
+    },
+    {
+      "id": "SWbFvpw7mCVr",
+      "title": "Signature",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "VPEuZQekP7f9",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#1b1b1e",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/kUBsdh5KDA0KrxCSu2ijc_COVID-19%20Vaccine%20Consent%20Form%20Template.jpg",
+      "backgroundBrightness": 80
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "b288f07d-9410-5356-b720-5b377b60548c",
+  "category": "Donation & Charity",
+  "thumbnailUrl": "assets/thumbnails/b288f07d-9410-5356-b720-5b377b60548c.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Fundraiser For Elementary School Template",
+  "fields": [
+    {
+      "id": "8CvXFwdK6D5r",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "rVpyK3Ib5jPD",
+      "kind": "text"
+    },
+    {
+      "id": "qZAIpmpI9fZP",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "rBNpUrF717lV",
+      "kind": "text"
+    },
+    {
+      "id": "l3BinZZDDhEI",
+      "title": "Phone Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "bW73NsLnaPLd",
+      "kind": "text"
+    },
+    {
+      "id": "X1K4atZ5MXsT",
+      "title": "Shipping Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "mNUvri4uTHPI",
+      "kind": "text"
+    },
+    {
+      "id": "GhzdPWn698ei",
+      "title": "Select Items",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "XQoYL33aH5lp",
+            "label": "Mixed Bag Designs – Catalog sale of very stylish tote bags, beach bags, grocery bags, etc. Very high revenue and 50% profit margin."
+          },
+          {
+            "id": "I67eqWCjki5I",
+            "label": "Pizza Discount Cards – Retails for $10 and costs only $2. Customer gets 2-for-1 pizzas for a year. Available from all major pizza chains including Domino’s, Pizza Hut, Papa John’s and Little Caesars."
+          },
+          {
+            "id": "5psNEIfHEP2e",
+            "label": "Restaurant $100 Fundraising Gift Card - Fabulous deal for all involved. Customer gets $100 worth of restaurant gift certificates for $20. Card costs schools just $10 each, so its 50% profit. Card never expires and customer goes online to get gift certificates to local restaurants as needed whenever they want."
+          },
+          {
+            "id": "pEiihVcjiXZM",
+            "label": "Spices & Seasonings Fundraiser – A fundraising product that moms love with top quality spices and seasonings at prices well below grocery stores. Profit margin is 45%."
+          },
+          {
+            "id": "rEudTa1pbdHK",
+            "label": "Bags For Bucks – Selling trash bags to raise funds sounds difficult, but its not. And there’s a lot of money in it if you sell to local businesses as well as to individuals. Profit margin is 40%."
+          }
+        ]
+      }
+    },
+    {
+      "id": "IxrgksiSKMLP",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#116432",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/e3QJVVQ2wDHQA0Q4LhdiS_Fundraiser%20for%20elementary%20school%201.jpeg",
+      "backgroundBrightness": 78
+    }
+  }
+}

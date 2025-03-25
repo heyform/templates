@@ -1,0 +1,229 @@
+{
+  "id": "f505bbc9-8852-564e-bc6f-ab33ec4dbdba",
+  "category": "Survey",
+  "thumbnailUrl": "assets/thumbnails/f505bbc9-8852-564e-bc6f-ab33ec4dbdba.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Self Assessment Survey Template",
+  "fields": [
+    {
+      "id": "I4YhI7iJHKQM",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "3Iyb8JcYiiud",
+      "kind": "text"
+    },
+    {
+      "id": "C7y05kktTpAH",
+      "title": "Email Address",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "TBKYcTPqfLbQ",
+      "kind": "text"
+    },
+    {
+      "id": "SBvQ76dK4jPk",
+      "title": "Department",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Psy68sou86tt",
+      "kind": "text"
+    },
+    {
+      "id": "ddUeOMFirk8G",
+      "title": "How well do you believe you handle pressure?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "O5Re7e8tzeO9",
+      "kind": "text"
+    },
+    {
+      "id": "thYoIpRel2qT",
+      "title": "Do you display dedication to the customer or client?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "TznvvEzpGO1x",
+      "kind": "text"
+    },
+    {
+      "id": "U2QLiZoLmA51",
+      "title": "How often do you believe you display ethical behaviour?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "10ROB5mbHTJH",
+      "kind": "text"
+    },
+    {
+      "id": "G2rS5pQpuMh0",
+      "title": "How would you rate your effectiveness at problem solving?",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "tsD2LvMXO6Iy",
+      "kind": "text"
+    },
+    {
+      "id": "kkCTZ81f9uhB",
+      "title": "How would you rate your effectiveness at conflict resolution?",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "E82qq5U80SaP",
+      "kind": "text"
+    },
+    {
+      "id": "2qAycBiFjPDC",
+      "title": "How would you rate your passion towards the company vision?",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "fbwLa9cIkboS",
+      "kind": "text"
+    },
+    {
+      "id": "yBHtsp055zjm",
+      "title": "How would you rate your ability to take feedback well?",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "hD4jp4NSbGO0",
+      "kind": "text"
+    },
+    {
+      "id": "KACzYWNC5kaY",
+      "title": "Are there any additional comments you would like to share regarding your leadership?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "hVbbf79y1H48",
+      "kind": "text"
+    },
+    {
+      "id": "2P1iqT6ubw69",
+      "title": "How well do you believe you demonstrate respectful treatment of others?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "4gOuSFZ2BsZA",
+      "kind": "text"
+    },
+    {
+      "id": "CDYMUaCozWtY",
+      "title": "How would you rate your response to a change in priorities or deadlines?",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "dBQtPUk4umJI",
+      "kind": "text"
+    },
+    {
+      "id": "9ixYWXEMBkaE",
+      "title": "What is something you think you do well?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "VrLq5oFWZAPa",
+      "kind": "text"
+    },
+    {
+      "id": "liHAPw1xnFY6",
+      "title": "What is something you think you can improve on?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "TMYNkd2xgEhh",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#ffffff",
+      "answerTextColor": "#f3f3f3",
+      "buttonBackground": "#f9f9f9",
+      "buttonTextColor": "#000000",
+      "backgroundColor": "#000000",
+      "backgroundImage": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxOXx8c2VsZi1hc3Nlc3NtZW50fGVufDB8fHx8MTY1MDc3MTA1Mg&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": -47
+    }
+  }
+}

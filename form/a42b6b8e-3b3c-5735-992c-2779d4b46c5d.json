@@ -1,0 +1,122 @@
+{
+  "id": "a42b6b8e-3b3c-5735-992c-2779d4b46c5d",
+  "category": "Contact",
+  "thumbnailUrl": "assets/thumbnails/a42b6b8e-3b3c-5735-992c-2779d4b46c5d.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Opt-In Form Template",
+  "fields": [
+    {
+      "id": "lPxeeRroGoh2",
+      "title": "Name",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "T0x5sa8OxUjf",
+      "kind": "text"
+    },
+    {
+      "id": "XvJ4fOU1FlXt",
+      "title": "Contact address",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "D8qOREGEK14i",
+      "kind": "text"
+    },
+    {
+      "id": "xuogTJhYs1A4",
+      "title": "E-mail ID",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "2Qux58QIUITt",
+      "kind": "text"
+    },
+    {
+      "id": "gGoHUGACOoby",
+      "title": "Comments",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "svv9wGNmHvY8",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#2a2f38",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/ak0eEsIVBAVMhYQjwtTXK_Opt-In%20form.jpg",
+      "backgroundBrightness": 59
+    }
+  }
+}

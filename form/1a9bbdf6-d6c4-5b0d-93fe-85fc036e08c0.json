@@ -1,0 +1,179 @@
+{
+  "id": "1a9bbdf6-d6c4-5b0d-93fe-85fc036e08c0",
+  "category": "Marketing",
+  "thumbnailUrl": "assets/thumbnails/1a9bbdf6-d6c4-5b0d-93fe-85fc036e08c0.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Event Registration Form",
+  "fields": [
+    {
+      "id": "SR0uuOnAmses",
+      "title": [
+        "Welcome to [Event Name]!"
+      ],
+      "description": [
+        "We're excited to have you join us for this special event. Please fill out the registration form to secure your spot. It only takes a few minutes!"
+      ],
+      "kind": "welcome",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "D2jDHDcZfSlc",
+      "title": [
+        "What should we call you?"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {
+        "required": false
+      },
+      "properties": null,
+      "layout": {}
+    },
+    {
+      "id": "eGcERGUJBwlY",
+      "title": [
+        "Where can we send your confirmation and event details?"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "HcNB7ghK0eza",
+      "title": [
+        "What's the best number to reach you?"
+      ],
+      "description": [],
+      "kind": "phone_number",
+      "validations": {},
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "3jxSFhm3XdHr",
+      "title": [
+        "Which event are you registering for?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "ggkZYPetoabR",
+            "label": "Marketing Workshop"
+          },
+          {
+            "id": "KYHlISnioomk",
+            "label": "Webinar: Digital Trends 2024"
+          },
+          {
+            "id": "AV6Xx4NnSg12",
+            "label": "Product Launch Event"
+          },
+          {
+            "id": "s2ScbZwHCFsd",
+            "label": "Networking Session"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7BUapqclnGk1",
+      "title": [
+        "Is this your first time attending our event?"
+      ],
+      "description": [],
+      "kind": "yes_no",
+      "validations": {},
+      "properties": {
+        "choices": [
+          {
+            "id": "FwKyyeimMEUh",
+            "label": "Yes"
+          },
+          {
+            "id": "Qo2jh5Waje8V",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9spuE6g43qO",
+      "title": [
+        "Do you have any dietary restrictions or special requirements?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "xDBzy9OAdGfE",
+      "title": [
+        "How did you hear about this event?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowOther": true,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "SVvABb1FhMLB",
+            "label": "Social Media"
+          },
+          {
+            "id": "RfDyAO9FQXA1",
+            "label": "Email Newsletter"
+          },
+          {
+            "id": "c9lxgVFDT4XN",
+            "label": "Friend/Colleague"
+          },
+          {
+            "id": "vkUVdR6YFrG7",
+            "label": "Online Search"
+          }
+        ]
+      }
+    },
+    {
+      "id": "o5IjRUBtbNZ6",
+      "title": [
+        "Thank You for Registering!"
+      ],
+      "description": [
+        "We look forward to seeing you at the event. Keep an eye on your email for further details and updates. If you have any questions in the meantime, feel free to reach out."
+      ],
+      "kind": "thank_you",
+      "validations": null,
+      "properties": null,
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000",
+      "answerTextColor": "#020617",
+      "buttonBackground": "#020617",
+      "buttonTextColor": "#fff",
+      "backgroundColor": "#fef08a"
+    }
+  }
+}

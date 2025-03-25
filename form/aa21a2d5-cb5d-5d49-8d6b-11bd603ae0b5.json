@@ -1,0 +1,180 @@
+{
+  "id": "aa21a2d5-cb5d-5d49-8d6b-11bd603ae0b5",
+  "category": "Marketing",
+  "thumbnailUrl": "assets/thumbnails/aa21a2d5-cb5d-5d49-8d6b-11bd603ae0b5.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Website Design Feedback Form Template",
+  "fields": [
+    {
+      "id": "FtiIrcLVJotn",
+      "title": "Full Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "1ivUNDFIvlKI",
+      "kind": "text"
+    },
+    {
+      "id": "QBQ0QZE03efy",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "58mTjl6MgDqo",
+      "kind": "text"
+    },
+    {
+      "id": "oCIQIOsYuXfI",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Fs1kLvmyHyUb",
+      "kind": "text"
+    },
+    {
+      "id": "piOzHoAlSGS0",
+      "title": "Company Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "dW4AE2zQNr8d",
+      "kind": "text"
+    },
+    {
+      "id": "YRHkyKjG9nYj",
+      "title": "Website",
+      "kind": "url",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9wJV0cGXNMjI",
+      "kind": "text"
+    },
+    {
+      "id": "rzMFdoo1NHzk",
+      "title": "Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "OHd6A4VN4ZCY",
+      "kind": "text"
+    },
+    {
+      "id": "JVLtrJ2XZnJV",
+      "title": "How would you rate your overall experience",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "QlQv0FRDnvSp",
+      "kind": "text"
+    },
+    {
+      "id": "jWBiIAwq6nb9",
+      "title": "How would you rate our communication with you",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "oB6jXqNPCHQn",
+      "kind": "text"
+    },
+    {
+      "id": "nYeTkVO9qdMA",
+      "title": "What do you think about our rates compared to competitors",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "bgpfSeTxLl0T",
+      "kind": "text"
+    },
+    {
+      "id": "CQPgq0RIEb8y",
+      "title": "How did you find us",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "ea7OuwGQZGMp",
+      "kind": "text"
+    },
+    {
+      "id": "brPPMGjGjwZ9",
+      "title": "Comment",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "FEGSKAUkfB5v",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1472289065668-ce650ac443d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxNXx8V2Vic2l0ZSUyMERlc2lnbiUyMEZlZWRiYWNrJTIwfGVufDB8fHx8MTY1MDc4NjkzNA&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 46
+    }
+  }
+}

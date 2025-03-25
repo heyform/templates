@@ -1,0 +1,215 @@
+{
+  "id": "7ada9b45-8f80-54c0-972f-e124c2d8079d",
+  "category": "Employee & Job",
+  "thumbnailUrl": "assets/thumbnails/7ada9b45-8f80-54c0-972f-e124c2d8079d.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Employee Referral Form Template",
+  "fields": [
+    {
+      "id": "quthoHiAcX0N",
+      "title": "",
+      "kind": "separator",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "kspXsU75Ihoo",
+      "kind": "text"
+    },
+    {
+      "id": "lRZrplpJrHta",
+      "title": "Employee Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "DLNAN1GCA6QQ",
+      "kind": "text"
+    },
+    {
+      "id": "vetccTFgSNba",
+      "title": "Employee ID",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Y37WXYkomJwn",
+      "kind": "text"
+    },
+    {
+      "id": "6smKGq18Qo07",
+      "title": "Employee Contact number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "Madj16WOeokF",
+      "kind": "text"
+    },
+    {
+      "id": "JdL1xszPrzZW",
+      "title": "Employee Official email ID",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "e4ltKMTkMuUe",
+      "kind": "text"
+    },
+    {
+      "id": "eDsLKDJDB5cD",
+      "title": "",
+      "kind": "separator",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Ip32csfHSctl",
+      "kind": "text"
+    },
+    {
+      "id": "DOteog3tFsVg",
+      "title": "Candidate Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ytLC4vGav7wT",
+      "kind": "text"
+    },
+    {
+      "id": "zdiv1gy5MrD6",
+      "title": "Candidate Contact",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "2S2UbyOHLOLw",
+      "kind": "text"
+    },
+    {
+      "id": "8mhMCZDbCBo9",
+      "title": "Candidate email ID",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "iAoDNMdcrFOp",
+      "kind": "text"
+    },
+    {
+      "id": "VHHUlZMOlT9M",
+      "title": "Current Company",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "jNFM59zoFisV",
+      "kind": "text"
+    },
+    {
+      "id": "iemdfzQLXG1M",
+      "title": "Designation",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9adRPmI8ryzH",
+      "kind": "text"
+    },
+    {
+      "id": "YRFQJ1q3pnkr",
+      "title": "Position referred for",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "tuMnOrRpKPFZ",
+      "kind": "text"
+    },
+    {
+      "id": "kAws3zQmi6uR",
+      "title": "Why you feel this candidate is qualified for this position",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "EO3FwV2NCiZg",
+      "kind": "text"
+    },
+    {
+      "id": "7Kyj4GXmwjQn",
+      "title": "Portfolio / Linkedin Profile",
+      "kind": "url",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "jbL0DgFvx956",
+      "kind": "text"
+    },
+    {
+      "id": "EdoHKabFa357",
+      "title": "Updated Resume",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "stpsNMGuhSJ0",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/forms/Employee%20Referral.png",
+      "backgroundBrightness": 9
+    }
+  }
+}

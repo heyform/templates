@@ -1,0 +1,148 @@
+{
+  "id": "ee7e77da-91fa-5a2e-8ced-ccb3f9d4d847",
+  "category": "IT",
+  "thumbnailUrl": "assets/thumbnails/ee7e77da-91fa-5a2e-8ced-ccb3f9d4d847.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "IT Service Ticket Form",
+  "fields": [
+    {
+      "id": "pePU0gD0crOB",
+      "title": "Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "uU99UbZtWuJr",
+      "kind": "text"
+    },
+    {
+      "id": "R1KPnI7VSeYr",
+      "title": "Email",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ZAq9D4jqwtcL",
+      "kind": "text"
+    },
+    {
+      "id": "Hg1WpKsw9men",
+      "title": "Your Department",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "80VOGkINs89J",
+      "kind": "text"
+    },
+    {
+      "id": "TWu9FcQbWsp3",
+      "title": "Your Employee ID",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "4QjsiGhvmIle",
+      "kind": "text"
+    },
+    {
+      "id": "ZMW5XbYwRaBu",
+      "title": "Your Computer ID",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "maIfXPFrWV4c",
+      "kind": "text"
+    },
+    {
+      "id": "hG4DNgrHEySx",
+      "title": "Screenshot of Issue",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "O96TyPoGQqLe",
+      "kind": "text"
+    },
+    {
+      "id": "3iOouTj0WPdq",
+      "title": "Describe your problem in brief",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "vzOrnSTfDEm3",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "backgroundImage": "https://forms.b-cdn.net/YSfBlqtLUAb4kA7f6GDBX_Quick%20donation%20form.jpeg"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "aae68860-f707-590f-a721-13801a595fe5",
+  "category": "Contact",
+  "thumbnailUrl": "assets/thumbnails/aae68860-f707-590f-a721-13801a595fe5.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Customer Contact Form Template",
+  "fields": [
+    {
+      "id": "6m0rY5R9wlRA",
+      "title": "Contact Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "noS0pcBSk1Qw",
+      "kind": "text"
+    },
+    {
+      "id": "FJg7c4Dg8JLk",
+      "title": "Customer Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Iene1XmNVgHc",
+      "kind": "text"
+    },
+    {
+      "id": "Xkw2MVyvnGQy",
+      "title": "Phone No.",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "SAHuP8WyOvcY",
+      "kind": "text"
+    },
+    {
+      "id": "Q4REc5zcPqDz",
+      "title": "Alternate Phone No.",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "J2hCsHb0wR1R",
+      "kind": "text"
+    },
+    {
+      "id": "hXrcBIpZoMmo",
+      "title": "Email Address",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "6qvP3UvMpZy4",
+      "kind": "text"
+    },
+    {
+      "id": "tonWHlvdGiHw",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "NejdDqRWS8j4",
+      "kind": "text"
+    },
+    {
+      "id": "WPqHaneo99bs",
+      "title": "Referral Source",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "lPh1xAH7pizj",
+      "kind": "text"
+    },
+    {
+      "id": "wJI0d2u7jes1",
+      "title": "Description of work",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "TmZbIwlZ9EAR",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#323234",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/07Fdbe2fipxnjd4R88fFe_Customer%20Contact%20form.jpg",
+      "backgroundBrightness": 64
+    }
+  }
+}

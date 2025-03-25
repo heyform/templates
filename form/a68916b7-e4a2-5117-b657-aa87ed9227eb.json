@@ -1,0 +1,402 @@
+{
+  "id": "a68916b7-e4a2-5117-b657-aa87ed9227eb",
+  "category": "Event",
+  "thumbnailUrl": "assets/thumbnails/a68916b7-e4a2-5117-b657-aa87ed9227eb.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Event Feedback Form Template",
+  "fields": [
+    {
+      "id": "0DMv86bY0tpA",
+      "title": "Enter your full name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "COIIMcYqdfmP",
+      "kind": "text"
+    },
+    {
+      "id": "27wpCXL7piBW",
+      "title": "Email address ",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "DcocratdkHfD",
+      "kind": "text"
+    },
+    {
+      "id": "x32aOYPV08Q0",
+      "title": "What event did you attend?",
+      "description": null,
+      "kind": "dropdown",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "ABOyggHow3cx",
+            "label": "Choice 1",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "tYTFQQ6Yl2qs",
+      "kind": "text"
+    },
+    {
+      "id": "lMCr4PXaZpVm",
+      "title": "Overall rating",
+      "description": null,
+      "kind": "rating",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": "star",
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "konYziCE3NhB",
+      "kind": "text"
+    },
+    {
+      "id": "DSQDIHfUMmn7",
+      "title": "Do you feel the day provided value for money?",
+      "description": null,
+      "kind": "rating",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": "star",
+        "total": 5,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "zDPdiatXP06e",
+      "kind": "text"
+    },
+    {
+      "id": "xb3tUghsxvnp",
+      "title": "Would you recommend a similar event to a friend?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "mhTPYyiAqtge",
+            "label": "Yes definitely",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "CVtInC0Yxrm2",
+            "label": "Maybe, If content was changed",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "R1MV0viIklVE",
+            "label": "Maybe, If it was cheaper",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "DMbjX8Sjvw4k",
+            "label": "No, never",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "bviDe25lFt8g",
+      "kind": "text"
+    },
+    {
+      "id": "bH5TI0GRFtzC",
+      "title": "Were you able to see and hear the presentations clearly?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "KJKHHGf8uDGx",
+            "label": "Yes"
+          },
+          {
+            "id": "xudVZhKwjUFF",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "iTX7lk7QCx21",
+      "kind": "text"
+    },
+    {
+      "id": "BnywWRMKPi20",
+      "title": "Overall, were you satisfied with the venue? ",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "LpcjAQ6vZt8h",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "M9f9TJFvtfwH",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "A87tklJlIM7h",
+      "kind": "text"
+    },
+    {
+      "id": "S5alAqTvkrmW",
+      "title": "What were some of the pros and cons?",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ap3fXKvPnklU",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#272c34",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxMHx8ZXZlbnR8ZW58MHx8fHwxNjUwODEzNDMy&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 59
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "id": "5ffd7713-c771-592a-90fa-570b0b20923b",
+  "category": "Employee & Job",
+  "thumbnailUrl": "assets/thumbnails/5ffd7713-c771-592a-90fa-570b0b20923b.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Employee Reference Request",
+  "fields": [
+    {
+      "id": "NPI3mc4ANAh5",
+      "title": "REFERENCE REQUEST FOR",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "W1sGNu9o9B5w",
+      "kind": "text"
+    },
+    {
+      "id": "zYfo7q4fjAwY",
+      "title": "Your Name & Position",
+      "description": null,
+      "kind": "text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "xcmI1JBfvpqW",
+      "title": "Company Name & Address where worked with candidate",
+      "description": null,
+      "kind": "text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "uQ5mFqWPe7Lw",
+      "title": "I declare that to the best of my knowledge the information I have given in this reference is correct and complete",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "YUGOd7MgvafT",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "BO1odFZr7Cpu",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Q0pQOb9tBtix",
+      "kind": "text"
+    },
+    {
+      "id": "iTP0AkRESMAd",
+      "title": "E-mail",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "0VVPXYfNfq1R",
+      "kind": "text"
+    },
+    {
+      "id": "2dSfEUL8j5Mq",
+      "title": "Phone Number",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "64MMaTnhp7je",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#3B82F6",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1528459584353-5297db1a9c01?q=80&w=2099&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "backgroundBrightness": 72
+    }
+  }
+}

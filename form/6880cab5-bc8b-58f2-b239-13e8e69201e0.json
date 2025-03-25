@@ -1,0 +1,602 @@
+{
+  "id": "6880cab5-bc8b-58f2-b239-13e8e69201e0",
+  "category": "Questionnaire & Quiz",
+  "thumbnailUrl": "assets/thumbnails/6880cab5-bc8b-58f2-b239-13e8e69201e0.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Multiple Choice Test Template",
+  "fields": [
+    {
+      "id": "em0hxtc4j1Lu",
+      "title": "Student name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "G36lqNdINGoj",
+      "kind": "text"
+    },
+    {
+      "id": "XixIgitHgUZO",
+      "title": "Class of the student",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "6JMyHfBByMbq",
+      "kind": "text"
+    },
+    {
+      "id": "3UbmYKQhIgUF",
+      "title": "Student ID",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "29YiF20SCL9y",
+      "kind": "text"
+    },
+    {
+      "id": "LjJ3SsrSmA03",
+      "title": "Odometer is to mileage as compass is to",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "wDko7ns5ACcw",
+            "label": "Speed",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "AVywyyAzsHg6",
+            "label": "Hiking",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ak7Wfh5uiFNP",
+            "label": "Needle",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qJYUIvBazFMe",
+            "label": "Direction",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "chaYpHMKFWoZ",
+      "kind": "text"
+    },
+    {
+      "id": "C5X9fvT6FXGG",
+      "title": "Marathon is to race as hibernation is to",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "wDko7ns5ACcw",
+            "label": "Winter",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "AVywyyAzsHg6",
+            "label": "Bear",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ak7Wfh5uiFNP",
+            "label": "Dream",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qJYUIvBazFMe",
+            "label": "Sleep",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "29cemual4JQv",
+      "kind": "text"
+    },
+    {
+      "id": "8yBiZgmWnx8A",
+      "title": "Window is to pane as book is to",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "wDko7ns5ACcw",
+            "label": "Novel",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "AVywyyAzsHg6",
+            "label": "Glass",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ak7Wfh5uiFNP",
+            "label": "Cover",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qJYUIvBazFMe",
+            "label": "Page",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "iPCRz7rD7ctN",
+      "kind": "text"
+    },
+    {
+      "id": "Ti5p7PHkI92g",
+      "title": "Cup is to coffee as bowl is to",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "wDko7ns5ACcw",
+            "label": "Dish",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "AVywyyAzsHg6",
+            "label": "Soup",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ak7Wfh5uiFNP",
+            "label": "Spoon",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qJYUIvBazFMe",
+            "label": "Food",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Rp2kGGsdrOhc",
+      "kind": "text"
+    },
+    {
+      "id": "IlMMYdNqPItb",
+      "title": "Yard is to inch as quart is to",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "wDko7ns5ACcw",
+            "label": "Gallon",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "AVywyyAzsHg6",
+            "label": "Ounce",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ak7Wfh5uiFNP",
+            "label": "Milk",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qJYUIvBazFMe",
+            "label": "Liquid",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "O5j7ysbWSzeC",
+      "kind": "text"
+    },
+    {
+      "id": "oDIW5Z6ocJ8Z",
+      "title": "Elated is to despondent as enlightened is to",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "wDko7ns5ACcw",
+            "label": "Aware",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "AVywyyAzsHg6",
+            "label": "Ignorant",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ak7Wfh5uiFNP",
+            "label": "Miserable",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "qJYUIvBazFMe",
+            "label": "Tolerant",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "NO6C2bQxIPcN",
+      "kind": "text"
+    },
+    {
+      "id": "rPFbE3whONlj",
+      "title": "Choose the odd one",
+      "description": null,
+      "kind": "picture_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "0klGdBFGdgT0",
+            "label": "Choice 1",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "xUFtwah6go3z",
+            "label": "Choice 2",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "DA1EdyFnzula",
+            "label": "Choice 3",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "pEWf7okgcpyF",
+            "label": "Choice 4",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "L2cj63Fk7wAD",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "-apple-system, BlinkMacSystemFont, Helvetica, Roboto, Tahoma, Arial, \"PingFang SC\", \"Hiragino Sans GB\", \"Heiti SC\", STXihei, \"Microsoft YaHei\", SimHei, \"WenQuanYi Micro Hei\", serif",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/hiAnwT8gLObd5fIA5U2Hu_multiple%20choice%20test.jpeg",
+      "backgroundBrightness": 91
+    }
+  }
+}

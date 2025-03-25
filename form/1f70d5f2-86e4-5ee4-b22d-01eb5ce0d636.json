@@ -1,0 +1,344 @@
+{
+  "id": "1f70d5f2-86e4-5ee4-b22d-01eb5ce0d636",
+  "category": "Healthcare",
+  "thumbnailUrl": "assets/thumbnails/1f70d5f2-86e4-5ee4-b22d-01eb5ce0d636.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Patient Health Questionnaire Template",
+  "fields": [
+    {
+      "id": "3FMRKmSCnV9R",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "W4wBOKYDFnCr",
+      "kind": "text"
+    },
+    {
+      "id": "TzgmpBzruBlX",
+      "title": "Age",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "3KFbG6XgUnE3",
+      "kind": "text"
+    },
+    {
+      "id": "240yqyQpQD5G",
+      "title": "Over the last 2 weeks, how often have you been bothered by  the following problems?",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "ybEYg5PT1TQD",
+            "label": "Little interest or pleasure in doing things",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "spmx7U6GBBrl",
+            "label": "Feeling down, depressed or hopeless",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "lqxNnsQP6FB8",
+            "label": "Trouble falling or staying asleep, sleeping too much",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "bXvZc2riRkNK",
+            "label": "Feeling tired or having little energy",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "w21YygHSH6fj",
+            "label": "Poor appetite or overeating",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "CsHWr2sBrrIY",
+            "label": "Feeling bad about yourself- or that you are a failure or have let yourself or your family down",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "IvBm2FPpqI4J",
+            "label": "Trouble concentrating on things, such as reading the newspaper or watching television",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "NZYyNKVMVlir",
+            "label": "Moving or speaking so slowly that other people could have noticed. Or the opposite-being so figety or restless that you have been moving around a lot more than usual",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ugcudknf7ihC",
+            "label": "Thoughts that you would be better off dead, or of hurting yourself",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "tp93CiOnrBQI",
+      "kind": "text"
+    },
+    {
+      "id": "7JBVfd9yHGY4",
+      "title": "If you check off any of these problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "TIVeNiJnXgyn",
+            "label": "Not difficult at all",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "WwWbSN0dusH9",
+            "label": "Somewhat difficult",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "7HCyFhWNgJRv",
+            "label": "Very difficult",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "DIpXLvimpZjL",
+            "label": "Extremely difficult",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Q3U1tFCqudjA",
+      "kind": "text"
+    },
+    {
+      "id": "Mtyh6iCyXKDp",
+      "title": "Add the number of days this has affected you for",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "jtcSdXu3Fw9h",
+      "kind": "text"
+    },
+    {
+      "id": "hQSiSkIRosxr",
+      "title": "Rate your current health",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "eHFYRyslMANp",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/Patient-Health-Questionnaire.webp",
+      "backgroundBrightness": 89
+    }
+  }
+}

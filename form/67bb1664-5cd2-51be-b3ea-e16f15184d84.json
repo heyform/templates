@@ -1,0 +1,159 @@
+{
+  "id": "67bb1664-5cd2-51be-b3ea-e16f15184d84",
+  "category": "Donation & Charity",
+  "thumbnailUrl": "assets/thumbnails/67bb1664-5cd2-51be-b3ea-e16f15184d84.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Medical Fundraising Form Template",
+  "fields": [
+    {
+      "id": "k1NsnxOTMG2s",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "jP0oNENhVw62",
+      "kind": "text"
+    },
+    {
+      "id": "ZCHlb4MeCL5h",
+      "title": "Phone Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "g74lVl1rqXxL",
+      "kind": "text"
+    },
+    {
+      "id": "5FZehcZQiVkt",
+      "title": "Hospital Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "zxVvWvZM0tpV",
+      "kind": "text"
+    },
+    {
+      "id": "OPx4c6aVyAzi",
+      "title": "Email Address",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "xlDMQl3ov7bE",
+      "kind": "text"
+    },
+    {
+      "id": "BheHNz40l1Le",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "3k9SNS0tbwKs",
+      "kind": "text"
+    },
+    {
+      "id": "6pjZAeqeUxpL",
+      "title": "PAN / Tax ID",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "eQhDcDyeTiuR",
+      "kind": "text"
+    },
+    {
+      "id": "isd8RnVLkQ4V",
+      "title": "Select Items",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "mBGelbTtxNMM",
+            "label": "Item $25.00",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "9RyMVKPqH9Jv",
+            "label": "Item $40.00",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Ao37DprkGMZU",
+            "label": "Item $10.00",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "nXrlZ2GTCiwy",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#a53206",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/LVW4TbxUFYY9sm8yvdlYB_Medical%20Fundraising%20form.jpeg",
+      "backgroundBrightness": 84
+    }
+  }
+}

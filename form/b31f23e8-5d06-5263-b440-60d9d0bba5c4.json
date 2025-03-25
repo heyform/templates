@@ -1,0 +1,388 @@
+{
+  "id": "b31f23e8-5d06-5263-b440-60d9d0bba5c4",
+  "category": "Employee & Job",
+  "thumbnailUrl": "assets/thumbnails/b31f23e8-5d06-5263-b440-60d9d0bba5c4.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Job Application Form Template",
+  "fields": [
+    {
+      "id": "MRlulqJxWwaS",
+      "title": "Your Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "5SHxcB0UoE9I",
+      "kind": "text"
+    },
+    {
+      "id": "q1Uyb1dpsnPh",
+      "title": "Email Address",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "SZu9RBffOgqI",
+      "kind": "text"
+    },
+    {
+      "id": "tP1yo9iW2tSe",
+      "title": "Phone Number",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "tjbbafrXMNsi",
+      "kind": "text"
+    },
+    {
+      "id": "YxubYjj4ug1d",
+      "title": "Position",
+      "description": null,
+      "kind": "dropdown",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "82evCRlrM7V3",
+            "label": "Software Engineer",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "nDzbqcvqCX4h",
+            "label": "UI/UX Designer",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "OehZSVmg0r21",
+            "label": "QA & Testing Engineer",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "bmprssOtsUfj",
+            "label": "DevOps Engineer",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "E7Dvo22Yoo2n",
+      "kind": "text"
+    },
+    {
+      "id": "aqwqQ5aAvUXq",
+      "title": "Relevant Experience (Years)",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Dwg1X0fKZMfR",
+      "kind": "text"
+    },
+    {
+      "id": "N4vRT9sRr9UJ",
+      "title": "Describe your relevant experience to the applied job",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "UhT1AeCm7lps",
+      "kind": "text"
+    },
+    {
+      "id": "NeHSb1Bn9MVj",
+      "title": "Current Salary (per Annum)",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": false,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "HOiKErO1WXA6",
+      "kind": "text"
+    },
+    {
+      "id": "iZmbM46qA8kr",
+      "title": "Expected Salary (per Annum)",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": false,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "W4LeDVYRZ3IM",
+      "kind": "text"
+    },
+    {
+      "id": "nCZHlRJ71bYx",
+      "title": "Notice Period (Days)",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "PLVdRC0C8drR",
+      "kind": "text"
+    },
+    {
+      "id": "osx4gXDQaVPQ",
+      "title": "Please upload your latest CV.",
+      "description": null,
+      "kind": "file_upload",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "WeiAxBurwTrn",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/qJnC48nnzUHfArKDVxLHm_job%20application%20employee%201-03.jpg",
+      "backgroundBrightness": 61
+    }
+  }
+}

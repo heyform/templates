@@ -1,0 +1,176 @@
+{
+  "id": "f38e4712-553c-526a-a948-560951651670",
+  "category": "Business",
+  "thumbnailUrl": "assets/thumbnails/f38e4712-553c-526a-a948-560951651670.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Quotation Form Template",
+  "fields": [
+    {
+      "id": "eUnKpAcg0Lob",
+      "title": "Company Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "YRk75fW1Nfxt",
+      "kind": "text"
+    },
+    {
+      "id": "eNkDwVztjjwM",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "GBURn39FTj1I",
+      "kind": "text"
+    },
+    {
+      "id": "B4HbmOqkSlnL",
+      "title": "Date",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "2P5slrS4f117",
+      "kind": "text"
+    },
+    {
+      "id": "5rFiJkdtLqDT",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "0EHhPOtY18MI",
+      "kind": "text"
+    },
+    {
+      "id": "CA0g8Gu22pUp",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Iy2mzkmwipqO",
+      "kind": "text"
+    },
+    {
+      "id": "YDGwxDCft7om",
+      "title": "Phone",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "bc45nj6LHPfu",
+      "kind": "text"
+    },
+    {
+      "id": "lXQnsR2SUI0d",
+      "title": "Item",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "AYqHE8Dt8bQd",
+      "kind": "text"
+    },
+    {
+      "id": "RMxPPSQYcOF1",
+      "title": "Description",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9591LNocap4P",
+      "kind": "text"
+    },
+    {
+      "id": "ba9LftsfV9EH",
+      "title": "Quantity",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "5stiGBraVpeK",
+      "kind": "text"
+    },
+    {
+      "id": "wTsfSJ6Btvk1",
+      "title": "Unit Price",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Jn3r6CPQOHmt",
+      "kind": "text"
+    },
+    {
+      "id": "Qkx7sAMg4x6P",
+      "title": "Discount",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "QEWFsMqEBiGN",
+      "kind": "text"
+    },
+    {
+      "id": "NliRXxLLdOyK",
+      "title": "Total",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "p8uxZLnn951H",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#1e0b0b",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/tPO8Uazq1RfIFDRgsvgbA_Quotation%20Form%20Template.jpg",
+      "backgroundBrightness": 84
+    }
+  }
+}

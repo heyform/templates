@@ -1,0 +1,316 @@
+{
+  "id": "51fb7242-3202-53a8-8056-875445f15335",
+  "category": "Registration",
+  "thumbnailUrl": "assets/thumbnails/51fb7242-3202-53a8-8056-875445f15335.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Club Membership Registration Form",
+  "fields": [
+    {
+      "id": "b3qTEbrbj9dJ",
+      "title": "Name of the applicant",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "NG0qfRck5UYW",
+      "kind": "text"
+    },
+    {
+      "id": "EopCbFQLIneG",
+      "title": "Address of the Applicant",
+      "description": null,
+      "kind": "address",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "rhrAqHVcirJi",
+      "kind": "text"
+    },
+    {
+      "id": "ZBINtJq3SZIn",
+      "title": "Phone number",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "8Q9Gk353nNVf",
+      "kind": "text"
+    },
+    {
+      "id": "WT33azy7BszG",
+      "title": "Are you full time member of any other club",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "MTvsAny97NHg",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "LDvDqSyhGK0c",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "JxJAle0yVY18",
+      "kind": "text"
+    },
+    {
+      "id": "B1jlNNkl6m8u",
+      "title": "If yes, Specify the name of the club",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "CIkEZIn4UZlj",
+      "kind": "text"
+    },
+    {
+      "id": "GHdoTUwd21gf",
+      "title": "Membership time period willing to choose",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "Hq3W6ucb2YOe",
+            "label": "One month",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "2ynCWr9rp7KJ",
+            "label": "Half year",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "vmgKzZffhGFw",
+            "label": "One year",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "0R2yIvwQxxec",
+            "label": "Life long",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "TWb7n5PnGSRg",
+      "kind": "text"
+    },
+    {
+      "id": "DZQRBzIHzp1w",
+      "title": "ID proof",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "JoTk4DeUGc9S",
+      "kind": "text"
+    },
+    {
+      "id": "1Xus4sIEkwMQ",
+      "title": "Referenced by",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "IXhhxFKXsdET",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1609933006093-4398c2f453cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwzfHxDbHViJTIwTWVtYmVyc2hpcHxlbnwwfHx8fDE2NTA3OTAyNjk&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 40
+    }
+  }
+}
