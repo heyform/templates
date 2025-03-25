@@ -1,4 +1,3 @@
-import { writeFileSync } from "fs";
 import fs from "fs/promises";
 import path from "path";
 import uuid from "uuid-by-string";
@@ -40,7 +39,7 @@ async function findJsonFiles(directory) {
 }
 
 async function processJsonFiles() {
-  const list = []
+  const list = [];
 
   try {
     const templatesDir = path.resolve("./templates");
@@ -56,21 +55,45 @@ async function processJsonFiles() {
       const content = await fs.readFile(file.fullPath, "utf-8");
       const data = JSON.parse(content);
 
-      const id = uuid(file.relativePath)
+      const id = uuid(file.relativePath);
 
       const formJSON = {
         id,
         category: file.category,
-        ...data
-      }
+        ...data,
+      };
 
-      list.push(formJSON)
+      list.push(formJSON);
 
       // Write the JSON file to the dist directory
-      await fs.writeFile(path.resolve(`./dist/form/${id}.json`), JSON.stringify(formJSON, null, 2))
+      await fs.writeFile(
+        path.resolve(`./dist/form/${id}.json`),
+        JSON.stringify(formJSON, null, 2),
+      );
     }
 
-    await fs.writeFile(path.resolve(`./dist/index.json`), JSON.stringify(list, null, 2))
+    await fs.writeFile(
+      path.resolve(`./dist/index.json`),
+      JSON.stringify(list, null, 2),
+    );
+
+    await fs.writeFile(
+      path.resolve(`./dist/index.html`),
+      `<!DOCTYPE html>
+        <html lang="en">
+        <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>HeyForm Templates</title>
+        </head>
+        <body>
+          <ul>
+            ${list.map((item) => `<li><a href="/form/${item.id}.json">${item.name}</a></li>`).join("")}
+          </ul>
+        </body>
+      </html>
+      `,
+    );
   } catch (error) {
     console.error("Error processing JSON files:", error);
   }

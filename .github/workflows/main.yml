@@ -27,6 +27,7 @@ jobs:
       - name: Install and Build
         run: |
           mkdir -p dist/form
+          cp -r assets dist
           pnpm install
           pnpm build
 
