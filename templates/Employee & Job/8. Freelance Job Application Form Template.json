@@ -1,0 +1,180 @@
+{
+  "thumbnailUrl": "assets/thumbnails/c07a8333-6861-53d3-af4f-6b0c2b042f71.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Freelance Job Application Form Template",
+  "fields": [
+    {
+      "id": "5xnbUWuZc0rb",
+      "title": "Your Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "5p7OOUFvPwQo",
+      "kind": "text"
+    },
+    {
+      "id": "bfg9IhqkhlWD",
+      "title": "Contact Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "uomMQG2usKaX",
+      "kind": "text"
+    },
+    {
+      "id": "IEfwNVM0Pp5Z",
+      "title": "Email Address",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "CfIcAn7GXP15",
+      "kind": "text"
+    },
+    {
+      "id": "o8X89W9QXkRY",
+      "title": "Date of Birth",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "aCevq4uOMBFC",
+      "kind": "text"
+    },
+    {
+      "id": "BV6Ru7JIdEfn",
+      "title": "Educational Qualification",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "n2QpwnbdLPga",
+      "kind": "text"
+    },
+    {
+      "id": "iHGS5MC4mVXF",
+      "title": "Skillset and Expertise",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "MrGHX2U9fZlf",
+      "kind": "text"
+    },
+    {
+      "id": "GpeJDmclzMyU",
+      "title": "Your Portfolio",
+      "kind": "url",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "cmBUgf0UM9rV",
+      "kind": "text"
+    },
+    {
+      "id": "tiukzvfSZxIw",
+      "title": "Briefly Introduce Yourself:",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Jm0Vwj6Lburh",
+      "kind": "text"
+    },
+    {
+      "id": "DSFB6npRGmko",
+      "title": "Expected Start date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "7oXK858jfUxM",
+      "kind": "text"
+    },
+    {
+      "id": "qioZ3YBsrxIY",
+      "title": "Desired hourly rate",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "8nIYREcbWOPr",
+      "kind": "text"
+    },
+    {
+      "id": "3nbiSiZbEtZy",
+      "title": "Cover Letter",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "kCVJ6hwIUGa0",
+      "kind": "text"
+    },
+    {
+      "id": "iRrdw9QJACwd",
+      "title": "Upload your resume",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "B08SYBVzp84Y",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1682669328101-3a0f8a12d06d?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "backgroundBrightness": -1
+    }
+  }
+}

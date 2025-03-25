@@ -1,0 +1,187 @@
+{
+  "thumbnailUrl": "assets/thumbnails/681228b9-a62c-5e31-86a2-6cf4206bc510.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Web Banner Creation Request Form",
+  "fields": [
+    {
+      "id": "yQ5wXQfSsrJU",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "3h6QpNizewud",
+      "kind": "text"
+    },
+    {
+      "id": "SVGXUfKnlTem",
+      "title": "Company",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "VQ86WmBqMnkc",
+      "kind": "text"
+    },
+    {
+      "id": "tVd2Li6nR21O",
+      "title": "Email ID",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "8xBn0K0HUu9Q",
+      "kind": "text"
+    },
+    {
+      "id": "24MPGWcaXbuP",
+      "title": "Phone Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "W5IbbF26CEp6",
+      "kind": "text"
+    },
+    {
+      "id": "aUqkBwIjWEtf",
+      "title": "Website URL",
+      "kind": "url",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "QPquCzQ6x3Ad",
+      "kind": "text"
+    },
+    {
+      "id": "M4VtqWaqDM33",
+      "title": "Banner type",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "QkyXi3LeMf2k",
+            "label": "Animated"
+          },
+          {
+            "id": "Aq5sZkt6ZdIM",
+            "label": "Static"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MyKOSKIF3dSD",
+      "kind": "text"
+    },
+    {
+      "id": "KlcYRl2gnodi",
+      "title": "Banner size in pixels",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "qZufpD2ff84U",
+      "kind": "text"
+    },
+    {
+      "id": "i3gxMgcCQp3A",
+      "title": "Main concept of your banner",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "vMYFyBIyCzKf",
+      "kind": "text"
+    },
+    {
+      "id": "TjYLbNZotI5n",
+      "title": "Describe any ideas you have in mind for your banner design",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "cB0MrFNbAK5f",
+      "kind": "text"
+    },
+    {
+      "id": "lV3c3DX8eHPC",
+      "title": "Any additional comments",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "O1uwGopWUOeh",
+      "kind": "text"
+    },
+    {
+      "id": "FlzMuH7uNRgo",
+      "title": "How many concepts or samples do you want to receive",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "8Z8cRtKE5ghB",
+      "kind": "text"
+    },
+    {
+      "id": "ezC7X7HsVPG9",
+      "title": "Attach design materials",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "eN0nzKSMtfI8",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/forms/Web%20Banner%20Creation.png",
+      "backgroundBrightness": 61
+    }
+  }
+}

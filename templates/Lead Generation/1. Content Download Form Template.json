@@ -1,0 +1,90 @@
+{
+  "thumbnailUrl": "assets/thumbnails/76a744f9-62a8-508a-b717-a518378776b7.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Content Download Form Template",
+  "fields": [
+    {
+      "id": "HyyyqgpHXktF",
+      "title": [
+        "Name"
+      ],
+      "description": [],
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "Q5N6YrVONQwq",
+      "title": [
+        "Business email"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "NCMUpIkueGSD",
+      "title": [
+        "Company"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "xodpwC65FvIk",
+      "title": [
+        "Would you like to receive our monthly newsletter?"
+      ],
+      "description": [],
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "t5RVT0xxdU2l",
+            "label": "Yes"
+          },
+          {
+            "id": "DgzkbQYsJYdg",
+            "label": "No"
+          }
+        ]
+      },
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Lato",
+      "questionTextColor": "#FFFFFF",
+      "answerTextColor": "#FFFFFF",
+      "buttonBackground": "#ffffff",
+      "buttonTextColor": "#000000",
+      "backgroundColor": "#26317e",
+      "backgroundImage": "https://images.unsplash.com/photo-1563906267088-b029e7101114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxfHxkb3dufGVufDB8fHx8MTY1MDk2MzkwNg&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": -33
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@heyform/templates",
+  "type": "module",
+  "version": "0.0.0",
+  "author": "Heyooo, Inc.",
+  "private": true,
+  "license": "MIT",
+  "homepage": "https://heyform.net/templates",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyform/templates.git"
+  },
+  "bugs": "https://github.com/heyform/templates/issues",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "uuid-by-string": "^4.0.0"
+  }
+}

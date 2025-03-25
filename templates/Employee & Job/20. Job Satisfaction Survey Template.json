@@ -1,0 +1,684 @@
+{
+  "thumbnailUrl": "assets/thumbnails/6f8d52d1-6255-5209-849c-a306a8d3eb47.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Job Satisfaction Survey Template",
+  "fields": [
+    {
+      "id": "CtXwHxYl8Hzz",
+      "title": "Date",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "Dvq9HvvTSZCQ",
+            "label": "Choice 7",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "UiLsvrEl3UYi",
+            "label": "Choice 8",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "w6enAjzTJ5JM",
+            "label": "Choice 10",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "FvyZMUx2IUJL",
+      "kind": "text"
+    },
+    {
+      "id": "PH8Ikq0JKVBC",
+      "title": "Employee Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Z4WLwk4152QI",
+      "kind": "text"
+    },
+    {
+      "id": "cSOMuQ18jDhv",
+      "title": "Employee ID",
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "iB2dolYjaUKI",
+      "kind": "text"
+    },
+    {
+      "id": "HU0UzJGgV4zq",
+      "title": "Designation",
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "YbiVAZoIPTZr",
+      "kind": "text"
+    },
+    {
+      "id": "zGHXWP35aa1F",
+      "title": "Department",
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "YrozudztpRzg",
+      "kind": "text"
+    },
+    {
+      "id": "OtqHs1iQXOYK",
+      "title": "How Long you are working with the company",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "AUbSvSHreLwb",
+            "label": "0 - 1 year",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "aa87ojRQ1Nqw",
+            "label": "1 - 3 years"
+          },
+          {
+            "id": "noeR8opcvPhB",
+            "label": "3 - 5 years"
+          },
+          {
+            "id": "AgqqZCTEZf2M",
+            "label": "5 - 8 years"
+          },
+          {
+            "id": "MAtmaMP2muTU",
+            "label": "8 - 12 years"
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "TOhCHuN60bkc",
+      "kind": "text"
+    },
+    {
+      "id": "cKEUqMAM1IbF",
+      "title": "How would you rate your Company's Value, Mission & Vision?",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10,
+        "leftLabel": "Poor",
+        "centerLabel": "Average",
+        "rightLabel": "Good"
+      }
+    },
+    {
+      "id": "DauU3sL4XDfy",
+      "kind": "text"
+    },
+    {
+      "id": "nvN6mGCIxgQj",
+      "title": "Please explain",
+      "kind": "paragraph",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "k6v7RV51jjP7",
+      "kind": "text"
+    },
+    {
+      "id": "Ims4eLgq5eBn",
+      "title": "How would you rate your Company Management and performance?",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral",
+        "rightLabel": "Satisfied"
+      }
+    },
+    {
+      "id": "qhnJKlFkNJFl",
+      "kind": "text"
+    },
+    {
+      "id": "aoeC0IWw7ex2",
+      "title": " What can we do to improve?",
+      "kind": "paragraph",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "FVc61sBHVV2e",
+      "kind": "text"
+    },
+    {
+      "id": "06phuRnGXgbq",
+      "title": "How would you rate your Salary and benefits?",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10,
+        "leftLabel": "Poor",
+        "centerLabel": "Average",
+        "rightLabel": "Good"
+      }
+    },
+    {
+      "id": "1SKsyi3MgF8L",
+      "kind": "text"
+    },
+    {
+      "id": "KPFaDXCVxtTr",
+      "title": " What benefits can we offer to make our company the best?",
+      "kind": "paragraph",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "grnfdmJ1Fz45",
+      "kind": "text"
+    },
+    {
+      "id": "5sojcs9HgYQh",
+      "title": " I have a clear career path and development plan",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "XwAzQZeHol4I",
+            "label": "Yes"
+          },
+          {
+            "id": "CmW3K6YOSuKz",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "i1gSovSAZN3J",
+      "kind": "text"
+    },
+    {
+      "id": "PVlMlcOiGMRp",
+      "title": "What can we do to help you with your Career plan?",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Q1BCOLOEXNii",
+      "kind": "text"
+    },
+    {
+      "id": "sCFR0YytRx6E",
+      "title": "I get the right amount of feedback and recognition for my work?",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral",
+        "rightLabel": "Satisfied"
+      }
+    },
+    {
+      "id": "GW1tdxEVPCMh",
+      "kind": "text"
+    },
+    {
+      "id": "RD4XwTR4XKpU",
+      "title": "Please explain",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "UWDfC5DuaA7c",
+      "kind": "text"
+    },
+    {
+      "id": "7lilR76RcsZF",
+      "title": "Do your colleagues contribute to your level of satisfaction?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "XwAzQZeHol4I",
+            "label": "Yes"
+          },
+          {
+            "id": "CmW3K6YOSuKz",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gw56G4LBo7jc",
+      "kind": "text"
+    },
+    {
+      "id": "ZI7KUN1cZGHh",
+      "title": "",
+      "kind": "paragraph",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "rV8Dj366p2aV",
+      "kind": "text"
+    },
+    {
+      "id": "aMpRkHpJ4aGj",
+      "title": "Are you satisfied by the physical working conditions?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "XwAzQZeHol4I",
+            "label": "Yes"
+          },
+          {
+            "id": "CmW3K6YOSuKz",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9vBJODddXEvk",
+      "kind": "text"
+    },
+    {
+      "id": "89rHlWPjRUgM",
+      "title": "",
+      "kind": "paragraph",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "m9LGiYfIXoQs",
+      "kind": "text"
+    },
+    {
+      "id": "gozFcrjR5F9L",
+      "title": "Do you have the resources you need to do your job well?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "XwAzQZeHol4I",
+            "label": "Yes"
+          },
+          {
+            "id": "CmW3K6YOSuKz",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "SA4mJ7YCvxLC",
+      "kind": "text"
+    },
+    {
+      "id": "Qej8LYIqUj5D",
+      "title": "If no, please explain",
+      "kind": "paragraph",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "50n0jfXR9NeH",
+      "kind": "text"
+    },
+    {
+      "id": "iel9buZsS4ZF",
+      "title": "Is work-related stress in balance with work accomplishments?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "XwAzQZeHol4I",
+            "label": "Yes"
+          },
+          {
+            "id": "CmW3K6YOSuKz",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aePItN41JAJ8",
+      "kind": "text"
+    },
+    {
+      "id": "yS3FNDI94gey",
+      "title": "If no, please explain",
+      "kind": "paragraph",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "EPLhZkK3nhtq",
+      "kind": "text"
+    },
+    {
+      "id": "5IWSOkRKlpgB",
+      "title": "Are sufficient efforts made to get opinions and feedback from the people who work here?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "XwAzQZeHol4I",
+            "label": "Yes"
+          },
+          {
+            "id": "CmW3K6YOSuKz",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wSknaFkyH0un",
+      "kind": "text"
+    },
+    {
+      "id": "PDxHHLZeJNvj",
+      "title": "If no, please explain",
+      "kind": "paragraph",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "5KFcaAdYYGxU",
+      "kind": "text"
+    },
+    {
+      "id": "tTjxfUVWzn5k",
+      "title": "Overall How you rate your Job Satisfaction with the company",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 10
+      }
+    },
+    {
+      "id": "WKeCMNnnJlGJ",
+      "kind": "text"
+    },
+    {
+      "id": "ofO2onbtGFpS",
+      "title": "Overall How happy are you here",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "happy",
+        "total": 10
+      }
+    },
+    {
+      "id": "wACezCCX4QvE",
+      "kind": "text"
+    },
+    {
+      "id": "eIXtABV4KSNS",
+      "title": "What I like best about working for the Company is",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "uZ27ta5BCgNr",
+      "kind": "text"
+    },
+    {
+      "id": "6rgHbQ877L4Z",
+      "title": "Please provide additional feedback",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "vo8xQ0NkX5M0",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/QTmyy2gOEjvzQwSWGEICO_job%20satisfaction%20-min.jpeg",
+      "backgroundBrightness": 7
+    }
+  }
+}

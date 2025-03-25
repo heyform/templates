@@ -1,0 +1,283 @@
+{
+  "thumbnailUrl": "assets/thumbnails/d32c1388-5396-5b26-b9ca-9982729d6d03.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Alumni Opinion Survey Template",
+  "fields": [
+    {
+      "id": "olD20X1ykYo2",
+      "title": "Alumni Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "NanhJ7Ec2w7R",
+      "kind": "text"
+    },
+    {
+      "id": "2lyRtIggx60S",
+      "title": "E-mail ID",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "gQqV1cjyAlCW",
+      "kind": "text"
+    },
+    {
+      "id": "MDXbH8NXeewj",
+      "title": "Contact Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "30NkTSu9xyKA",
+      "kind": "text"
+    },
+    {
+      "id": "TmMC4TnI8mo4",
+      "title": "How satisfied have you been with your education at this institution ",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "2k55tkHWUi1f",
+      "kind": "text"
+    },
+    {
+      "id": "E91Zp53s4W8y",
+      "title": "Co-curricular/ Extra-curricular life ",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Cw91pSGvFf14",
+      "kind": "text"
+    },
+    {
+      "id": "oGkZwH9tuQkD",
+      "title": "Value of a degree from here ",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "sxArLvarQHx3",
+      "kind": "text"
+    },
+    {
+      "id": "fkczYRgxEcYW",
+      "title": "Cost to attend here ",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "tilGbyG4Ddtb",
+      "kind": "text"
+    },
+    {
+      "id": "Co68cVCoIslL",
+      "title": "Reputation of the college",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "jUEoo6sKtZ0e",
+      "kind": "text"
+    },
+    {
+      "id": "0ZYdOHzwuSYB",
+      "title": "College facilities",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "lkWCkjRgfsyf",
+      "kind": "text"
+    },
+    {
+      "id": "3moCIHMl7gwZ",
+      "title": "What are the greatest strengths of our school today?",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ZJ7l3GixoTuv",
+      "kind": "text"
+    },
+    {
+      "id": "QkrLUMTDjdRC",
+      "title": "What are the greatest weaknesses of our school today?",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "axWp4LPa46qm",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/UeejmiODDfs1W1HkqTUTP_Alumni%20Opinion%20Survey%20Template.jpg",
+      "backgroundBrightness": 64
+    }
+  }
+}

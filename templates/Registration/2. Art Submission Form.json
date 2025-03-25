@@ -1,0 +1,171 @@
+{
+  "thumbnailUrl": "assets/thumbnails/5ba1ebce-8846-5f6a-9d07-762dd7b584e1.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Art Submission Form",
+  "fields": [
+    {
+      "id": "4nrzJ1GB6MUP",
+      "title": "Artist Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "m10fvo0fcP8Y",
+      "kind": "text"
+    },
+    {
+      "id": "Tjj6tEI3hVuS",
+      "title": "Contact Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "gKL2gOmQi0KU",
+      "kind": "text"
+    },
+    {
+      "id": "E3VaDxDEOc7s",
+      "title": "Website / Portfolio link",
+      "kind": "url",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "pbnbuBbb8KKh",
+      "kind": "text"
+    },
+    {
+      "id": "vTEpSJ0MBQjs",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ak8fFdvx8DDi",
+      "kind": "text"
+    },
+    {
+      "id": "2hIblsJDhqJt",
+      "title": "Art type:",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "w6uDxR0WDrRq",
+            "label": "Paitings"
+          },
+          {
+            "id": "H0Uy4AmBjkG8",
+            "label": "Scruptures"
+          },
+          {
+            "id": "bCQ65QZWSJzv",
+            "label": "Mixed Media"
+          },
+          {
+            "id": "X6KbOZysMbiM",
+            "label": "Other"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8Mrnjx42Loiu",
+      "kind": "text"
+    },
+    {
+      "id": "yvWUeNnSrju1",
+      "title": "Artwork Title",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "3YSK1ZsPoVXP",
+      "kind": "text"
+    },
+    {
+      "id": "egaLakMImUkH",
+      "title": "Artwork Specification / Inspirational Statement",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Oot586HFwXwn",
+      "kind": "text"
+    },
+    {
+      "id": "lSVvFRQEzSKu",
+      "title": "Artwork Description",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "YenFyUXPk8hO",
+      "kind": "text"
+    },
+    {
+      "id": "LLsorw4POcQZ",
+      "title": "Price / Value",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "dRpTAnXW9FeB",
+      "kind": "text"
+    },
+    {
+      "id": "0EFy0JgSJM0v",
+      "title": "Upload a photograph of your artwork below",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "uItKWKdTE3r0",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1510935813936-763eb6fbc613?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxMnx8QXJ0JTIwfGVufDB8fHx8MTY1MDc5MDE4Nw&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 22
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "thumbnailUrl": "assets/thumbnails/15d95338-25d2-5e75-8dbf-d87104b99294.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Hardware Request Form",
+  "fields": [
+    {
+      "id": "xghABHZJarz0",
+      "title": "Employee Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "CVn47rJeVyIM",
+      "kind": "text"
+    },
+    {
+      "id": "DvjOuKDbDGqE",
+      "title": "Department",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "SYfXrNenIZK2",
+      "kind": "text"
+    },
+    {
+      "id": "mep8Lv5IQSZL",
+      "title": "Request Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "avSXimXrB6vz",
+      "kind": "text"
+    },
+    {
+      "id": "hbKLZCGNjj2x",
+      "title": "Request Type Of Hardware",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "OK72sWpKjeNX",
+            "label": "Laptop"
+          },
+          {
+            "id": "mmSUIDXxfKCf",
+            "label": "PC"
+          },
+          {
+            "id": "bzOXZhOEEJWk",
+            "label": "Tablet"
+          },
+          {
+            "id": "4gXKXsDczOej",
+            "label": "Mobile"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsNSnWyn1Qlq",
+      "kind": "text"
+    },
+    {
+      "id": "nEbFRgDu9IeY",
+      "title": "Reason For Request",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "D3QA9QKAkeOO",
+      "kind": "text"
+    },
+    {
+      "id": "2X6NTEKnOt8Q",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "d28k2E09GYCh",
+      "kind": "text"
+    },
+    {
+      "id": "xaMyDDRERXeo",
+      "title": "Phone Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "M0oPB0MGuSjT",
+      "kind": "text"
+    },
+    {
+      "id": "6t135fSbHCdS",
+      "title": "Where should the device be addressed to?",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "7ZHC2zO4d5Vd",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "backgroundImage": null
+    }
+  }
+}

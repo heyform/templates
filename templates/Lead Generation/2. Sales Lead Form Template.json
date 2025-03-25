@@ -1,0 +1,107 @@
+{
+  "thumbnailUrl": "assets/thumbnails/0f1091bb-d944-51cc-8832-20e180f1ff64.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Sales Lead Form Template",
+  "fields": [
+    {
+      "id": "WTBRb14pEmdJ",
+      "title": [
+        "Company"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "bdSUOpyXgOTn",
+      "title": [
+        "Primary Contact Name"
+      ],
+      "description": [],
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "5D3LZ7gPNjXm",
+      "title": [
+        "Primary Contact Email"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "gA2gCPB5cc4r",
+      "title": [
+        "Primary Contact Phone"
+      ],
+      "description": [],
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      },
+      "layout": null
+    },
+    {
+      "id": "gpEXflAxGgen",
+      "title": [
+        "Primary Contact Title"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "F1TMxupDwqfk",
+      "title": [
+        "Primary Contact Address"
+      ],
+      "description": [],
+      "kind": "address",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "backgroundBrightness": 53
+    }
+  }
+}

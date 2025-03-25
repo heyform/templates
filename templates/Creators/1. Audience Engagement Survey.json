@@ -1,0 +1,309 @@
+{
+  "thumbnailUrl": "assets/thumbnails/491bd5ec-283f-570a-94b9-e916562fa1f9.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Audience Engagement Survey",
+  "fields": [
+    {
+      "id": "AOIh6i4UaK3n",
+      "title": [
+        [
+          "b",
+          [
+            "We value your feedback!"
+          ]
+        ]
+      ],
+      "description": [
+        "Thank you for participating in our survey. Your feedback is crucial in helping us understand our audience better and improve our content. This survey should take about 5-10 minutes to complete."
+      ],
+      "kind": "statement",
+      "validations": {
+        "required": false
+      },
+      "properties": null,
+      "layout": {}
+    },
+    {
+      "id": "4STKzBmmP5fb",
+      "title": [
+        "How often do you engage with our content?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "9X9fmoUu9Zsg",
+            "label": "Daily"
+          },
+          {
+            "id": "GutZz0pmObcu",
+            "label": "A few times a week"
+          },
+          {
+            "id": "1qcbQ0XMa0lM",
+            "label": "Once a week"
+          },
+          {
+            "id": "rMIblOE8fwwj",
+            "label": "A few times a month"
+          },
+          {
+            "id": "y2bDGrmQ2iDY",
+            "label": "Rarely"
+          }
+        ]
+      }
+    },
+    {
+      "id": "zAMwilI2aeKE",
+      "title": [
+        "Which types of content do you enjoy the most?"
+      ],
+      "description": [
+        "Select all that apply"
+      ],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowOther": true,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "Oa1aoBoRrE2P",
+            "label": "Videos"
+          },
+          {
+            "id": "Dnb4bmgciefD",
+            "label": "Blog posts"
+          },
+          {
+            "id": "p5eavyRGu4tw",
+            "label": "Podcasts"
+          },
+          {
+            "id": "GR6R76moZsmz",
+            "label": "Social media posts"
+          },
+          {
+            "id": "kUgltQMNcJ8W",
+            "label": "Newsletters"
+          }
+        ]
+      }
+    },
+    {
+      "id": "avW1pIrXSwfN",
+      "title": [
+        "How do you usually find our content?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowOther": true,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "Pm9VHgk20QGy",
+            "label": "Social media"
+          },
+          {
+            "id": "7T5VDslU6Fe8",
+            "label": "Newsletters"
+          },
+          {
+            "id": "oX84ph8opIYa",
+            "label": "Search engines"
+          },
+          {
+            "id": "sCZpREV6sB3z",
+            "label": "Directly on our website"
+          },
+          {
+            "id": "HKLuViA4gPan",
+            "label": "Friend/Referral"
+          }
+        ]
+      }
+    },
+    {
+      "id": "AbtMQ1Ogq3cr",
+      "title": [
+        "How would you rate the quality of our content?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {},
+      "properties": {
+        "total": 5,
+        "leftLabel": "Poor",
+        "centerLabel": "Average",
+        "rightLabel": "Excellent"
+      }
+    },
+    {
+      "id": "Dg4d3w4gKwL2",
+      "title": [
+        "What topics would you like to see more of?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "P8pyPBYdVQ2v",
+      "title": [
+        "How engaging do you find our content?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {},
+      "properties": {
+        "total": 5,
+        "leftLabel": "Not Engaging",
+        "centerLabel": "Somewhat Engaging",
+        "rightLabel": "Very Engaging"
+      }
+    },
+    {
+      "id": "t0V0PIBctdgl",
+      "title": [
+        "Have you ever shared our content with others?"
+      ],
+      "description": [],
+      "kind": "yes_no",
+      "validations": {},
+      "properties": {
+        "choices": [
+          {
+            "id": "JJYRZXcgYaN1",
+            "label": "Yes"
+          },
+          {
+            "id": "DVQ8GiJ2up6s",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vLMgrtb6kOYv",
+      "title": [
+        "How often do you share?"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "Igkuts7q11yI",
+      "title": [
+        "What motivates you to engage with our content?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "hsUrJs0YDRGr",
+      "title": [
+        "How likely are you to recommend our content to others?"
+      ],
+      "description": [],
+      "kind": "opinion_scale",
+      "validations": {},
+      "properties": {
+        "total": 10
+      }
+    },
+    {
+      "id": "WTSH3Joe55Ne",
+      "title": [
+        "Do you have any suggestions for improving our content?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "aHAs4ItWHwBP",
+      "title": [
+        "Any additional comments or feedback?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {}
+    },
+    {
+      "id": "KxlnVFvKjRpa",
+      "title": [
+        [
+          "b",
+          [
+            "Thank you for your feedback!"
+          ]
+        ]
+      ],
+      "description": [
+        "We appreciate you taking the time to share your thoughts with us. Your input is invaluable in helping us create better content for you and others.",
+        [
+          "div",
+          [
+            "Have a great day!",
+            [
+              "br"
+            ]
+          ]
+        ]
+      ],
+      "kind": "thank_you",
+      "validations": null,
+      "properties": null,
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [
+    {
+      "fieldId": "t0V0PIBctdgl",
+      "payloads": [
+        {
+          "id": "67E9Osnf654a",
+          "condition": {
+            "comparison": "is",
+            "expected": "JJYRZXcgYaN1"
+          },
+          "action": {
+            "kind": "navigate",
+            "fieldId": "vLMgrtb6kOYv"
+          }
+        },
+        {
+          "id": "UbMxGLArsasN",
+          "condition": {
+            "comparison": "is",
+            "expected": "DVQ8GiJ2up6s"
+          },
+          "action": {
+            "kind": "navigate",
+            "fieldId": "Igkuts7q11yI"
+          }
+        }
+      ]
+    }
+  ],
+  "variables": []
+}

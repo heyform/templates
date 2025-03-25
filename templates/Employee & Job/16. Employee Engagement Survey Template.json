@@ -1,0 +1,843 @@
+{
+  "thumbnailUrl": "assets/thumbnails/2a099859-a2db-5c50-b0e1-86fe45e751a5.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Employee Engagement Survey Template",
+  "fields": [
+    {
+      "id": "ZsKkQuqBpsJj",
+      "title": "Employee Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "lbLTkDflQPXO",
+      "kind": "text"
+    },
+    {
+      "id": "vY7SKHewtc78",
+      "title": "Department",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "AmspcuLD2S4B",
+      "kind": "text"
+    },
+    {
+      "id": "1i6TyLrlKUlH",
+      "title": "Designation",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "lOwqJkQXONeg",
+      "kind": "text"
+    },
+    {
+      "id": "jDvLJbkLEHob",
+      "title": "Job Location",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "NqzfnD4a5gJw",
+      "kind": "text"
+    },
+    {
+      "id": "RlhrL6cmRlFy",
+      "title": "How many years have you been working for this company?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "HPzDI6hLXW8O",
+            "label": "0 - 1 yrs",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "BDUY8ODLFzvx",
+            "label": "1 - 5 yrs",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "4NzlRQAHlcqa",
+            "label": "5 - 10 yrs",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "8cxefHKHiY2S",
+            "label": "10+ yrs",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "yyy5rbf3wEBc",
+      "kind": "text"
+    },
+    {
+      "id": "C7QHay0q463z",
+      "title": "Do you feel proud to be part of the Company?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "U90wH53kiV4V",
+      "kind": "text"
+    },
+    {
+      "id": "V258LAN4b17W",
+      "title": "Do you believe the organization has your best interests in mind when making business decisions?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "jGjt3zJa8H9d",
+      "kind": "text"
+    },
+    {
+      "id": "wuqrnwKNWaUj",
+      "title": "Are you satisfied with the way your organization has managed both its business and people during this time?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "4WnAwJWW7WgG",
+      "kind": "text"
+    },
+    {
+      "id": "u5wc4pXfxIjS",
+      "title": "Has your organization maintained adequate communication with all of its employees?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Z1BLZoedcJFd",
+      "kind": "text"
+    },
+    {
+      "id": "m6pg3XM6z0HI",
+      "title": "Have you continued to collaborate with your team during this time?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "XnpryTYMr1QA",
+      "kind": "text"
+    },
+    {
+      "id": "uKYjAAoToAMW",
+      "title": "Does your team inspire you to do your best work?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "YuXFEZZtiErE",
+      "kind": "text"
+    },
+    {
+      "id": "KFMNZGCShbsJ",
+      "title": "Do you have the appropriate amount of information to make correct decisions about your work?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "fYAqhk7mMorI",
+      "kind": "text"
+    },
+    {
+      "id": "m8fHUqPh2mMK",
+      "title": "When something unexpected comes up in your work, do you usually know whom to ask for help?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "4a5E1Ae1eLJ5",
+      "kind": "text"
+    },
+    {
+      "id": "xH3ZJAQZorqX",
+      "title": "Do you have a good understanding of your organization’s informal structures and processes?",
+      "description": null,
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "t4E7xyHJhMcD",
+      "kind": "text"
+    },
+    {
+      "id": "0NPGbC5rlu1s",
+      "title": "My department is consistently given all the information we need to execute our objectives",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "42OEbX0H5iQ3",
+      "kind": "text"
+    },
+    {
+      "id": "yTxCtdOswRXW",
+      "title": "How much your are enjoying working with us?",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Not Satisfied ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Satisfied ",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ivkRCg0oHDRh",
+      "kind": "text"
+    },
+    {
+      "id": "Iw50rNxXfeU4",
+      "title": "I feel recognized for my hard work and successes at work.",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Disagree ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Strongly Agree",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "CLvHBVVe4AiS",
+      "kind": "text"
+    },
+    {
+      "id": "lLpUBCG2sh1a",
+      "title": "My manager sets clear expectations for my performance",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Disagree ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Strongly Agree",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "tOXgZiGs280P",
+      "kind": "text"
+    },
+    {
+      "id": "doqo0F0CjZCt",
+      "title": "When I approach my manager with a problem, I trust that they will listen..",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": 10,
+        "leftLabel": "Disagree ",
+        "centerLabel": "Neutral ",
+        "rightLabel": "Strongly Agree",
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Ker2bD4dylbL",
+      "kind": "text"
+    },
+    {
+      "id": "ULgW8UJvqRvC",
+      "title": "If I could change one thing about our company culture, it would be",
+      "description": null,
+      "kind": "paragraph",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "R87dlvHOItm9",
+      "kind": "text"
+    },
+    {
+      "id": "1Kid6qr5NCTM",
+      "title": "How would you describe working at your company in three words?",
+      "kind": "paragraph",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "IZc8jxohrMyb",
+      "kind": "text"
+    },
+    {
+      "id": "1wTTpFnQaiK4",
+      "title": "What star rating would you give to your company?",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 10
+      }
+    },
+    {
+      "id": "U3lwC9JNNVPk",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwyNjMyfHxoZCUyMHdhbGxwYXBlcnN8ZW58MHx8fHwxNjUwNzY0NTc3&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": -1
+    }
+  }
+}

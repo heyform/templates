@@ -1,0 +1,225 @@
+{
+  "thumbnailUrl": "assets/thumbnails/4d3656e0-8328-550a-ac40-bc2062b824bc.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Workshop Registration Form",
+  "fields": [
+    {
+      "id": "3Rid1CH0bVGq",
+      "title": [
+        [
+          "b",
+          [
+            "Register for our upcoming workshop"
+          ]
+        ]
+      ],
+      "description": [
+        "Thank you for your interest in our workshop. Please fill out this form to register for the event. This form should take about 5 minutes to complete."
+      ],
+      "kind": "statement",
+      "validations": {
+        "required": false
+      },
+      "properties": null,
+      "layout": {}
+    },
+    {
+      "id": "yCw7ATxqxZbY",
+      "title": [
+        "Your name"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "eQQVRLdD8ceb",
+      "title": [
+        "Your email"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "J2ruptRNIt5v",
+      "title": [
+        "Phone number"
+      ],
+      "description": [],
+      "kind": "phone_number",
+      "validations": {},
+      "properties": {
+        "defaultCountryCode": "US"
+      },
+      "layout": null
+    },
+    {
+      "id": "l6VnDFzWfXiI",
+      "title": [
+        "Workshop title"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowOther": true,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "nZX3RDU05Q7K",
+            "label": "[Workshop 1 Title]"
+          },
+          {
+            "id": "qOksCL0FlpOD",
+            "label": "[Workshop 2 Title]"
+          },
+          {
+            "id": "mbOA5Ff8Ujxd",
+            "label": "[Workshop 3 Title]"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "HVsvHZViMNMd",
+      "title": [
+        "Preferred session time"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "D7ah7MS0UmJO",
+            "label": "Morning"
+          },
+          {
+            "id": "pugtFcL3SHz1",
+            "label": "Afternoon"
+          },
+          {
+            "id": "ZEM7f7bni0HP",
+            "label": "Evening"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "hVlJUj5IVoca",
+      "title": [
+        "How did you hear about this workshop?"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowOther": true,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "OFkjdet1KGVP",
+            "label": "Social Media"
+          },
+          {
+            "id": "aFPx5rJkI3U5",
+            "label": "Newsletter"
+          },
+          {
+            "id": "iUgGkF3zuPqG",
+            "label": "Website"
+          },
+          {
+            "id": "VoICXBELWzyN",
+            "label": "Friend/Referral"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "cBVHOyd5DBrd",
+      "title": [
+        "What are your goals for attending this workshop?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "nUE35vyA059G",
+      "title": [
+        "Do you have any dietary restrictions or special requirements?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "Z2gvuMoGpTdM",
+      "title": [
+        "Would you like to receive updates about future workshops?"
+      ],
+      "description": [],
+      "kind": "yes_no",
+      "validations": {},
+      "properties": {
+        "choices": [
+          {
+            "id": "CJ8HK7AnRLzC",
+            "label": "Yes"
+          },
+          {
+            "id": "ZigggA8OSSAg",
+            "label": "No"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "pckgpENUCWiK",
+      "title": [
+        "Any additional comments or questions?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "pLoOv24ArcoZ",
+      "title": [
+        "Thank you!"
+      ],
+      "description": [
+        "We look forward to seeing you at the event. You will receive a confirmation email with further details shortly."
+      ],
+      "kind": "thank_you",
+      "validations": null,
+      "properties": null,
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": []
+}

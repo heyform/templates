@@ -1,0 +1,238 @@
+{
+  "thumbnailUrl": "assets/thumbnails/1e82affd-9a19-5bc2-8bbe-74b67c1a8066.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Follow Up Survey Template",
+  "fields": [
+    {
+      "id": "2g6AlI6eC2C9",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "bMoYEj29EaxO",
+      "kind": "text"
+    },
+    {
+      "id": "5gDigJA4qh7K",
+      "title": "Company Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "7ZkP8wtIDV5N",
+      "kind": "text"
+    },
+    {
+      "id": "iQvg1FcLK0sY",
+      "title": "When did you use our product or service?",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "JYf1gmwDbJfW",
+      "kind": "text"
+    },
+    {
+      "id": "8Ct0cXvTsCML",
+      "title": "Name of product or service:",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "E8b4p65V4VQ4",
+      "kind": "text"
+    },
+    {
+      "id": "nvh0hhgUoUYN",
+      "title": "Overall, how satisfied are you with the product or service?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "VVz2vy0qEyf7",
+            "label": "Very Satisfied"
+          },
+          {
+            "id": "OV4fWq8psUzL",
+            "label": "Satisfied"
+          },
+          {
+            "id": "n6vWDfhgPrKC",
+            "label": "Neutral"
+          },
+          {
+            "id": "hDBDOSrggest",
+            "label": "Dissatisfied"
+          },
+          {
+            "id": "oG7WuTpYYgd8",
+            "label": "Very Dissatisfied"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5j2Hq6EBqiNe",
+      "kind": "text"
+    },
+    {
+      "id": "z0J20qyJWC3A",
+      "title": "Did our product or service meet your expectations?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "OQMvKVI1IIU9",
+            "label": "Yes"
+          },
+          {
+            "id": "YFHmkwBdFWnt",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nWxVt61CMS7l",
+      "kind": "text"
+    },
+    {
+      "id": "YEI9QsXK1yab",
+      "title": "Would you recommend this product or service to a friend?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "iXfFFw0A9eYX",
+            "label": "Yes"
+          },
+          {
+            "id": "5o15A1bEYBaU",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rgXhQCyMqZPy",
+      "kind": "text"
+    },
+    {
+      "id": "77ATIolgWrbY",
+      "title": "What aspect of the product or service were you most satisfied by?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "9noqFhjQuOuh",
+            "label": "Quality"
+          },
+          {
+            "id": "lNTsxUeH1k13",
+            "label": "Price"
+          },
+          {
+            "id": "GpMMrlboms0y",
+            "label": "Customer Service"
+          },
+          {
+            "id": "FxR8dMRHlTGJ",
+            "label": "Installation or first use experience "
+          },
+          {
+            "id": "PNvujth3ZpF0",
+            "label": "Other"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sBEtOdm7D8M0",
+      "kind": "text"
+    },
+    {
+      "id": "IPhi5Etwae97",
+      "title": "What aspect of the product or service were you least satisfied by?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "W2ourcWYoI7Q",
+      "kind": "text"
+    },
+    {
+      "id": "75K1vSJzYE0q",
+      "title": "Please explain why:",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "43KXlz5yvksT",
+      "kind": "text"
+    },
+    {
+      "id": "1WkJoe20fU3x",
+      "title": "Additional Comments?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "GVU77L6rKIla",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#fffdfd",
+      "answerTextColor": "#ffffff",
+      "buttonBackground": "#f9f9f9",
+      "buttonTextColor": "#000000",
+      "backgroundColor": "#000",
+      "backgroundImage": "https://images.unsplash.com/photo-1638913662295-9630035ef770?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MXwxfHNlYXJjaHwxfHxwcm9kdWN0fGVufDB8fHx8MTY1MDc2NDc4Mg&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": -42
+    }
+  }
+}

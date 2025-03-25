@@ -1,0 +1,68 @@
+{
+  "thumbnailUrl": "assets/thumbnails/884f2824-d377-5fda-b85e-173d67165ea4.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Pop-up form Template",
+  "fields": [
+    {
+      "id": "SEWRRqIj9Rq6",
+      "title": [
+        "Full Name"
+      ],
+      "description": [],
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "CcR1s2c9bpju",
+      "title": [
+        "Email"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {
+        "required": true
+      },
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "6j4lrJryUtSG",
+      "title": [
+        "Phone Number"
+      ],
+      "description": [],
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      },
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1521791055366-0d553872125f?q=80&w=2669&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "backgroundBrightness": 50
+    }
+  }
+}

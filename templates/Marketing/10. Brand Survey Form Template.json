@@ -1,0 +1,321 @@
+{
+  "thumbnailUrl": "assets/thumbnails/1b3859ed-4dae-55f2-ac97-9502b2aa52d2.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Brand Survey Form Template",
+  "fields": [
+    {
+      "id": "K1h3N77pu8xq",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "l8OknjqtJxOU",
+      "kind": "text"
+    },
+    {
+      "id": "98QdHCYjAWBK",
+      "title": "Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "bE49RxO2EnL4",
+      "kind": "text"
+    },
+    {
+      "id": "FTgrp7Q6W8On",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ZeRB2yGFh855",
+      "kind": "text"
+    },
+    {
+      "id": "MCr42YPyILsO",
+      "title": "Contact",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "qGtftK9ddoDf",
+      "kind": "text"
+    },
+    {
+      "id": "XQdsB6xw9Fs6",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ZnEjZfS9IJOL",
+      "kind": "text"
+    },
+    {
+      "id": "543h9Os55kTI",
+      "title": "Brand Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "syI11f8boF15",
+      "kind": "text"
+    },
+    {
+      "id": "Ku3dSRQSaD6U",
+      "title": "Product Types (bags, apparel, sports, shoes, accessories, etc..)",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "zbghfrCPLzOq",
+      "kind": "text"
+    },
+    {
+      "id": "McCqqQZScVFs",
+      "title": "Did you hear this brand before?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "vE6d7J9wsoOm",
+            "label": "Yes"
+          },
+          {
+            "id": "CXFgQuGdH5fi",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "00FZtgKi6kHN",
+      "kind": "text"
+    },
+    {
+      "id": "jwwbWeoO6NFC",
+      "title": "Have you used any product from this brand before?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "5Ai52QAccNIC",
+            "label": "Yes"
+          },
+          {
+            "id": "BJghicT70NYW",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PkC8LtTDvLuz",
+      "kind": "text"
+    },
+    {
+      "id": "41fF7xg3lwQh",
+      "title": "Do you know our brand logo?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "nLtv1UIM4e7f",
+            "label": "Yes"
+          },
+          {
+            "id": "YAmoAKncmhyR",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KqTKVkwijH26",
+      "kind": "text"
+    },
+    {
+      "id": "I0fZFluoLBw9",
+      "title": "Can you share some information on how do you feel about this brand?",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "g1zHuYBsFlz9",
+      "kind": "text"
+    },
+    {
+      "id": "bpBwVwmQybxm",
+      "title": "Have you encountered any issues with using our products?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "WA6BXuBKNuJ4",
+            "label": "Yes"
+          },
+          {
+            "id": "hC0XBC1wKNSo",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vR3BYEa3VKZR",
+      "kind": "text"
+    },
+    {
+      "id": "hIwGDpcPvySO",
+      "title": "How did you hear about this brand?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Fuev9Bm3FaBr",
+      "kind": "text"
+    },
+    {
+      "id": "MTKjrdiqJssc",
+      "title": "Where did you recently saw our advertisement?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "MP6eZMi4ChAv",
+      "kind": "text"
+    },
+    {
+      "id": "lH6OTTpPX7Wu",
+      "title": "Do you always see our ads?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "s0flPslcbHYm",
+            "label": "Yes"
+          },
+          {
+            "id": "NoD6zVVnIUvI",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "APRzojxRANk8",
+      "kind": "text"
+    },
+    {
+      "id": "XGsZEx2VVWX7",
+      "title": "Does your decision in buying a product depends on the country?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ODm9Za28VlVW",
+      "kind": "text"
+    },
+    {
+      "id": "lAzp5iEH1YXy",
+      "title": "Have you talked to one of our sales representatives? What is your perception or attitude to sales representatives?",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "q0ghpWBgSVM2",
+      "kind": "text"
+    },
+    {
+      "id": "bsneYsEAjjtA",
+      "title": "We are currently one of the top brands here in the country. What do you think about ranking of branded products?",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "UiKLGUEaQjUH",
+      "kind": "text"
+    },
+    {
+      "id": "h08vZwBC3AJx",
+      "title": "Do you have any suggestions regarding the pricing structure that we are using?",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "rZLqJvfvwJaK",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1543286386-2e659306cd6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxN3x8c3VydmV5fGVufDB8fHx8MTY1MDc4MjkyMw&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 62
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "thumbnailUrl": "assets/thumbnails/1781d33e-1a8b-5e57-bc24-9f14764c82fc.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Employee Benefits Survey",
+  "fields": [
+    {
+      "id": "hvWWyyK3nDF9",
+      "title": "Employee Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "83Nzec5FXbwc",
+      "kind": "text"
+    },
+    {
+      "id": "MBHKXdFcxN1G",
+      "title": "Department",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "4R8eSWdy3SAF",
+      "kind": "text"
+    },
+    {
+      "id": "J3hNhmPJ497R",
+      "title": "Designation",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9ToWtUCqnRsc",
+      "kind": "text"
+    },
+    {
+      "id": "CeAHgYkzWp0s",
+      "title": "How comfortable is the physical work environment in which you spend most your time?",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "thumbup",
+        "total": 5
+      }
+    },
+    {
+      "id": "XhKtHRRf64rT",
+      "kind": "text"
+    },
+    {
+      "id": "CSCR7JVQULXT",
+      "title": "Do you think you get better or worse Benefit cover than similar companies in the industry?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "htOfs1Y4lvyp",
+            "label": "Much Better"
+          },
+          {
+            "id": "ZMXPQigmJbqJ",
+            "label": "Better"
+          },
+          {
+            "id": "kx3psfbMWDNH",
+            "label": "The Same"
+          },
+          {
+            "id": "l55HTtMIG1j1",
+            "label": "Worst "
+          },
+          {
+            "id": "6p7X0ozJsz4Z",
+            "label": "No Idea"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sgt2WksSEwHh",
+      "kind": "text"
+    },
+    {
+      "id": "uewDXNPkm9gf",
+      "title": "And what do you think of the leave policy?",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "RQoUGp5xr39E",
+            "label": "Impressive"
+          },
+          {
+            "id": "GBz9KRD0irMb",
+            "label": "Good"
+          },
+          {
+            "id": "0PmrDGwyRVpn",
+            "label": "Ok"
+          },
+          {
+            "id": "wmZovqbhp36g",
+            "label": "Need Changes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pm1R3N7hwOq4",
+      "kind": "text"
+    },
+    {
+      "id": "ZfnEEELWJTxh",
+      "title": "How satisfied are you with your benefits?",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10
+      }
+    },
+    {
+      "id": "wg8GvPu9EubG",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#ffffff",
+      "backgroundImage": "https://images.unsplash.com/photo-1523287562758-66c7fc58967f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxfHxiZW5lZml0fGVufDB8fHx8MTY1MDc4MTM1OQ&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 46
+    }
+  }
+}

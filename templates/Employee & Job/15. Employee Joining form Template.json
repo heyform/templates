@@ -1,0 +1,568 @@
+{
+  "thumbnailUrl": "assets/thumbnails/16c8c498-68f6-5c30-97f5-3c5459770118.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Employee Joining form Template",
+  "fields": [
+    {
+      "id": "Gl6e6d7ovxeB",
+      "title": "",
+      "description": null,
+      "kind": "separator",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "rGJHbm6O2n4I",
+      "kind": "text"
+    },
+    {
+      "id": "6cv14GNXAnhI",
+      "title": "Employee Name ",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "4fpBh92763ZI",
+      "kind": "text"
+    },
+    {
+      "id": "undii0FIVb7V",
+      "title": "Employee Contact ",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "4IdZkP6z6R7U",
+      "kind": "text"
+    },
+    {
+      "id": "1Zx6cIkpDo65",
+      "title": "Employee Email ",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "BC2S5VkLxLTU",
+      "kind": "text"
+    },
+    {
+      "id": "dHkFj49b2Y8Q",
+      "title": "Correspondence Address ",
+      "description": null,
+      "kind": "address",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "7DL8UxK4Bhjd",
+      "kind": "text"
+    },
+    {
+      "id": "B3GdLfpcfwFD",
+      "title": "Permanent Address ",
+      "description": null,
+      "kind": "address",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "QEXAs1yERRO2",
+      "kind": "text"
+    },
+    {
+      "id": "6u8sUNaiTsUe",
+      "title": "Date of birth ",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "score": null
+      }
+    },
+    {
+      "id": "KkM5KhDR5SbL",
+      "kind": "text"
+    },
+    {
+      "id": "5Pvp7eCVTgqy",
+      "title": "Marital Status",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "vQHI9Uro2Uhc",
+            "label": "Single",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "PFUgT2Es8u6j",
+            "label": "Married",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "vJUYJMfbBTPk",
+            "label": "other",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "7coz54ezWoto",
+      "kind": "text"
+    },
+    {
+      "id": "KZ1nto93wVXm",
+      "title": "Blood Group",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "uJVzAppY40Ho",
+      "kind": "text"
+    },
+    {
+      "id": "qOjo0osEpWTY",
+      "title": "Emergency Contact Person",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "o4P4pIPZOb07",
+      "kind": "text"
+    },
+    {
+      "id": "M4gRcIwq6z0i",
+      "title": "Emergency contact Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "RKmysriNiWge",
+      "kind": "text"
+    },
+    {
+      "id": "1aBieAWdpO3j",
+      "title": "Higher Educational Qualification",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "UUMA3WKyB7k8",
+      "kind": "text"
+    },
+    {
+      "id": "h1CxJCCYGVso",
+      "title": "Upload your Educational documents",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "5vDceQDwRZaX",
+      "kind": "text"
+    },
+    {
+      "id": "RkDlpPzq5jKy",
+      "title": "Last Organization worked with",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "EEbeBiNxhn4R",
+      "kind": "text"
+    },
+    {
+      "id": "0dGbuuCzgFnY",
+      "title": "Last Designation",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "kCm3duMs5Qd6",
+      "kind": "text"
+    },
+    {
+      "id": "t8YKZp39xHS4",
+      "title": "Last CTC / Salary",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "0ttvYYnmne2s",
+      "kind": "text"
+    },
+    {
+      "id": "ZKER7UGkprSe",
+      "title": "Proper Release form the company",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "PvvSzeSRNmKt",
+            "label": "Yes"
+          },
+          {
+            "id": "Qbc9wO6ibg7N",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2jXEU5GmiBbI",
+      "kind": "text"
+    },
+    {
+      "id": "8IZph5YQ1TP0",
+      "title": "Last Working Day was on",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "duh1HgXXG6Gz",
+      "kind": "text"
+    },
+    {
+      "id": "4OEk6oAP9a9d",
+      "title": "Reason for Job Change",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "tl7teCXqHL5l",
+      "kind": "text"
+    },
+    {
+      "id": "VuGjkxvYsOZD",
+      "title": "Attach all your work experience letter",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9Svn0WMy0dXD",
+      "kind": "text"
+    },
+    {
+      "id": "Dooo8ACpNNJ6",
+      "title": "Any additional ceritifcation",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "jazSTbBx8OAe",
+            "label": "Yes"
+          },
+          {
+            "id": "pIXpnAP1UK92",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Xz7gVD4KOIkH",
+      "kind": "text"
+    },
+    {
+      "id": "Nd72lslnV9U4",
+      "title": "If Yes, attach the certificates",
+      "kind": "file_upload",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "duwxrh4K5tBV",
+      "kind": "text"
+    },
+    {
+      "id": "owwQc1z3fUhJ",
+      "title": "Any Medical history",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "cZTrSZYqAlNO",
+            "label": "Yes"
+          },
+          {
+            "id": "VJFkKpatn4Ix",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaQT1kANpq2J",
+      "kind": "text"
+    },
+    {
+      "id": "EUWe2uGiiBYo",
+      "title": "If yes, Brief on the medical condition",
+      "kind": "long_text",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "1PaeMBeso4uj",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#ffffff",
+      "answerTextColor": "#ffffff",
+      "buttonBackground": "#ffffff",
+      "buttonTextColor": "#000000",
+      "backgroundColor": "#000000",
+      "backgroundImage": "https://forms.b-cdn.net/vXilOOzb202bVH08zm2tu_employee%20joining%20form%20.jpg",
+      "backgroundBrightness": -75
+    }
+  }
+}

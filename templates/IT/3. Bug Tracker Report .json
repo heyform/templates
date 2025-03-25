@@ -1,0 +1,161 @@
+{
+  "thumbnailUrl": "assets/thumbnails/7a8c6738-6f94-543c-899a-f078296ef9eb.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Bug Tracker Report ",
+  "fields": [
+    {
+      "id": "B4DB5LCiFJeO",
+      "title": "Reporter Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "MR4z8X4IUBgo",
+      "kind": "text"
+    },
+    {
+      "id": "83sTCJTsXTTO",
+      "title": "Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "knuGmNyuXy94",
+      "kind": "text"
+    },
+    {
+      "id": "qbZCwhG3FmXX",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "8GW37VvYZ1Tj",
+      "kind": "text"
+    },
+    {
+      "id": "7J9Fsu34DSDf",
+      "title": "Type",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "lEBCQEVaQcKY",
+            "label": "Bug"
+          },
+          {
+            "id": "fnsnRISm3YNX",
+            "label": "Feature"
+          }
+        ]
+      }
+    },
+    {
+      "id": "BEo3GS3EzIxd",
+      "kind": "text"
+    },
+    {
+      "id": "EgQqgRBPYR4u",
+      "title": "Priority",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "c52K6t9TZ9na",
+            "label": "Low"
+          },
+          {
+            "id": "rMUn4sFW0qrL",
+            "label": "Medium"
+          },
+          {
+            "id": "LMovnx7kD73R",
+            "label": "High"
+          },
+          {
+            "id": "E1RRjuHeec81",
+            "label": "Critical"
+          },
+          {
+            "id": "dBmZ9d9ylwQD",
+            "label": "Disaster"
+          },
+          {
+            "id": "m3LuFn2nG5qm",
+            "label": "Blocker"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pNtwlHDo9x11",
+      "kind": "text"
+    },
+    {
+      "id": "A08LdcvvX2oH",
+      "title": "Description with steps to replicate",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "wC5cdetRPp73",
+      "kind": "text"
+    },
+    {
+      "id": "V7TFBezwfNLN",
+      "title": "Bug Url if have",
+      "kind": "url",
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "id": "UTcm7Hz76bpd",
+      "kind": "text"
+    },
+    {
+      "id": "Mt1oE2XgTXYf",
+      "title": "Screenshot Attachments ",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "w5YOXXcmVUtl",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "backgroundImage": null
+    }
+  }
+}

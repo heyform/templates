@@ -1,0 +1,234 @@
+{
+  "thumbnailUrl": "assets/thumbnails/950d89b7-6e23-5418-a9bc-7cf153983766.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Collaboration Proposal Form",
+  "fields": [
+    {
+      "id": "aQDgMImukema",
+      "title": [
+        [
+          "b",
+          [
+            "We're excited to hear your ideas!"
+          ]
+        ],
+        [
+          "br"
+        ]
+      ],
+      "description": [
+        "Thank you for considering a collaboration with us.&nbsp;",
+        [
+          "div",
+          [
+            "Please fill out this form with as much detail as possible so we can understand your proposal and explore the opportunity to work together. This form should take about 5-10 minutes to complete."
+          ]
+        ]
+      ],
+      "kind": "statement",
+      "validations": {
+        "required": false
+      },
+      "properties": null,
+      "layout": {}
+    },
+    {
+      "id": "WZh9y6WZ90Oy",
+      "title": [
+        "Your name"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "Aod9vgXw2L6r",
+      "title": [
+        "Your email"
+      ],
+      "description": [],
+      "kind": "email",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "fsyDZcecd0VV",
+      "title": [
+        "Your organization/brand"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "6O4mXMITSqhP",
+      "title": [
+        "Type of collaboration"
+      ],
+      "description": [],
+      "kind": "multiple_choice",
+      "validations": {},
+      "properties": {
+        "allowOther": true,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "RXlbnBV5PZOy",
+            "label": "Content Collaboration"
+          },
+          {
+            "id": "SWLAOf3Oufjh",
+            "label": "Product Collaboration"
+          },
+          {
+            "id": "5xibA2ftANLf",
+            "label": "Event Collaboration"
+          },
+          {
+            "id": "hpe1ipBRKYDw",
+            "label": "Social Media Campaign"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "NjPf60vs6jUb",
+      "title": [
+        "Describe your collaboration idea"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "IHEWbqj3Ozbb",
+      "title": [
+        "What are the goals of this collaboration?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "LxoJmcN6TzAb",
+      "title": [
+        "Target audience for the collaboration"
+      ],
+      "description": [],
+      "kind": "short_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "dTJ5IWy0Tqui",
+      "title": [
+        "Proposed timeline for the collaboration"
+      ],
+      "description": [],
+      "kind": "date",
+      "validations": {},
+      "properties": {
+        "format": "MM/DD/YYYY",
+        "allowTime": false
+      },
+      "layout": null
+    },
+    {
+      "id": "KDaioiuQhrGD",
+      "title": [
+        "What resources or support would you need from us?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "mbvgAAHcVxjz",
+      "title": [
+        "How will this collaboration benefit both parties?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "EgpDmHKLej6B",
+      "title": [
+        "Have you collaborated with other brands/creators before?"
+      ],
+      "description": [],
+      "kind": "yes_no",
+      "validations": {},
+      "properties": {
+        "choices": [
+          {
+            "id": "fEWHOHKt6J09",
+            "label": "Yes"
+          },
+          {
+            "id": "6kHLSLcEiQ7N",
+            "label": "No"
+          }
+        ]
+      },
+      "layout": null
+    },
+    {
+      "id": "VXn38HEltSRx",
+      "title": [
+        "Any additional information or comments?"
+      ],
+      "description": [],
+      "kind": "long_text",
+      "validations": {},
+      "properties": {},
+      "layout": null
+    },
+    {
+      "id": "UmlaBQ6CjsJd",
+      "title": [
+        "Thank you for your proposal!"
+      ],
+      "description": [
+        "We appreciate you taking the time to share your ideas with us. We will review your proposal and get back to you as soon as possible."
+      ],
+      "kind": "thank_you",
+      "validations": null,
+      "properties": null,
+      "layout": null
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#020617",
+      "answerTextColor": "#0445AF",
+      "buttonBackground": "#020617",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff"
+    }
+  }
+}

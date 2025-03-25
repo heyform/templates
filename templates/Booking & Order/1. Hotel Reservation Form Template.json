@@ -1,0 +1,340 @@
+{
+  "thumbnailUrl": "assets/thumbnails/c5a47b18-f3e6-59d7-9b98-b6f07e42ff4b.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Hotel Reservation Form Template",
+  "fields": [
+    {
+      "id": "zZpwnZM6gF2l",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "KcM3blKNhoOd",
+      "kind": "text"
+    },
+    {
+      "id": "b8E5Vpm8Fr4o",
+      "title": "E-mail",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "4dn7yFe2PbpX",
+      "kind": "text"
+    },
+    {
+      "id": "PGy0VACLOFxm",
+      "title": "Phone Number",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "zpKQH0U5kY61",
+      "kind": "text"
+    },
+    {
+      "id": "sczV5IW6ykqh",
+      "title": "Room Type",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "QKOVLFPPy8b0",
+            "label": "Standard Room (1-2 People)",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "4umFmNZj124E",
+            "label": "Family Room (1-4 People)",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "OYHXNVZ4V70t",
+            "label": "Deluxe Room (1-3 People)",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "RiQWYNAqp7Ms",
+            "label": "Mix Dorm Room (6 People)"
+          },
+          {
+            "id": "Zz9vBRwBXIzE",
+            "label": "Female Dorm Room (6 People)"
+          },
+          {
+            "id": "YANGrtiMDn2Q",
+            "label": "Male Dorm Room (6 People)"
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "2cbxTp8zVAAI",
+      "kind": "text"
+    },
+    {
+      "id": "Xf3PrkyrVMFy",
+      "title": " Number of Guests",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "CddhDJzMlYCZ",
+      "kind": "text"
+    },
+    {
+      "id": "sWRndAF0WulH",
+      "title": " Arrival - Date/Time ",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "score": null
+      }
+    },
+    {
+      "id": "pm5rEnKBQjzu",
+      "kind": "text"
+    },
+    {
+      "id": "uw74SrNTUvNy",
+      "title": " Departure - Date/Time ",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "score": null
+      }
+    },
+    {
+      "id": "58aYHunPDhrB",
+      "kind": "text"
+    },
+    {
+      "id": "OLEXgMAuOr3i",
+      "title": "Free Pickup",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "vzTZiwwzSJKb",
+            "label": "Yes"
+          },
+          {
+            "id": "PjwxOmAk07wJ",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4e2H272KCKJ",
+      "kind": "text"
+    },
+    {
+      "id": "m0uurdm0qANU",
+      "title": "Flight Number",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "BVyK7RjZPlJt",
+      "kind": "text"
+    },
+    {
+      "id": "z7goaKPNzMS5",
+      "title": "Special Requests",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "IMS46tPGqqhD",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#ffffff",
+      "answerTextColor": "#ffffff",
+      "buttonBackground": "#ffffff",
+      "buttonTextColor": "#000000",
+      "backgroundColor": "#000000",
+      "backgroundImage": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHw1fHxob3RlbHxlbnwwfHx8fDE2NTA3ODI1Njg&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": -73
+    }
+  }
+}

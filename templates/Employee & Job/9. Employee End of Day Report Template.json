@@ -1,0 +1,171 @@
+{
+  "thumbnailUrl": "assets/thumbnails/6424a423-e794-51ff-b17f-837ef09e7818.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Employee End of Day Report Template",
+  "fields": [
+    {
+      "id": "qxeVX3bUmPlm",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "mHCVAeCdHDDO",
+      "kind": "text"
+    },
+    {
+      "id": "BsD1gXnO8aiq",
+      "title": "Title",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "crMNP5n1VtWE",
+      "kind": "text"
+    },
+    {
+      "id": "p4mW6RtFxV6i",
+      "title": "Department",
+      "kind": "dropdown",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "Q4YiyGjUIkxw",
+            "label": "Marketing"
+          },
+          {
+            "id": "ej8p0Bma2uAU",
+            "label": "Sales"
+          },
+          {
+            "id": "aIPQD7oSo75S",
+            "label": "HR"
+          },
+          {
+            "id": "6LfgqWwlPvdk",
+            "label": "Finance"
+          },
+          {
+            "id": "AG4dE6zRvtKn",
+            "label": "Product"
+          },
+          {
+            "id": "RZUWSS2O6Oi1",
+            "label": "Mobile"
+          }
+        ]
+      }
+    },
+    {
+      "id": "XWat8JOk5BA2",
+      "kind": "text"
+    },
+    {
+      "id": "5p3vKQHZIYom",
+      "title": "Date of report",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "Zd4JNp944RSB",
+      "kind": "text"
+    },
+    {
+      "id": "5DneVe4BJscD",
+      "title": "Task Completed",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "W5rYC1L1mCu2",
+      "kind": "text"
+    },
+    {
+      "id": "xFaCLaPCgtWf",
+      "title": "Task Progress",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "39aNdUVxPvky",
+      "kind": "text"
+    },
+    {
+      "id": "juuOmTSlgYQT",
+      "title": "Upload Files",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "RKcocOjefdF2",
+      "kind": "text"
+    },
+    {
+      "id": "enjo7Eah1qQG",
+      "title": "Daily Report Summary",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "fULfxLas4yEx",
+      "kind": "text"
+    },
+    {
+      "id": "0WZ4I8AIIEqm",
+      "title": "Rate Your Productivity",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "4I8mwQ3tcgEh",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1648298588772-9b77ccef5c25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHw1ODU3fHxoZCUyMHdhbGxwYXBlcnN8ZW58MHx8fHwxNjUwNzgzOTI5&ixlib=rb-1.2.1&q=80&w=1080",
+      "backgroundBrightness": 43
+    }
+  }
+}

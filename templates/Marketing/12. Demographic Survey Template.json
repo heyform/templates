@@ -1,0 +1,288 @@
+{
+  "thumbnailUrl": "assets/thumbnails/0218c671-d335-5268-bd02-ac5d94bb6cbb.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Demographic Survey Template",
+  "fields": [
+    {
+      "id": "Wj9Sx6ksiOda",
+      "title": "Gender",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "L6APTAlluoNd",
+            "label": "Male"
+          },
+          {
+            "id": "Q5iCRUQpxA3U",
+            "label": "Female"
+          },
+          {
+            "id": "d1uAu52N5fh1",
+            "label": "Other"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1SQhtBew8Avz",
+      "kind": "text"
+    },
+    {
+      "id": "S4PPmi8oI0Lm",
+      "title": "Age",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "kVjS3VK5fDHX",
+            "label": "0 - 17"
+          },
+          {
+            "id": "7BvNYQkcByRF",
+            "label": "18 - 24"
+          },
+          {
+            "id": "9WQmkMzpL8St",
+            "label": "25 - 34"
+          },
+          {
+            "id": "w1W6frpPWvFx",
+            "label": "35 - 44"
+          },
+          {
+            "id": "b6MTLJwiD4kH",
+            "label": "45 - 54"
+          },
+          {
+            "id": "p3RDEsbV77Xz",
+            "label": "55 - 64"
+          },
+          {
+            "id": "qguG2aSip2vU",
+            "label": "65 - 74"
+          },
+          {
+            "id": "SVzRro4btUx8",
+            "label": "75 or more"
+          }
+        ]
+      }
+    },
+    {
+      "id": "NvpL8hix89lz",
+      "kind": "text"
+    },
+    {
+      "id": "YGfYCy0tHXNf",
+      "title": "Ethnicity",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "VVFMqi2BaMF4",
+            "label": "White"
+          },
+          {
+            "id": "zvGxNd5r9x69",
+            "label": "Asian"
+          },
+          {
+            "id": "WRamxw9xtQZe",
+            "label": "American Indian"
+          },
+          {
+            "id": "oEaCjYm0NfRU",
+            "label": "Asian"
+          },
+          {
+            "id": "Mh16qbmchAwv",
+            "label": "Black or African American"
+          },
+          {
+            "id": "IFPPjRJRjT0q",
+            "label": "Middle Eastern or North African"
+          },
+          {
+            "id": "9yt5EQS8olA9",
+            "label": "Hispanic Latino or Spanish Origin"
+          },
+          {
+            "id": "MZeArm5brYBm",
+            "label": "Native Hawaiian or Other Pacific Islander"
+          },
+          {
+            "id": "oC3uBLrsI9HQ",
+            "label": "Other"
+          }
+        ]
+      }
+    },
+    {
+      "id": "xaszd5FMnGvC",
+      "kind": "text"
+    },
+    {
+      "id": "f8ahgAqO8Zld",
+      "title": "Current Location",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "kyQbuL2xAzvT",
+      "kind": "text"
+    },
+    {
+      "id": "fnXcu4VUWswm",
+      "title": "Education",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9cPiIw0X0c0K",
+      "kind": "text"
+    },
+    {
+      "id": "GEFHa2BUfEp5",
+      "title": "Employment",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "xyZH2fAAcVC1",
+      "kind": "text"
+    },
+    {
+      "id": "jKrFGT6I2Rho",
+      "title": "Household Income",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9Q42glyDj12Z",
+      "kind": "text"
+    },
+    {
+      "id": "ZxnLrp2bWk3y",
+      "title": "Marital Status",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "tdRgldbo6nQT",
+            "label": "Single"
+          },
+          {
+            "id": "Q7zZBPL1PSPx",
+            "label": "Married"
+          },
+          {
+            "id": "Rc3FObdeZxas",
+            "label": "Divorced"
+          },
+          {
+            "id": "38FqCvIcUK5F",
+            "label": "Widowed"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ymSj9gXmns8",
+      "kind": "text"
+    },
+    {
+      "id": "VQ4MVZv3SMxA",
+      "title": "Interests",
+      "kind": "dropdown",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "BDhQ9QEFx5BV",
+            "label": "Business"
+          },
+          {
+            "id": "0js98g7usv9c",
+            "label": "Education"
+          },
+          {
+            "id": "HfLTx5rRGfv5",
+            "label": "Healthcare"
+          },
+          {
+            "id": "s3er4TmMyVOT",
+            "label": "Web development & design"
+          },
+          {
+            "id": "YShM1kNMQvBV",
+            "label": "Marketing"
+          },
+          {
+            "id": "mQkQbjmlYtft",
+            "label": "Advertising"
+          },
+          {
+            "id": "5Wfs5PUQ6ZOv",
+            "label": "SEO"
+          },
+          {
+            "id": "AniGaFsfslff",
+            "label": "Social Media"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ym1dLd283f5c",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1495216875107-c6c043eb703f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxN3x8cGVvcGxlfGVufDB8fHx8MTY1MDc4Mjk1NA&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 12
+    }
+  }
+}

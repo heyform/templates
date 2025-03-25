@@ -1,0 +1,314 @@
+{
+  "thumbnailUrl": "assets/thumbnails/56007e39-cfa9-5272-b449-9c8c43daa977.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Maintenance Request Form Template",
+  "fields": [
+    {
+      "id": "BdZRBYyuvzoU",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ZnIu0vDWEB24",
+      "kind": "text"
+    },
+    {
+      "id": "54VO3gg4xj9X",
+      "title": "Email Address",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ORKswRla8MpF",
+      "kind": "text"
+    },
+    {
+      "id": "B16Qu20VWoFh",
+      "title": "Address",
+      "description": null,
+      "kind": "address",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "qAh8bFAHt3iW",
+      "kind": "text"
+    },
+    {
+      "id": "P1jFWFRtiM4j",
+      "title": "Type of request",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "xFHY21pyB3xx",
+            "label": "Common area",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "6xyZs5eWVf17",
+            "label": "Apartment",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "2SsqaZiTOAbs",
+            "label": "HVAC",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "BGqhZsqb5U4G",
+            "label": "Plumbing",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Lo9RCFO0WwLA",
+            "label": "Electrical",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "SGs5JB6ShpLQ",
+            "label": "Other",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "4i8H7hXqxqD6",
+      "kind": "text"
+    },
+    {
+      "id": "wwswZlHHSLfV",
+      "title": "Urgency",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "uZxHOayFJzea",
+            "label": "High",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "bvk6wKNSmcqP",
+            "label": "Medium",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "y1Jvev0eD6rv",
+            "label": "Low",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "30K6ibvSsEjc",
+      "kind": "text"
+    },
+    {
+      "id": "rLceUG3HZrP0",
+      "title": "Details",
+      "description": null,
+      "kind": "paragraph",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "VSWqfzT5tL3d",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#292a2c",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1534398079543-7ae6d016b86a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHw5fHxyZXBhaXJ8ZW58MHx8fHwxNjUxMDIyOTQ4&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 55
+    }
+  }
+}

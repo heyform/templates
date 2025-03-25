@@ -1,0 +1,192 @@
+{
+  "thumbnailUrl": "assets/thumbnails/e5c1b717-d978-519e-8323-819ad229124c.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Invoicing Form Template",
+  "fields": [
+    {
+      "id": "H5tsFW18ixvV",
+      "title": "Company",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "VaPQgRMdNbaK",
+      "kind": "text"
+    },
+    {
+      "id": "nMIQJGRNoSGF",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "HSMcrCuHaSPn",
+      "kind": "text"
+    },
+    {
+      "id": "IMN7XgsREjCb",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "84yVCVuP9HOf",
+      "kind": "text"
+    },
+    {
+      "id": "Sqj2hg58L74f",
+      "title": "Phone Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "88O21rQ1wTMF",
+      "kind": "text"
+    },
+    {
+      "id": "Nq7yLm1Asz1T",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "7ZLZLSaqW7SE",
+      "kind": "text"
+    },
+    {
+      "id": "bIjtk7rREDev",
+      "title": "Payment Amount",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "R3tnZb3iXWjY",
+      "kind": "text"
+    },
+    {
+      "id": "VUByhC70bnc6",
+      "title": "Bank Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "v6m3JhxGI9Ec",
+      "kind": "text"
+    },
+    {
+      "id": "1PUNZPf2YPTG",
+      "title": "Bank Account Number",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "HyRJSSiXfPar",
+      "kind": "text"
+    },
+    {
+      "id": "D8QiLqcPBpS8",
+      "title": "Bank IFSC Code",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "WcqfOXVT09pT",
+      "kind": "text"
+    },
+    {
+      "id": "e8AQvUunszsm",
+      "title": "PAN / Tax ID",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "8LB9wajCOU4d",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#18468f",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwyfHxpbnZvaWNlfGVufDB8fHx8MTY1MDgxMzY0NA&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 64
+    }
+  }
+}

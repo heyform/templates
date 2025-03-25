@@ -1,0 +1,819 @@
+{
+  "thumbnailUrl": "assets/thumbnails/2063270b-77a3-5deb-af3b-4b9b16d92b8d.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Online Quiz Template",
+  "fields": [
+    {
+      "id": "qUsTpHqH9da2",
+      "title": "Full name of the student",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "nLrP3Y6Ke3xg",
+      "kind": "text"
+    },
+    {
+      "id": "DLRXctghiJVj",
+      "title": "Class of the student",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "1578JoFgsFjE",
+      "kind": "text"
+    },
+    {
+      "id": "iMtInSpDPn3Z",
+      "title": "Student ID",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "UYLe2QqqwVS6",
+      "kind": "text"
+    },
+    {
+      "id": "vbcDRupuRPC9",
+      "title": "Grand Central Terminal, Park Avenue, New York is the world's",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "ZvoSPxrXcaof",
+            "label": "largest railway station",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "BDkwNYXAVPYE",
+            "label": "highest railway station",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "OouUKrYfVHEk",
+            "label": "longest railway station",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "LFklnjHPzEbS",
+            "label": "None of the above",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "aIpSeMEreTlf",
+      "kind": "text"
+    },
+    {
+      "id": "RGJHbFqME4Zw",
+      "title": "Entomology is the science that studies",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "jDNvW6UWONe6",
+            "label": "Behavior of human beings",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "erg8QofB5a5s",
+            "label": "Insects",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "KmWkb3b5bmEM",
+            "label": "The origin and history of technical Science",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Bx8RRjyacG6x",
+            "label": "The formation of rocks",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "VUuN6dmXWnSj",
+      "kind": "text"
+    },
+    {
+      "id": "R5lFEaOK0aaE",
+      "title": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "qfDgKNFCkFGZ",
+            "label": "Asia",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "7TLQywAHN0lU",
+            "label": "Africa",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "emaod7gpqGR4",
+            "label": "Europe",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "pWWNi96QBSRv",
+            "label": "Australia",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "gdPsIvofEo34",
+      "kind": "text"
+    },
+    {
+      "id": "OhIKOaSiz7dU",
+      "title": "Identify the correct Image of Freedom Fighter",
+      "description": null,
+      "kind": "picture_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "z5hooRqDn71u",
+            "label": "Choice 1",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "7iibe5Apkmvb",
+            "label": "Choice 2",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "I7JYzkRNpCUg",
+            "label": "Choice 3",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "DGD02NiQz8si",
+            "label": "Choice 4",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "JxzNhUOLrYKy",
+            "label": "Choice 5",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "mwSJIyV0yfxq",
+      "kind": "text"
+    },
+    {
+      "id": "p136v9Ljfrc4",
+      "title": "Hitler party which came into power in 1933 is known as",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "9kFvw2TI0wms",
+            "label": "Labour Party",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "iBXWFwTnGwnl",
+            "label": "Nazi Party",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "g37QydY2NhTV",
+            "label": "Democratic Party",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zpWy3d10g8FD",
+            "label": "Ku-Klux-Klan",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "XHKyLsksvbX1",
+      "kind": "text"
+    },
+    {
+      "id": "qHYCGNz8frLn",
+      "title": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "9kFvw2TI0wms",
+            "label": "120m",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "iBXWFwTnGwnl",
+            "label": "180m",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "g37QydY2NhTV",
+            "label": "324m",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zpWy3d10g8FD",
+            "label": "150m",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "YK2wgvFwysjL",
+      "kind": "text"
+    },
+    {
+      "id": "y895zwJc1z3A",
+      "title": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "9kFvw2TI0wms",
+            "label": "45km/hr",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "iBXWFwTnGwnl",
+            "label": "50km/hr",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "g37QydY2NhTV",
+            "label": "54km/hr",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zpWy3d10g8FD",
+            "label": "55km/hr",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "HvZGIg2LvqRm",
+      "kind": "text"
+    },
+    {
+      "id": "JUkgV29ih87Z",
+      "title": "A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "9kFvw2TI0wms",
+            "label": "7",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "iBXWFwTnGwnl",
+            "label": "8",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "g37QydY2NhTV",
+            "label": "9",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zpWy3d10g8FD",
+            "label": "10",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "OepRqbCeYkS7",
+            "label": "11",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "MNV4qR7aLLIv",
+      "kind": "text"
+    },
+    {
+      "id": "hhnJ7REDBhN3",
+      "title": "What was the day of the week on 28th May, 2006?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "9kFvw2TI0wms",
+            "label": "Thursday ",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "iBXWFwTnGwnl",
+            "label": "Friday",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "g37QydY2NhTV",
+            "label": "Saturday",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zpWy3d10g8FD",
+            "label": "Sunday",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "8cnZagO5G0Ki",
+      "kind": "text"
+    },
+    {
+      "id": "fnN1kb1OF3sF",
+      "title": "In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "9kFvw2TI0wms",
+            "label": "63",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "iBXWFwTnGwnl",
+            "label": "90",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "g37QydY2NhTV",
+            "label": "126",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zpWy3d10g8FD",
+            "label": "45",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zWAkbMgItkhP",
+            "label": "135",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "RVDOYrIT5Au5",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/NBSxZ0yNH0ian3aUoz4da_Online%20quiz.jpeg",
+      "backgroundBrightness": 91
+    }
+  }
+}

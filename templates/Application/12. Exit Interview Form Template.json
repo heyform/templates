@@ -1,0 +1,177 @@
+{
+  "thumbnailUrl": "assets/thumbnails/f85b23bb-59d5-5a0e-8d0a-a55bc5dfce6b.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Exit Interview Form Template",
+  "fields": [
+    {
+      "id": "nHiGpVPK8cLR",
+      "title": "Employee Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "DSTTaGm8fLB2",
+      "kind": "text"
+    },
+    {
+      "id": "8nxu6GzWbBfg",
+      "title": "Department",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "qYTDA4mHgXZt",
+      "kind": "text"
+    },
+    {
+      "id": "2i0l0jvnZ1vh",
+      "title": "Designation",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "8K0DsB2dNGBC",
+      "kind": "text"
+    },
+    {
+      "id": "QMH86epmkjqI",
+      "title": "Contact Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "OtsFMndT9Jf8",
+      "kind": "text"
+    },
+    {
+      "id": "LZeDO4fX2OMG",
+      "title": "Reason for leaving",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "XsTmD2QSRedC",
+      "kind": "text"
+    },
+    {
+      "id": "h0WKPPl9EgSV",
+      "title": "Have you accepted any other offer?",
+      "kind": "yes_no",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "choices": [
+          {
+            "id": "ZFTdnTFjTDdR",
+            "label": "Yes"
+          },
+          {
+            "id": "AOVhv2mJov3K",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnrLQ8o0nRTL",
+      "kind": "text"
+    },
+    {
+      "id": "a5bOW4vebhat",
+      "title": "What prompted you to seek another job?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9WBUsJreVAOB",
+      "kind": "text"
+    },
+    {
+      "id": "gqsqABT0siR9",
+      "title": "When did you begin searching for another job?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "3fBqy7Cdrh7w",
+      "kind": "text"
+    },
+    {
+      "id": "8lE9tyNIqlrI",
+      "title": "What makes the new job more attractive than your current position?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "F0w2sxe7UQYt",
+      "kind": "text"
+    },
+    {
+      "id": "gStl3WE56a7G",
+      "title": "What made you decide that your career goals could be better achieved elsewhere?",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "vMdxKZEk4Edt",
+      "kind": "text"
+    },
+    {
+      "id": "RCDmEAtMeWwj",
+      "title": "Rate your Job responsibility satisfaction ",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10
+      }
+    },
+    {
+      "id": "LgD5d497Z3vM",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/OFsxAuKeBSCX8MUiClNoG_Exit%20interview%201.jpeg",
+      "backgroundBrightness": 75
+    }
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "thumbnailUrl": "assets/thumbnails/31be8b7a-a99d-5825-8b61-4da467c0d8ee.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Student Daily Health Status Screening Questionnaire Template",
+  "fields": [
+    {
+      "id": "iTI0x3VgmGci",
+      "title": "Student's Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "TH2laHtBxA5S",
+      "kind": "text"
+    },
+    {
+      "id": "Add2X1KUednz",
+      "title": "Father/Guardian Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "LesoGjHMaa2T",
+      "kind": "text"
+    },
+    {
+      "id": "GQmyie43UWIj",
+      "title": "Have you knowingly been in close or proximate contact in the past 14- days with anyone who has tested positive through a diagnostic test for COVID-19?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "ncmyCHgCzLqj",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "fDESklxGle7c",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "FIbv9xeqHiS9",
+      "kind": "text"
+    },
+    {
+      "id": "QM3hom0XlzLY",
+      "title": "Have you tested positive through a diagnostic test for COVID-19 in the past 14-days  ",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "TFOkZZ6IpmJg",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "iNoZ051tLusq",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "6zIIDuJ6hY4H",
+      "kind": "text"
+    },
+    {
+      "id": "d5Ijc9rEBbXS",
+      "title": "Are you experiencing any symptoms of COVID-19? Check all that apply-",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "1qjcj6aMKdUN",
+            "label": "Fever >100°F or chills"
+          },
+          {
+            "id": "Z06inGonbDGt",
+            "label": "Cough"
+          },
+          {
+            "id": "8vzzrLY2HNCr",
+            "label": "Shortness of breath or difficulty breathing"
+          },
+          {
+            "id": "utyDXqLRKcR2",
+            "label": "Fatigue"
+          },
+          {
+            "id": "93EWromh2oLC",
+            "label": "Muscle or body aches"
+          },
+          {
+            "id": "XwPFuanXRbdF",
+            "label": "Headache"
+          },
+          {
+            "id": "RnU967u4B5lK",
+            "label": "Loss of taste or smell"
+          },
+          {
+            "id": "KaVdWuj9YByD",
+            "label": "Sore throat"
+          },
+          {
+            "id": "0scpspIde633",
+            "label": "Congestion or runny nose"
+          },
+          {
+            "id": "9jaUnyMvtYxn",
+            "label": "Nausea or vomiting"
+          },
+          {
+            "id": "6auxsmJ0FuyX",
+            "label": "Diarrhea"
+          }
+        ]
+      }
+    },
+    {
+      "id": "JyxAW2IKK3L5",
+      "kind": "text"
+    },
+    {
+      "id": "zXUzHGBhoySV",
+      "title": "Have you traveled internationally or from a state with widespread community transmission of COVID-19 per New York State Travel Advisory in the past 14-days?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "eH7pgFssLheo",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "cSEmVYh5CUa8",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ez84YDq2Yd0z",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/vib1hprtArnVcgSOyYlkg_Student%20daily%20health%20status%20screening.jpeg",
+      "backgroundBrightness": 86
+    }
+  }
+}

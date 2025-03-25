@@ -1,0 +1,129 @@
+{
+  "thumbnailUrl": "assets/thumbnails/1ab39f00-391b-5abc-b6a6-5221787f36e8.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Subsidy Application Form Template",
+  "fields": [
+    {
+      "id": "cq1NOD3Jl6do",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "55s451Pziqbf",
+      "kind": "text"
+    },
+    {
+      "id": "qS362k1AYipG",
+      "title": "Contact",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "5OpMXkaPMZEe",
+      "kind": "text"
+    },
+    {
+      "id": "m7epgsz3PYaU",
+      "title": "Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "C06So0BYqUii",
+      "kind": "text"
+    },
+    {
+      "id": "dzN0ZAzHOdoo",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "65uvr7xCqd3L",
+      "kind": "text"
+    },
+    {
+      "id": "1UEA2ypGCRUC",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "BfQAUlJEZnEr",
+      "kind": "text"
+    },
+    {
+      "id": "b5vUXE65ISdG",
+      "title": "ID Proof",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "DYRL8xLTQDwA",
+      "kind": "text"
+    },
+    {
+      "id": "SPkGqESTC5sS",
+      "title": "Copy Of The Educational Certificates ",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "gbTMbhMWM9Sf",
+      "kind": "text"
+    },
+    {
+      "id": "Glh7VHyFg2pR",
+      "title": "Details Of The Applicant",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "riWvqrOcg0rM",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#000",
+      "answerTextColor": "#0445AF",
+      "buttonBackground": "#0445AF",
+      "buttonTextColor": "#fff",
+      "backgroundColor": "#fff",
+      "backgroundImage": null,
+      "backgroundBrightness": 91
+    }
+  }
+}

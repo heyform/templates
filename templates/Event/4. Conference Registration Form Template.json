@@ -1,0 +1,322 @@
+{
+  "thumbnailUrl": "assets/thumbnails/05453c4d-6145-58af-806c-b1c87678b926.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Conference Registration Form Template",
+  "fields": [
+    {
+      "id": "C8iZk8HfofTf",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "hQqLhSAvWELr",
+      "kind": "text"
+    },
+    {
+      "id": "BQ7Lzs4pkPD5",
+      "title": "Email Address",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "vEwciYGPRCcs",
+      "kind": "text"
+    },
+    {
+      "id": "W8HsCPpK68Po",
+      "title": "Contact Number",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Zp87JxRWj6KL",
+      "kind": "text"
+    },
+    {
+      "id": "ZQtZH2eAJ916",
+      "title": "Is this your first time attending this conference?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "jKUv4T7rTz6F",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Hemr6CJ0yWGx",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "IX0EdvF1cUWK",
+      "kind": "text"
+    },
+    {
+      "id": "OHDArEXODYPE",
+      "title": "Preferred Time -",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "wlnuD5ZL7agf",
+            "label": "Event 1: 09.00 AM",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "kW20MmaSdLG2",
+            "label": "Event 2: 11.00 AM",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "X1vUwEiu0RyP",
+            "label": "Event 3: 02.00 PM",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Is72hh8gXJsV",
+            "label": "Event 4: 04.00 PM",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ofiKj3uLhgap",
+      "kind": "text"
+    },
+    {
+      "id": "xm8euQHtAGfd",
+      "title": " Please specify your method of payment -",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "OCr8Ufx4o441",
+            "label": "PayPal",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "N3EEnuPqC8bq",
+            "label": "Cash",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "8ErJ8WnnCr5C",
+            "label": "Bank Transfer",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "QsBm4WVR4ZoZ",
+            "label": "Cheque",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "3jUJLgvUZnHV",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#363940",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1542089363-bba089ffaa25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwyM3x8Q29uZmVyZW5jZSUyMFJlZ2lzdHJhdGlvbnxlbnwwfHx8fDE2NTA4NTM2MzY&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 53
+    }
+  }
+}

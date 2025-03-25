@@ -1,0 +1,216 @@
+{
+  "thumbnailUrl": "assets/thumbnails/6df6bdc9-9abb-568f-8cb9-884ab4a4f92a.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Leave Application Form Template",
+  "fields": [
+    {
+      "id": "DEOUBrWZp0W3",
+      "title": "Name of the applicant",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "6SswIcnnQaM3",
+      "kind": "text"
+    },
+    {
+      "id": "EtUhcEOYCSr1",
+      "title": "Departmant",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Jjr8hHL7e5Un",
+      "kind": "text"
+    },
+    {
+      "id": "Z4qroRcaAhVT",
+      "title": "Leave Type",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "rZ4s9lk7stVp",
+            "label": "Sick Leave",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "vO4WOrCNSn2x",
+            "label": "Casual Leave"
+          },
+          {
+            "id": "zGIvXBANbShd",
+            "label": "Emergency leave"
+          },
+          {
+            "id": "lVJyOVv5qZd0",
+            "label": "Compensate Off"
+          },
+          {
+            "id": "8KaSk3JYbLIf",
+            "label": "Annual Leave"
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "ZXEIwZ2YJ0sb",
+      "kind": "text"
+    },
+    {
+      "id": "amyRRPJ3g1co",
+      "title": "Date of request",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "score": null
+      }
+    },
+    {
+      "id": "d1CiMdCvJZSc",
+      "kind": "text"
+    },
+    {
+      "id": "RHwvNsAcDGQm",
+      "title": "Expected No of leave",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Q9VgMEj4CvWV",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1586282391129-76a6df230234?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxfHxhcHBsaWNhdGlvbnxlbnwwfHx8fDE2NTA3Nzk1NDU&ixlib=rb-1.2.1&q=80&w=1080",
+      "backgroundBrightness": 42
+    }
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "thumbnailUrl": "assets/thumbnails/5f6353f3-e945-5977-b866-3460ce1060cd.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Disease Symptoms Form Template",
+  "fields": [
+    {
+      "id": "CqfFGq05CQfW",
+      "title": "Full name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "UJc98H8s7Kbq",
+      "kind": "text"
+    },
+    {
+      "id": "sYiXMEYy2eO9",
+      "title": "Contact Number",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "zyKlpqlNHvTh",
+      "kind": "text"
+    },
+    {
+      "id": "nonTJwoAC4jI",
+      "title": "Age",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "aSBLNBk63Y2a",
+      "kind": "text"
+    },
+    {
+      "id": "bAMTNtpPpCzT",
+      "title": "On or about what date did the symptoms begin?",
+      "description": null,
+      "kind": "date",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": "YYYY-MM-DD",
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "tfea8fP680Ji",
+      "kind": "text"
+    },
+    {
+      "id": "KFFHJj2POnqh",
+      "title": "To your knowledge, have you had close contact with someone who has tested positive for COVID-19?",
+      "description": null,
+      "kind": "yes_no",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": [
+          {
+            "id": "s8KN3DNBqtGW",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "eIt7djtoKto8",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "jPUbLSCAvIJG",
+      "kind": "text"
+    },
+    {
+      "id": "FNnAzZKeHPfX",
+      "title": "Have you experienced any of these symptoms in the past 2 weeks? ",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "PvP4m7R9ymOn",
+            "label": "Headache",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "3KwIZoPv1urD",
+            "label": "Shortness of Breath",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "6Rr2G4RxFr4C",
+            "label": "Muscle Aches and Pains",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "M2FLsRLNbLlr",
+            "label": "Sore Throat",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "QE2ltdIoc7Ne",
+            "label": "Lost Sense of Taste/Smell",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "n5RtftFTDneW",
+            "label": " Sneezing",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "VfQTMugehrMm",
+            "label": "Nausea",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "jkapCOJW6wCR",
+            "label": "Fever (greater than 100.4 degrees)",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "9Upi3FX0rDi9",
+            "label": "Chills/Nigh Sweats",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "xjdn8fVpcsqf",
+            "label": "Runny Nose",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "gKF6qxPrqNRC",
+            "label": "Cough",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "UvdYV2UxtsIo",
+            "label": "Fatigue",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "lWmCUYP9te3F",
+            "label": "Diarrhea",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "wWRFP5fIGhgg",
+            "label": "Rash",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "TG5rJVcpb9yl",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#004e60",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/Quv4BmXLUnWG96oIKf8u9_disease%20syptom.jpg",
+      "backgroundBrightness": 89
+    }
+  }
+}

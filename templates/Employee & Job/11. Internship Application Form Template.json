@@ -1,0 +1,296 @@
+{
+  "thumbnailUrl": "assets/thumbnails/ef723c3a-5eae-5f9f-bf76-f9dc735bc081.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Internship Application Form Template",
+  "fields": [
+    {
+      "id": "qUsv0afQM1gM",
+      "title": "Candidate Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "KTKyiGFh5KwU",
+      "kind": "text"
+    },
+    {
+      "id": "dtz6SxHMBTiL",
+      "title": "Gender",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "ptGzU7AmN7Qb",
+            "label": "Male"
+          },
+          {
+            "id": "49TqJ1SujWe3",
+            "label": "Female"
+          },
+          {
+            "id": "YPxWtckIJRKP",
+            "label": "Other"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sXr8Vrrye52a",
+      "kind": "text"
+    },
+    {
+      "id": "GxoPOOjuDMEu",
+      "title": "Date of Birth",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "c8q1lZ98AN61",
+      "kind": "text"
+    },
+    {
+      "id": "UA33QGIVjpI7",
+      "title": "Nationality ",
+      "kind": "country_selector",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "075vSUFAFyC0",
+      "kind": "text"
+    },
+    {
+      "id": "X1WbLFaDTxeT",
+      "title": "Email ID",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "5ZOuNmD5njxV",
+      "kind": "text"
+    },
+    {
+      "id": "HqF6YPgdmLeM",
+      "title": "Contact Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "wy7CKaP1N1Bg",
+      "kind": "text"
+    },
+    {
+      "id": "5koRXmVH8yDt",
+      "title": "Alternative Contact Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "eNnSBaSXIJCM",
+      "kind": "text"
+    },
+    {
+      "id": "vAcyt5PHcVgq",
+      "title": "Permanent Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "DwERrWxxxyAn",
+      "kind": "text"
+    },
+    {
+      "id": "ZEY9qJu6naq5",
+      "title": "Higher Education",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "1m5DsntfFl5c",
+      "kind": "text"
+    },
+    {
+      "id": "gGN7PGiR7VhQ",
+      "title": "College Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "NBBlWKc3uS6H",
+      "kind": "text"
+    },
+    {
+      "id": "wcaSbGDj0b3p",
+      "title": "Stream / Department",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "GHVpRQsKZp8s",
+      "kind": "text"
+    },
+    {
+      "id": "7X2NE7iaPiTW",
+      "title": "Year of passout",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "g7nyeyjirdFU",
+      "kind": "text"
+    },
+    {
+      "id": "mONw3BjZnAKT",
+      "title": "GPA / Grade",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ptDv2MdU1823",
+      "kind": "text"
+    },
+    {
+      "id": "Pgx2J1UaC6C3",
+      "title": "Your Area of Interest",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "CZgzb59AtqfB",
+      "kind": "text"
+    },
+    {
+      "id": "g2ux0rJdAXqd",
+      "title": "College Advisor Name",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "fJYuURIMNYEd",
+      "kind": "text"
+    },
+    {
+      "id": "K9SJ7s3GFc19",
+      "title": "Advisor Contact Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "mTf6Xmi5yd46",
+      "kind": "text"
+    },
+    {
+      "id": "taZ1J8VSmrcN",
+      "title": "Why do you want to take part in our Internship Program? How does it fit into your personal, and future career goals?*",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "akIfssbNTyUT",
+      "kind": "text"
+    },
+    {
+      "id": "ZFFtPLhyOcJc",
+      "title": "What specific goals are you hoping to accomplish during your internship? Are there certain areas you would like to focus?*",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "Q4Aeg5wnKqX8",
+      "kind": "text"
+    },
+    {
+      "id": "fDtZP4Gtxlx2",
+      "title": "Upload Resume:",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "9T3WV22C4ovl",
+      "kind": "text"
+    },
+    {
+      "id": "BJPEy6g0y5WM",
+      "title": "Upload College reference letter",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "rB2ZEM3WwAxD",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1613918108466-292b78a8ef95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwzfHxpbnRlcm58ZW58MHx8fHwxNjUwNzgwMjc0&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": -1
+    }
+  }
+}

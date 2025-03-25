@@ -1,0 +1,406 @@
+{
+  "thumbnailUrl": "assets/thumbnails/f657f80d-09a0-5802-8dc9-eb45834dffbf.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Social Media Survey Template",
+  "fields": [
+    {
+      "id": "dEP7FKJeDskB",
+      "title": "Which of the following social networking sites do you have an account with? (Check all that apply)",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "tesslijCVpDY",
+            "label": "Facebook",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "YxIyn1ENyKIi",
+            "label": "LinkedIn",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "fKvR1FZwqBb4",
+            "label": "Twitter",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "pgiZLUxExUBJ",
+            "label": "Pinterest",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "RElXq7FFlQmU",
+            "label": "Telegram",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "njUEIvUdZxhL",
+            "label": "Myspace",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "toZU21wGvzPx",
+      "kind": "text"
+    },
+    {
+      "id": "WWnECWhA3l3o",
+      "title": "In a typical week, how likely are you active on social networking sites?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "xJFpnM3ctVVk",
+            "label": "Extremely active",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "r5Jpjb4dfBEo",
+            "label": "Very active",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "jOmgPH8tGyOR",
+            "label": "Moderately active",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "uZexbjAjWPKJ",
+            "label": "Slightly active",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "5kuvLUvrg7VD",
+            "label": "Not at all active",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "CUoS04djLG5c",
+      "kind": "text"
+    },
+    {
+      "id": "c6D467nHt949",
+      "title": "In a typical week, which of the following social networking sites do you use the most?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "kAidvvMm4byP",
+            "label": "Facebook",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "2L2RhTmoEPIk",
+            "label": "LinkedIn",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Mets0gaj8YXI",
+            "label": "Twitter",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "8AvctLp5mRpp",
+            "label": "Pinterest",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "yFSgtecdwrzV",
+            "label": "Telegram",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Uab9VyPmtL3B",
+            "label": "Myspace",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "5VBiJ0Gk70hO",
+      "kind": "text"
+    },
+    {
+      "id": "2wGRuVA7QIxM",
+      "title": "In a typical week, how much time you spent using social networking sites?",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "oOUTaAM0YSq7",
+      "kind": "text"
+    },
+    {
+      "id": "y9v0g6C5P63D",
+      "title": "If you could use only one of the following social networking services, which one would you choose?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "YQvp4mw3RnXw",
+            "label": "Facebook",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "zWCxpmpIIgHV",
+            "label": "LinkedIn",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "eE9MEosXxBCQ",
+            "label": "Twitter",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "dri2sJnTAWXN",
+            "label": "Pinterest",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "HN1dKgGmeeIT",
+            "label": "Telegram",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "cLqIcKmvNVSR",
+            "label": "Myspace",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "score": null
+      }
+    },
+    {
+      "id": "SC2V3sw9rgvA",
+      "kind": "text"
+    },
+    {
+      "id": "lAGyki3VSXcK",
+      "title": "About how many friends do you currently have on social networking sites?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "edgZVhaT3epY",
+      "kind": "text"
+    },
+    {
+      "id": "5lfLjM8KTwRz",
+      "title": "About how many of your friends on social networking sites have you met in person?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "KtR21dJXRkAg",
+            "label": "All of them"
+          },
+          {
+            "id": "0Bn4yeKsMM5i",
+            "label": "Most of them"
+          },
+          {
+            "id": "RfyI4h4SWfem",
+            "label": "Half of them"
+          },
+          {
+            "id": "XN1dXXJofBWb",
+            "label": "A few of them"
+          },
+          {
+            "id": "DKuwcQCVVTSw",
+            "label": "None of them"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IDc5kGJohozr",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwzfHxNZWRpYSUyMGJhY2tncm91bmR8ZW58MHx8fHwxNjUwNzg4MzM4&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 15
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "thumbnailUrl": "assets/thumbnails/8f05b18e-94e2-5040-9429-b54e2cb25d29.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Refund Request Form Template",
+  "fields": [
+    {
+      "id": "FrCZdtKt7tpu",
+      "title": "Your Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "1FTxrExYEg4Q",
+      "kind": "text"
+    },
+    {
+      "id": "neJNtgrAvtXL",
+      "title": "Contact Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "510Ig9AycaKj",
+      "kind": "text"
+    },
+    {
+      "id": "pkSfwnkqxj7r",
+      "title": "Email ID",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "pmdx4LusC3x3",
+      "kind": "text"
+    },
+    {
+      "id": "Ibgu2HGMgHLj",
+      "title": "Request Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "0oUEp3vteawi",
+      "kind": "text"
+    },
+    {
+      "id": "agX6QoJHnqM6",
+      "title": "Reason for Refund",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "PZd5QvrAW7JU",
+            "label": "Product doesn't work"
+          },
+          {
+            "id": "fEAnya5hqQKe",
+            "label": "Wrong Product Delivery"
+          },
+          {
+            "id": "MrGfiLxFK4kv",
+            "label": "Excessive Amount"
+          },
+          {
+            "id": "4ZaKLkubA7RG",
+            "label": "COVID-19"
+          }
+        ]
+      }
+    },
+    {
+      "id": "PEb5pKKUHMBE",
+      "kind": "text"
+    },
+    {
+      "id": "n9iYeTFFr0QT",
+      "title": "Refund amount you are requesting?",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "dmXvWxhVZmFC",
+      "kind": "text"
+    },
+    {
+      "id": "NSvNEO0NfzIS",
+      "title": "Form of payment used",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "c0Gja4E4MKnm",
+      "kind": "text"
+    },
+    {
+      "id": "piR4LF7N3JfP",
+      "title": "In voice details",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "HV5t4NpKhwGt",
+      "kind": "text"
+    },
+    {
+      "id": "A56dIiawCSkn",
+      "title": "Additional Notes / Feedback",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "ioXVO09O4Wop",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#c93d2a",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1494887205043-c5f291293cf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxfHxSZWZ1bmQlMjB8ZW58MHx8fHwxNjUwODUzMjQx&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 66
+    }
+  }
+}

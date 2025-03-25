@@ -1,0 +1,91 @@
+{
+  "thumbnailUrl": "assets/thumbnails/7761eb98-04dc-5e3a-868a-9c7882111a78.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Newsletter Subscription Form Template",
+  "fields": [
+    {
+      "id": "2EceooDe5SpE",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "KSHrR53NOdbH",
+      "kind": "text"
+    },
+    {
+      "id": "TnNKgbynVHeW",
+      "title": "Email ID",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "zMAj8xoeTs7y",
+      "kind": "text"
+    },
+    {
+      "id": "2fxzjPHjt3Xa",
+      "title": "Phone Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "hpGpu1yWHsWF",
+      "kind": "text"
+    },
+    {
+      "id": "94n6MOKFRJsI",
+      "title": "Do you accept our Privacy Policy?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "hlq8hHBCyPRe",
+            "label": "Yes"
+          },
+          {
+            "id": "TO83q4Ka4Wx7",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "95PexhxaPaVC",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://forms.b-cdn.net/forms/Newsletter%20Subscription.png",
+      "backgroundBrightness": 65
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "thumbnailUrl": "assets/thumbnails/5203d73d-09d6-559d-9fa8-0cb91ec919b0.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Bug Report Form Template",
+  "fields": [
+    {
+      "id": "f20dbQLGUwKI",
+      "title": "Submitted By",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "S1FdEN9XtzFF",
+      "kind": "text"
+    },
+    {
+      "id": "sEM0PpQzjque",
+      "title": "Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "m6glGnCaes2t",
+      "kind": "text"
+    },
+    {
+      "id": "pQXzB7XcXhFR",
+      "title": "Issue",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "VhGXcaWSBvvn",
+      "kind": "text"
+    },
+    {
+      "id": "35PDQFkK0A0C",
+      "title": "File Attachments",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "NVjiSgTSBmkM",
+      "kind": "text"
+    },
+    {
+      "id": "6LPEErZqBRY9",
+      "title": "Time of occurence",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "lZtjfD4n0aj9",
+      "kind": "text"
+    },
+    {
+      "id": "NJ8XSGuljLTT",
+      "title": "Exact URL",
+      "kind": "url",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "65BN2arRwERd",
+      "kind": "text"
+    },
+    {
+      "id": "4HyrMunmSdqS",
+      "title": "Build Version",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "QBr03El7Qmge",
+      "kind": "text"
+    },
+    {
+      "id": "NsfhDUT1gqJi",
+      "title": "Error message",
+      "kind": "long_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "SR0a7lT2e56f",
+      "kind": "text"
+    },
+    {
+      "id": "JUtjsQjFs8qh",
+      "title": "Frequency",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "SakxrV9QhLxl",
+            "label": "Everytime"
+          },
+          {
+            "id": "uTia031qSaLR",
+            "label": "Hardly Ever"
+          },
+          {
+            "id": "Bwtf932B0zqk",
+            "label": "Occasional"
+          },
+          {
+            "id": "Uyx9IgPUwilk",
+            "label": "Once"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jMYx5UmRZW6c",
+      "kind": "text"
+    },
+    {
+      "id": "mweEkAy3SlWG",
+      "title": "Priority",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "6ITvIxhKuNTO",
+            "label": "Critical"
+          },
+          {
+            "id": "Ug3PG2QV2Dgy",
+            "label": "High "
+          },
+          {
+            "id": "401ZTl9rXNNT",
+            "label": "Medium"
+          },
+          {
+            "id": "wNcZbH1MoQ8s",
+            "label": "Low"
+          }
+        ]
+      }
+    },
+    {
+      "id": "yza3zJvz4LTa",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#ffffff",
+      "answerTextColor": "#ffffff",
+      "buttonBackground": "#ffffff",
+      "buttonTextColor": "#000000",
+      "backgroundColor": "#000000",
+      "backgroundImage": "https://images.unsplash.com/photo-1581092162384-8987c1d64718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHw4fHxzb2Z0d2FyZSUyMGJ1Z3xlbnwwfHx8fDE2NTA3OTU2NzA&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": -64
+    }
+  }
+}

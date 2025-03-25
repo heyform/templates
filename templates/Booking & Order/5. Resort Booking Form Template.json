@@ -1,0 +1,142 @@
+{
+  "thumbnailUrl": "assets/thumbnails/89fffc91-41dc-581a-a353-9c886454d9c5.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Resort Booking Form Template",
+  "fields": [
+    {
+      "id": "IlCLRjQgxesa",
+      "title": "Full Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "lSABIqURCe6x",
+      "kind": "text"
+    },
+    {
+      "id": "Hj0w7s0Zg76Z",
+      "title": "Contact",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "lrMKhoCACi6t",
+      "kind": "text"
+    },
+    {
+      "id": "tFXPzbHcvW8q",
+      "title": "Booking Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "QLxHc3bD51ak",
+      "kind": "text"
+    },
+    {
+      "id": "FqlraGXGxqq1",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "L5ZWIRvKviVQ",
+      "kind": "text"
+    },
+    {
+      "id": "qnK1cMeB7Z3v",
+      "title": "Select The Package",
+      "kind": "dropdown",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "R4KYUXGhP5EW",
+            "label": "Single Room"
+          },
+          {
+            "id": "WXXFwL3GgR7h",
+            "label": "Double Room"
+          },
+          {
+            "id": "yYbxpfhQ1OQe",
+            "label": "Family Room"
+          },
+          {
+            "id": "gYOmwzEoCudw",
+            "label": "Group Room"
+          }
+        ]
+      }
+    },
+    {
+      "id": "uN4x3Q9CJSjt",
+      "kind": "text"
+    },
+    {
+      "id": "84ndyIHA2Ob1",
+      "title": "ID Details",
+      "kind": "file_upload",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "05jok13lSXBq",
+      "kind": "text"
+    },
+    {
+      "id": "gfWQWDee9nql",
+      "title": "Ratings",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "FF4bfT1HUaCV",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1586611292717-f828b167408c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwzfHxyZXNvcnR8ZW58MHx8fHwxNjUwNzg0OTA1&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 17
+    }
+  }
+}

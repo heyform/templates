@@ -1,0 +1,130 @@
+{
+  "thumbnailUrl": "assets/thumbnails/8f40815a-e6b6-5aa2-b112-9b90ce226179.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Account Closing Form Template",
+  "fields": [
+    {
+      "id": "1h1e18JVfatt",
+      "title": "Account Holder Name",
+      "kind": "full_name",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "t8b9ujSjXPfz",
+      "kind": "text"
+    },
+    {
+      "id": "PqXC9UJw1SNe",
+      "title": "Account Number",
+      "kind": "number",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "CYPuY9JO8vkX",
+      "kind": "text"
+    },
+    {
+      "id": "Gvm6AbaHMRxl",
+      "title": "Account Type",
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "Vs7SJDbTd8oo",
+            "label": "Savings "
+          },
+          {
+            "id": "dt2WxgPXblZf",
+            "label": "Current"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fiA4KMYkFdo9",
+      "kind": "text"
+    },
+    {
+      "id": "mYmHA8220xm7",
+      "title": "Address",
+      "kind": "address",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "RInNBpTO6AX1",
+      "kind": "text"
+    },
+    {
+      "id": "hQVNP8ZOcyP5",
+      "title": "Mobile Number",
+      "kind": "phone_number",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "defaultCountryCode": "US"
+      }
+    },
+    {
+      "id": "JGWRZTNNBIPt",
+      "kind": "text"
+    },
+    {
+      "id": "bDQioIQ1fOY8",
+      "title": "Email",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "wqX3I6v6ugg7",
+      "kind": "text"
+    },
+    {
+      "id": "VQxXQLRPRod7",
+      "title": "Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "bG8JDM3MGaAG",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Public Sans",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#b91e20",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1636115733952-eb81227bf70c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwxMXx8QWNjb3VudCUyMENsb3NpbmclMjB8ZW58MHx8fHwxNjUwODUzMDI3&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 71
+    }
+  }
+}

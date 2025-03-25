@@ -1,0 +1,660 @@
+{
+  "thumbnailUrl": "assets/thumbnails/a51736bb-07eb-511c-9ec8-84b73a830807.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Health And Safety Survey Template",
+  "fields": [
+    {
+      "id": "9de2fmcx03fB",
+      "title": "Full Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "2sppiOzSPttj",
+      "kind": "text"
+    },
+    {
+      "id": "aMHmBdvI6tXv",
+      "title": "Email Address",
+      "description": null,
+      "kind": "email",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Q67HmP1hgdKY",
+      "kind": "text"
+    },
+    {
+      "id": "GZnhpx0UONc7",
+      "title": "How long have you worked at UC?",
+      "description": null,
+      "kind": "number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "3wxRk8AFev3X",
+      "kind": "text"
+    },
+    {
+      "id": "Mmz0N8RZV0vx",
+      "title": "What campus do you work in?",
+      "description": null,
+      "kind": "short_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "un40H7MK2t4m",
+      "kind": "text"
+    },
+    {
+      "id": "JBZUVyPtMfH0",
+      "title": "What type of work setting best reflects the work you have performed at UC? (Please check all that apply.)",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "9cEJBwoLkBnT",
+            "label": "Lab (example: fume hood, work bench, biosafety cabinet)",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "hLQynScepPlL",
+            "label": "Office (example: computer workstation)",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "2ppCBaPARRO5",
+            "label": "Animal research/care",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "HLejaFN0xWDm",
+            "label": "Field work (example: physical work outdoors)",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "sCa0CfjF1ONY",
+            "label": "Machine shop",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "EoOX5iaF2egT",
+            "label": "Scene technician",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "Uo5VlYOf9VZp",
+            "label": "Computer technology",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "F14xRqyBuElR",
+            "label": "Archive/museum",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "dVNqcBRbbUgt",
+            "label": "Patient field study work",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "wJdMbdcsMw23",
+            "label": "Other (please specify)",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "OaW4whCB0xEt",
+      "kind": "text"
+    },
+    {
+      "id": "jVzfFtX3O4lx",
+      "title": "What types of hazards do you face on the job? (Please check all that apply.)",
+      "description": null,
+      "kind": "multiple_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": true,
+        "choices": [
+          {
+            "id": "W6wmvejDq7bQ",
+            "label": "Chemical",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "0MgC4jscsxm3",
+            "label": "Radiological",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "ajk1TUZ6yGhq",
+            "label": "Biological",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "vJ3swnPljt3j",
+            "label": "Ergonomic",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "T26QpZaFDwxk",
+            "label": "Other (please specify)",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "vKJLnmC8AliT",
+      "kind": "text"
+    },
+    {
+      "id": "3VcKB2GnwhOl",
+      "title": "6. Does your department have an Injury and Illness Prevention Program (IIPP)?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "0iPkKwE6pybr",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "atJfEZp7WsRM",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "QZb0MjdSxnKZ",
+            "label": "Don't Know",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "qxhi2eyi88GY",
+      "kind": "text"
+    },
+    {
+      "id": "xyGPNPQOquQN",
+      "title": "7. Have you had training in your department about safe and healthy work practices?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "HNzHJMy3BHPN",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "xPxn1kRpiTgE",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "NiDV7OdvtHsP",
+      "kind": "text"
+    },
+    {
+      "id": "H3FMKA6WEkYF",
+      "title": "8. Does your department have any safety meetings?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "XxjnU6UublJU",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "TmKTOSSRqvpN",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "R6jcxKl1bwA2",
+      "kind": "text"
+    },
+    {
+      "id": "qaeCaYnN1DK6",
+      "title": "Do you know who in your department to contact in case of an emergency?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "6pW6mNJRLQPs",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "rdhbhwnnBoD1",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "i1JDSr5va1TZ",
+      "kind": "text"
+    },
+    {
+      "id": "o2mIty795mNS",
+      "title": "Have you ever had any concerns about work hazards and safety?",
+      "description": null,
+      "kind": "single_choice",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "2Z5yhGoM1F19",
+            "label": "Yes",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          },
+          {
+            "id": "kF2BGb5UppBp",
+            "label": "No",
+            "image": null,
+            "score": null,
+            "isExpected": null
+          }
+        ],
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "dPfwxAfkkwSd",
+      "kind": "text"
+    },
+    {
+      "id": "bIIcgyKQ9Ixu",
+      "title": "Overall, do you have a positive or negative attitude around the way your department approaches safety? Feel free to expand with comments here.",
+      "description": null,
+      "kind": "long_text",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "7bNd3R5LY14m",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#3F3F46",
+      "answerTextColor": "#3F3F46",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1586739051907-cadac873075a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHw0fHxrZWVwfGVufDB8fHx8MTY1MDc3MjgzNw&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 69
+    }
+  }
+}

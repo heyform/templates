@@ -1,0 +1,344 @@
+{
+  "thumbnailUrl": "assets/thumbnails/46aca532-0d27-5dd6-adbb-e479eca24753.png",
+  "creator": {
+    "name": "HeyForm",
+    "avatarUrl": "assets/icons/heyform.png",
+    "url": "https://heyform.net"
+  },
+  "name": "Patient Feedback Form Template",
+  "fields": [
+    {
+      "id": "1HjpJ5EswcL7",
+      "title": "Patient Name",
+      "description": null,
+      "kind": "full_name",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": null,
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "9gUO5ABXlShO",
+      "kind": "text"
+    },
+    {
+      "id": "5SQ7r98jGTYL",
+      "title": "Gender",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "FWfl40EdiNUu",
+            "label": "Male"
+          },
+          {
+            "id": "PGhMB2SpFJLN",
+            "label": "Female"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXNYIFoQg8Tj",
+      "kind": "text"
+    },
+    {
+      "id": "bFP4CUVzMkHw",
+      "title": "Email Address",
+      "kind": "email",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "lNfmZfTUWcRI",
+      "kind": "text"
+    },
+    {
+      "id": "muFSC85uW512",
+      "title": "Contact Details",
+      "description": null,
+      "kind": "phone_number",
+      "validations": {
+        "required": true,
+        "min": null,
+        "max": null,
+        "matchExpected": null
+      },
+      "properties": {
+        "showButton": null,
+        "buttonText": null,
+        "hideMarks": null,
+        "allowOther": null,
+        "allowMultiple": null,
+        "choices": null,
+        "other": null,
+        "shape": null,
+        "total": null,
+        "leftLabel": null,
+        "centerLabel": null,
+        "rightLabel": null,
+        "start": null,
+        "defaultCountryCode": "US",
+        "currency": null,
+        "price": null,
+        "format": null,
+        "use12Hours": null,
+        "score": null
+      }
+    },
+    {
+      "id": "Ft7JYqd7UXcG",
+      "kind": "text"
+    },
+    {
+      "id": "MhXKalJJRnkH",
+      "title": "Consulting Date",
+      "kind": "date",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "format": "YYYY-MM-DD"
+      }
+    },
+    {
+      "id": "xqMHrWZNJXWg",
+      "kind": "text"
+    },
+    {
+      "id": "nCx9sWMFkr17",
+      "title": "Patient ID",
+      "kind": "short_text",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "NSJOBCK4DNCO",
+      "kind": "text"
+    },
+    {
+      "id": "eZ4VYUhWEsKL",
+      "title": "Do you have insurance plan?",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "7tfIcsG4nmm3",
+            "label": "Yes"
+          },
+          {
+            "id": "dZuXmek0GJv2",
+            "label": "No"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3yGZOEv9svlF",
+      "kind": "text"
+    },
+    {
+      "id": "cIAr5G2EkVtc",
+      "title": "How long did you need to wait for the appointment? (past the appointment time)",
+      "kind": "single_choice",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "allowMultiple": false,
+        "choices": [
+          {
+            "id": "zQrJO32ETesS",
+            "label": "Less than 30 mins"
+          },
+          {
+            "id": "xbStCgphXXwS",
+            "label": "30-60 Mins"
+          },
+          {
+            "id": "VBKMnKGNJ3AF",
+            "label": "More than 60 Mins"
+          },
+          {
+            "id": "blKFyvDqXpMr",
+            "label": "More than 120 Mins"
+          }
+        ]
+      }
+    },
+    {
+      "id": "s9zsUuAQMZl5",
+      "kind": "text"
+    },
+    {
+      "id": "rs2kcZlI3WFy",
+      "title": "How satisfied are you with the booking process?",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10
+      }
+    },
+    {
+      "id": "V1P3sGY65RMP",
+      "kind": "text"
+    },
+    {
+      "id": "wLDVqWYtjjKa",
+      "title": "How satisfied are you with check in and welcoming process?",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10
+      }
+    },
+    {
+      "id": "MZdZGp3AcLuQ",
+      "kind": "text"
+    },
+    {
+      "id": "21Zv96f33vcu",
+      "title": "Rate the professionalism of staff",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "n7pip0mFU38D",
+      "kind": "text"
+    },
+    {
+      "id": "WLRQ2j4eRSTq",
+      "title": "Rate the hygiene in the facility",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "D1gOPbXrXxCL",
+      "kind": "text"
+    },
+    {
+      "id": "RkNHmqUEWp02",
+      "title": "Rate the care provided by the doctor",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "xLRGVf9t9KjJ",
+      "kind": "text"
+    },
+    {
+      "id": "JpXiWaQxAo68",
+      "title": "Rate the kindness of medical personnel",
+      "kind": "rating",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "shape": "star",
+        "total": 5
+      }
+    },
+    {
+      "id": "vX7kRgwxUTJo",
+      "kind": "text"
+    },
+    {
+      "id": "akKYMQq2AEgb",
+      "title": "By considering overall experience with our facility, how likely would you recommend to your friends/family?",
+      "kind": "opinion_scale",
+      "validations": {
+        "required": true
+      },
+      "properties": {
+        "total": 10
+      }
+    },
+    {
+      "id": "KZOmeiKkEZK1",
+      "kind": "text"
+    },
+    {
+      "id": "jqKppZcznVJE",
+      "title": "Please share any comments/suggestions",
+      "kind": "paragraph",
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "id": "j1Fzd71pJCIC",
+      "kind": "text"
+    }
+  ],
+  "hiddenFields": [],
+  "translations": {},
+  "logics": [],
+  "variables": [],
+  "themeSettings": {
+    "theme": {
+      "fontFamily": "Inter",
+      "questionTextColor": "#000000",
+      "answerTextColor": "#000000",
+      "buttonBackground": "#000000",
+      "buttonTextColor": "#ffffff",
+      "backgroundColor": "#fff",
+      "backgroundImage": "https://images.unsplash.com/photo-1612537784037-898eb4583c35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDgyMDV8MHwxfHNlYXJjaHwyNHx8cGF0aWVudHxlbnwwfHx8fDE2NTA3OTQzODI&ixlib=rb-1.2.1&q=100&w=1920&h=1152",
+      "backgroundBrightness": 39
+    }
+  }
+}
