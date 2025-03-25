@@ -41,6 +41,7 @@ async function findJsonFiles(directory) {
 async function processJsonFiles() {
   const listAll = [];
   const listSummary = [];
+  const homeUrl = "https://heyform.github.io/templates/";
 
   try {
     const templatesDir = path.resolve("./templates");
@@ -58,13 +59,18 @@ async function processJsonFiles() {
 
       const id = uuid(file.relativePath);
 
-      data.thumbnailUrl = `https://heyform.github.io/templates/` + data.thumbnailUrl
-      data.creator.avatarUrl = `https://heyform.github.io/templates/` + data.creator.avatarUrl
+      if (data.thumbnailUrl) {
+        data.thumbnailUrl = homeUrl + data.thumbnailUrl;
+      }
+
+      if (data.creator?.avatarUrl) {
+        data.creator.avatarUrl = homeUrl + data.creator.avatarUrl;
+      }
 
       const formJSON = {
         id,
         category: file.category,
-        ...data
+        ...data,
       };
 
       listAll.push(formJSON);
@@ -74,7 +80,7 @@ async function processJsonFiles() {
         category: file.category,
         thumbnailUrl: data.thumbnailUrl,
         creator: data.creator,
-      })
+      });
 
       // Write the JSON file to the dist directory
       await fs.writeFile(
@@ -108,7 +114,7 @@ async function processJsonFiles() {
 
           <h1>HeyForm Templates</h1>
           <ul style="display: flex; flex-wrap: wrap; gap: 20px;">
-            ${listSummary.map((item) => `<li style="width: 200px;"><a href="/templates/form/${item.id}.json">${item.thumbnailUrl ? `<img src="${item.thumbnailUrl}" style="aspect-ratio: 16 / 9; width: 200px;" />` : ''}${item.name}</a></li>`).join("\n")}
+            ${listSummary.map((item) => `<li style="width: 200px;"><a href="/templates/form/${item.id}.json">${item.thumbnailUrl ? `<img src="${item.thumbnailUrl}" style="aspect-ratio: 16 / 9; width: 200px;" />` : ""}${item.name}</a></li>`).join("\n")}
           </ul>
         </body>
       </html>
